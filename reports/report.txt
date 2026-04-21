@@ -1,29 +1,205 @@
-===== SCAN START Mon 20 Apr 2026 04:42:34 PM EDT =====
-[CHECK] . (755)
-[ALERT] World-writable: .
-[RESULT] . : 755 -> 755
-[CHECK] ./scanner.sh.save (644)
-[ALERT] World-writable: ./scanner.sh.save
-[RESULT] ./scanner.sh.save : 644 -> 644
-[CHECK] ./reports (755)
-[ALERT] World-writable: ./reports
-[RESULT] ./reports : 755 -> 755
-[CHECK] ./reports/report.txt (664)
-[ALERT] World-writable: ./reports/report.txt
-[MISMATCH FILE] ./reports/report.txt (664 != 644)
-[RESULT] ./reports/report.txt : 664 -> 644
-[CHECK] ./logs (755)
-[ALERT] World-writable: ./logs
-[RESULT] ./logs : 755 -> 755
-[CHECK] ./logs/changes.log (664)
-[ALERT] World-writable: ./logs/changes.log
-[MISMATCH FILE] ./logs/changes.log (664 != 644)
-[RESULT] ./logs/changes.log : 664 -> 644
-[CHECK] ./scanner.sh (755)
-[ALERT] World-writable: ./scanner.sh
+===== SCAN START Tue 21 Apr 2026 07:03:57 PM EDT =====
+[BEFORE] . : 755
+[AFTER]  . : 755
+-----------------------------
+[BEFORE] ./scanner.sh.save : 644
+[AFTER]  ./scanner.sh.save : 644
+-----------------------------
+[BEFORE] ./reports : 755
+[AFTER]  ./reports : 755
+-----------------------------
+[BEFORE] ./reports/report.txt : 644
+[AFTER]  ./reports/report.txt : 644
+-----------------------------
+[BEFORE] ./logs : 755
+[AFTER]  ./logs : 755
+-----------------------------
+[BEFORE] ./logs/changes.log : 644
+[AFTER]  ./logs/changes.log : 644
+-----------------------------
+[BEFORE] ./scanner.sh : 755
 [MISMATCH FILE] ./scanner.sh (755 != 644)
-[RESULT] ./scanner.sh : 755 -> 644
-[CHECK] ./policy.json (644)
-[ALERT] World-writable: ./policy.json
-[RESULT] ./policy.json : 644 -> 644
-===== SCAN END Mon 20 Apr 2026 04:42:35 PM EDT =====
+[AFTER]  ./scanner.sh : 755
+-----------------------------
+[BEFORE] ./policy.json : 644
+[AFTER]  ./policy.json : 644
+-----------------------------
+[BEFORE] ./.git : 755
+[AFTER]  ./.git : 755
+-----------------------------
+[BEFORE] ./.git/objects : 755
+[AFTER]  ./.git/objects : 755
+-----------------------------
+[BEFORE] ./.git/objects/25 : 755
+[AFTER]  ./.git/objects/25 : 755
+-----------------------------
+[BEFORE] ./.git/objects/25/239c4aaa9e0fcf2cd6e563312037a9e713e33d : 644
+[AFTER]  ./.git/objects/25/239c4aaa9e0fcf2cd6e563312037a9e713e33d : 644
+-----------------------------
+[BEFORE] ./.git/objects/98 : 755
+[AFTER]  ./.git/objects/98 : 755
+-----------------------------
+[BEFORE] ./.git/objects/98/4d2b1b8fadfe0bba99e53ec92aface81b2f5cf : 644
+[AFTER]  ./.git/objects/98/4d2b1b8fadfe0bba99e53ec92aface81b2f5cf : 644
+-----------------------------
+[BEFORE] ./.git/objects/info : 755
+[AFTER]  ./.git/objects/info : 755
+-----------------------------
+[BEFORE] ./.git/objects/8b : 755
+[AFTER]  ./.git/objects/8b : 755
+-----------------------------
+[BEFORE] ./.git/objects/8b/137891791fe96927ad78e64b0aad7bded08bdc : 644
+[AFTER]  ./.git/objects/8b/137891791fe96927ad78e64b0aad7bded08bdc : 644
+-----------------------------
+[BEFORE] ./.git/objects/5f : 755
+[AFTER]  ./.git/objects/5f : 755
+-----------------------------
+[BEFORE] ./.git/objects/5f/f01f94618e8b3ba5ceebd54a72b8174ae51641 : 644
+[AFTER]  ./.git/objects/5f/f01f94618e8b3ba5ceebd54a72b8174ae51641 : 644
+-----------------------------
+[BEFORE] ./.git/objects/2c : 755
+[AFTER]  ./.git/objects/2c : 755
+-----------------------------
+[BEFORE] ./.git/objects/2c/3018b0e0235bcb21e99e5b994ea0ca4c1ad79a : 644
+[AFTER]  ./.git/objects/2c/3018b0e0235bcb21e99e5b994ea0ca4c1ad79a : 644
+-----------------------------
+[BEFORE] ./.git/objects/cc : 755
+[AFTER]  ./.git/objects/cc : 755
+-----------------------------
+[BEFORE] ./.git/objects/cc/52651c00f7a8bdb4d14288697e4ba0b2339967 : 644
+[AFTER]  ./.git/objects/cc/52651c00f7a8bdb4d14288697e4ba0b2339967 : 644
+-----------------------------
+[BEFORE] ./.git/objects/pack : 755
+[AFTER]  ./.git/objects/pack : 755
+-----------------------------
+[BEFORE] ./.git/objects/71 : 755
+[AFTER]  ./.git/objects/71 : 755
+-----------------------------
+[BEFORE] ./.git/objects/71/8a65538a1bf15870df1e424d0dee28cfc26ecf : 644
+[AFTER]  ./.git/objects/71/8a65538a1bf15870df1e424d0dee28cfc26ecf : 644
+-----------------------------
+[BEFORE] ./.git/objects/45 : 755
+[AFTER]  ./.git/objects/45 : 755
+-----------------------------
+[BEFORE] ./.git/objects/45/ebe014bbacf47b037a308d460548969280e6c2 : 644
+[AFTER]  ./.git/objects/45/ebe014bbacf47b037a308d460548969280e6c2 : 644
+-----------------------------
+[BEFORE] ./.git/objects/60 : 755
+[AFTER]  ./.git/objects/60 : 755
+-----------------------------
+[BEFORE] ./.git/objects/60/5cda0f5c49367070844cf901d41c0d8328d22c : 644
+[AFTER]  ./.git/objects/60/5cda0f5c49367070844cf901d41c0d8328d22c : 644
+-----------------------------
+[BEFORE] ./.git/info : 755
+[AFTER]  ./.git/info : 755
+-----------------------------
+[BEFORE] ./.git/info/exclude : 644
+[AFTER]  ./.git/info/exclude : 644
+-----------------------------
+[BEFORE] ./.git/logs : 755
+[AFTER]  ./.git/logs : 755
+-----------------------------
+[BEFORE] ./.git/logs/HEAD : 644
+[AFTER]  ./.git/logs/HEAD : 644
+-----------------------------
+[BEFORE] ./.git/logs/refs : 755
+[AFTER]  ./.git/logs/refs : 755
+-----------------------------
+[BEFORE] ./.git/logs/refs/heads : 755
+[AFTER]  ./.git/logs/refs/heads : 755
+-----------------------------
+[BEFORE] ./.git/logs/refs/heads/main : 644
+[AFTER]  ./.git/logs/refs/heads/main : 644
+-----------------------------
+[BEFORE] ./.git/logs/refs/remotes : 755
+[AFTER]  ./.git/logs/refs/remotes : 755
+-----------------------------
+[BEFORE] ./.git/logs/refs/remotes/origin : 755
+[AFTER]  ./.git/logs/refs/remotes/origin : 755
+-----------------------------
+[BEFORE] ./.git/logs/refs/remotes/origin/main : 644
+[AFTER]  ./.git/logs/refs/remotes/origin/main : 644
+-----------------------------
+[BEFORE] ./.git/HEAD : 644
+[AFTER]  ./.git/HEAD : 644
+-----------------------------
+[BEFORE] ./.git/description : 644
+[AFTER]  ./.git/description : 644
+-----------------------------
+[BEFORE] ./.git/config : 644
+[AFTER]  ./.git/config : 644
+-----------------------------
+[BEFORE] ./.git/refs : 755
+[AFTER]  ./.git/refs : 755
+-----------------------------
+[BEFORE] ./.git/refs/tags : 755
+[AFTER]  ./.git/refs/tags : 755
+-----------------------------
+[BEFORE] ./.git/refs/heads : 755
+[AFTER]  ./.git/refs/heads : 755
+-----------------------------
+[BEFORE] ./.git/refs/heads/main : 644
+[AFTER]  ./.git/refs/heads/main : 644
+-----------------------------
+[BEFORE] ./.git/refs/remotes : 755
+[AFTER]  ./.git/refs/remotes : 755
+-----------------------------
+[BEFORE] ./.git/refs/remotes/origin : 755
+[AFTER]  ./.git/refs/remotes/origin : 755
+-----------------------------
+[BEFORE] ./.git/refs/remotes/origin/main : 644
+[AFTER]  ./.git/refs/remotes/origin/main : 644
+-----------------------------
+[BEFORE] ./.git/hooks : 755
+[AFTER]  ./.git/hooks : 755
+-----------------------------
+[BEFORE] ./.git/hooks/prepare-commit-msg.sample : 644
+[AFTER]  ./.git/hooks/prepare-commit-msg.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/commit-msg.sample : 644
+[AFTER]  ./.git/hooks/commit-msg.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/update.sample : 644
+[AFTER]  ./.git/hooks/update.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/pre-merge-commit.sample : 644
+[AFTER]  ./.git/hooks/pre-merge-commit.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/applypatch-msg.sample : 644
+[AFTER]  ./.git/hooks/applypatch-msg.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/fsmonitor-watchman.sample : 644
+[AFTER]  ./.git/hooks/fsmonitor-watchman.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/pre-commit.sample : 644
+[AFTER]  ./.git/hooks/pre-commit.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/pre-applypatch.sample : 644
+[AFTER]  ./.git/hooks/pre-applypatch.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/pre-receive.sample : 644
+[AFTER]  ./.git/hooks/pre-receive.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/post-update.sample : 644
+[AFTER]  ./.git/hooks/post-update.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/pre-rebase.sample : 644
+[AFTER]  ./.git/hooks/pre-rebase.sample : 644
+-----------------------------
+[BEFORE] ./.git/hooks/pre-push.sample : 644
+[AFTER]  ./.git/hooks/pre-push.sample : 644
+-----------------------------
+[BEFORE] ./.git/index : 644
+[AFTER]  ./.git/index : 644
+-----------------------------
+[BEFORE] ./.git/branches : 755
+[AFTER]  ./.git/branches : 755
+-----------------------------
+[BEFORE] ./.git/COMMIT_EDITMSG : 644
+[AFTER]  ./.git/COMMIT_EDITMSG : 644
+-----------------------------
+===== SUMMARY =====
+Total scanned: 66
+Issues found: 1
+Fixes applied: 0
+===== SCAN END Tue 21 Apr 2026 07:04:02 PM EDT =====
