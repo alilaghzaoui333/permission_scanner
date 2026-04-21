@@ -1,0 +1,12 @@
+===== LOG START Mon 20 Apr 2026 04:42:34 PM EDT =====
+[FIX] Removed world-write: .
+[FIX] Removed world-write: ./scanner.sh.save
+[FIX] Removed world-write: ./reports
+[FIX] Removed world-write: ./reports/report.txt
+[FIX] File: ./reports/report.txt (664 -> 644)
+[FIX] Removed world-write: ./logs
+[FIX] Removed world-write: ./logs/changes.log
+[FIX] File: ./logs/changes.log (664 -> 644)
+[FIX] Removed world-write: ./scanner.sh
+[FIX] File: ./scanner.sh (755 -> 644)
+[FIX] Removed world-write: ./policy.json

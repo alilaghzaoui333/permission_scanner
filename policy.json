@@ -1,0 +1,19 @@
+{
+  "file_perm": "644",
+  "dir_perm": "755",
+  "remove_world_write": true,
+  "remove_setuid": true,
+  "remove_setgid": true,
+  "enforce_owner": false,
+  "owner_user": "root",
+  "owner_group": "root",
+  "log_changes": true,
+  "report_format": "txt",
+  "exceptions": [
+    "/tmp",
+    "/var/tmp",
+    "/proc",
+    "/sys",
+    "/dev"
+  ]
+}

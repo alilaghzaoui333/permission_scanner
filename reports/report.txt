@@ -1,0 +1,29 @@
+===== SCAN START Mon 20 Apr 2026 04:42:34 PM EDT =====
+[CHECK] . (755)
+[ALERT] World-writable: .
+[RESULT] . : 755 -> 755
+[CHECK] ./scanner.sh.save (644)
+[ALERT] World-writable: ./scanner.sh.save
+[RESULT] ./scanner.sh.save : 644 -> 644
+[CHECK] ./reports (755)
+[ALERT] World-writable: ./reports
+[RESULT] ./reports : 755 -> 755
+[CHECK] ./reports/report.txt (664)
+[ALERT] World-writable: ./reports/report.txt
+[MISMATCH FILE] ./reports/report.txt (664 != 644)
+[RESULT] ./reports/report.txt : 664 -> 644
+[CHECK] ./logs (755)
+[ALERT] World-writable: ./logs
+[RESULT] ./logs : 755 -> 755
+[CHECK] ./logs/changes.log (664)
+[ALERT] World-writable: ./logs/changes.log
+[MISMATCH FILE] ./logs/changes.log (664 != 644)
+[RESULT] ./logs/changes.log : 664 -> 644
+[CHECK] ./scanner.sh (755)
+[ALERT] World-writable: ./scanner.sh
+[MISMATCH FILE] ./scanner.sh (755 != 644)
+[RESULT] ./scanner.sh : 755 -> 644
+[CHECK] ./policy.json (644)
+[ALERT] World-writable: ./policy.json
+[RESULT] ./policy.json : 644 -> 644
+===== SCAN END Mon 20 Apr 2026 04:42:35 PM EDT =====
