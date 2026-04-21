@@ -8,30 +8,39 @@ REPORT_FILE="$REPORT_DIR/report.txt"
 
 mkdir -p "$LOG_DIR" "$REPORT_DIR"
 
-command -v jq >/dev/null 2>&1 || { whiptail --msgbox "jq not installed" 10 40; exit 1; }
+command -v jq >/dev/null 2>&1 || { whiptail --title "Error" --msgbox "jq not installed" 10 40; exit 1; }
 command -v whiptail >/dev/null 2>&1 || { echo "whiptail not installed"; exit 1; }
 
-CHOICE=$(whiptail --title "Permission Scanner" \
---menu "Choose an option" 15 60 4 \
-"1" "Scan only" \
-"2" "Scan and fix" \
-"3" "View report" \
-"4" "Exit" 3>&1 1>&2 2>&3)
+whiptail --title "Permission Scanner" \
+--msgbox "Secure Permission Scanner\n\nAudit and fix file permissions automatically" 12 60
+
+while true; do
+
+CHOICE=$(whiptail --title "Main Menu" \
+--menu "Select an action" 18 70 5 \
+"1" "🔍 Scan only (no changes)" \
+"2" "🛠️ Scan and fix permissions" \
+"3" "📊 View report" \
+"4" "📋 View logs" \
+"5" "❌ Exit" 3>&1 1>&2 2>&3)
 
 [ $? -ne 0 ] && exit
 
 case $CHOICE in
     1) MODE="scan" ;;
     2) MODE="fix" ;;
-    3) [ -f "$REPORT_FILE" ] && whiptail --textbox "$REPORT_FILE" 20 80 || whiptail --msgbox "No report found" 10 40; exit ;;
-    4) exit ;;
+    3) [ -f "$REPORT_FILE" ] && whiptail --title "Report" --textbox "$REPORT_FILE" 25 90 || whiptail --msgbox "No report found" 10 40; continue ;;
+    4) [ -f "$LOG_FILE" ] && whiptail --title "Logs" --textbox "$LOG_FILE" 25 90 || whiptail --msgbox "No logs found" 10 40; continue ;;
+    5) exit ;;
 esac
 
-TARGET=$(whiptail --inputbox "Enter directory to scan" 10 60 "." 3>&1 1>&2 2>&3)
+TARGET=$(whiptail --title "Target Directory" \
+--inputbox "Enter directory to scan" 10 70 "." 3>&1 1>&2 2>&3)
+
 [ $? -ne 0 ] && exit
 
-[ ! -d "$TARGET" ] && { whiptail --msgbox "Invalid directory" 10 40; exit 1; }
-[ ! -f "$POLICY" ] && { whiptail --msgbox "Policy file not found" 10 40; exit 1; }
+[ ! -d "$TARGET" ] && { whiptail --msgbox "Invalid directory" 10 40; continue; }
+[ ! -f "$POLICY" ] && { whiptail --msgbox "Policy file not found" 10 40; continue; }
 
 FILE_PERM=$(jq -r '.file_perm' "$POLICY")
 DIR_PERM=$(jq -r '.dir_perm' "$POLICY")
@@ -53,9 +62,7 @@ is_exception() {
 }
 
 log_change() {
-    if [ "$LOG_ENABLED" = "true" ]; then
-        echo "$1" >> "$LOG_FILE"
-    fi
+    [ "$LOG_ENABLED" = "true" ] && echo "$1" >> "$LOG_FILE"
 }
 
 detect_world_writable() {
@@ -84,14 +91,14 @@ apply_fix() {
 echo "===== SCAN START $(date) =====" > "$REPORT_FILE"
 echo "===== LOG START $(date) =====" > "$LOG_FILE"
 
-{
-for i in {1..100}; do
-    echo $i
-    sleep 0.01
-done
-} | whiptail --gauge "Scanning..." 6 60 0
+(
+COUNT=0
+TOTAL_FILES=$(find "$TARGET" 2>/dev/null | wc -l)
 
-while IFS= read -r item; do
+find "$TARGET" 2>/dev/null | while read -r item; do
+    ((COUNT++))
+    PERCENT=$((COUNT * 100 / TOTAL_FILES))
+    echo $PERCENT
 
     ((TOTAL++))
 
@@ -107,28 +114,19 @@ while IFS= read -r item; do
     if [ "$REMOVE_WW" = "true" ] && detect_world_writable "$PERM_BEFORE"; then
         echo "[ALERT] World-writable: $item" >> "$REPORT_FILE"
         ((ISSUES++))
-        if [ "$MODE" = "fix" ]; then
-            chmod o-w "$item" 2>/dev/null && ((FIXES++))
-            log_change "[FIX] Removed world-write: $item"
-        fi
+        [ "$MODE" = "fix" ] && chmod o-w "$item" 2>/dev/null && ((FIXES++)) && log_change "[FIX] Removed world-write: $item"
     fi
 
     if [ "$REMOVE_SUID" = "true" ] && [[ $MODE_STR == *"s"* ]]; then
         echo "[ALERT] SetUID: $item" >> "$REPORT_FILE"
         ((ISSUES++))
-        if [ "$MODE" = "fix" ]; then
-            chmod u-s "$item" 2>/dev/null && ((FIXES++))
-            log_change "[FIX] Removed setuid: $item"
-        fi
+        [ "$MODE" = "fix" ] && chmod u-s "$item" 2>/dev/null && ((FIXES++)) && log_change "[FIX] Removed setuid: $item"
     fi
 
     if [ "$REMOVE_SGID" = "true" ] && [[ $MODE_STR == *"s"* ]]; then
         echo "[ALERT] SetGID: $item" >> "$REPORT_FILE"
         ((ISSUES++))
-        if [ "$MODE" = "fix" ]; then
-            chmod g-s "$item" 2>/dev/null && ((FIXES++))
-            log_change "[FIX] Removed setgid: $item"
-        fi
+        [ "$MODE" = "fix" ] && chmod g-s "$item" 2>/dev/null && ((FIXES++)) && log_change "[FIX] Removed setgid: $item"
     fi
 
     if [ -f "$item" ] && [ "$PERM_BEFORE" != "$FILE_PERM" ]; then
@@ -148,7 +146,8 @@ while IFS= read -r item; do
     echo "[AFTER]  $item : $PERM_AFTER" >> "$REPORT_FILE"
     echo "-----------------------------" >> "$REPORT_FILE"
 
-done < <(find "$TARGET" 2>/dev/null)
+done
+) | whiptail --gauge "Scanning in progress..." 8 70 0
 
 echo "===== SUMMARY =====" >> "$REPORT_FILE"
 echo "Total scanned: $TOTAL" >> "$REPORT_FILE"
@@ -157,4 +156,6 @@ echo "Fixes applied: $FIXES" >> "$REPORT_FILE"
 echo "===== SCAN END $(date) =====" >> "$REPORT_FILE"
 
 whiptail --title "Scan Complete" \
---msgbox "Scan finished\n\nTotal: $TOTAL\nIssues: $ISSUES\nFixes: $FIXES\n\nReport: $REPORT_FILE\nLog: $LOG_FILE" 15 60
+--msgbox "Scan completed successfully\n\nTotal: $TOTAL\nIssues: $ISSUES\nFixes: $FIXES" 12 60
+
+done

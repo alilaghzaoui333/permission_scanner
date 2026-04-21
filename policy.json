@@ -4,16 +4,17 @@
   "remove_world_write": true,
   "remove_setuid": true,
   "remove_setgid": true,
-  "enforce_owner": false,
-  "owner_user": "root",
-  "owner_group": "root",
   "log_changes": true,
-  "report_format": "txt",
   "exceptions": [
     "/tmp",
     "/var/tmp",
     "/proc",
     "/sys",
-    "/dev"
+    "/dev",
+    "./.git",
+    "./logs",
+    "./reports",
+    "./scanner.sh",
+    "./policy.json"
   ]
 }
