@@ -18,11 +18,11 @@ while true; do
 
 CHOICE=$(whiptail --title "Main Menu" \
 --menu "Select an action" 18 70 5 \
-"1" "🔍 Scan only (no changes)" \
-"2" "🛠️ Scan and fix permissions" \
-"3" "📊 View report" \
-"4" "📋 View logs" \
-"5" "❌ Exit" 3>&1 1>&2 2>&3)
+"1" " Scan only (no changes)" \
+"2" " Scan and fix permissions" \
+"3" " View report" \
+"4" " View logs" \
+"5" " Exit" 3>&1 1>&2 2>&3)
 
 [ $? -ne 0 ] && exit
 
