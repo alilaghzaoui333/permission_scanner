@@ -1,0 +1,422 @@
+[18:40:23] [FIX] File permission fixed : /etc/papersize
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/10-help-text
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/92-unattended-upgrades
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/85-fwupd
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/98-fsck-at-reboot
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/90-updates-available
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/00-header
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/98-reboot-required
+[18:40:23] [FIX] Executable permission fixed : /etc/update-motd.d/91-contract-ua-esm-status
+[18:40:24] [FIX] Executable permission fixed : /etc/update-motd.d/91-release-upgrade
+[18:40:24] [FIX] Executable permission fixed : /etc/update-motd.d/50-motd-news
+[18:40:24] [FIX] Executable permission fixed : /etc/update-motd.d/88-esm-announce
+[18:40:24] [FIX] Executable permission fixed : /etc/update-motd.d/95-hwe-eol
+[18:40:24] [FIX] Removed world-write : /etc/dpkg/origins/default
+[18:40:24] [FIX] File permission fixed : /etc/dpkg/origins/default
+[18:40:38] [FIX] Executable permission fixed : /etc/brltty/Contraction/latex-access.ctb
+[18:40:44] [FIX] Removed world-write : /etc/printcap
+[18:40:44] [FIX] File permission fixed : /etc/printcap
+[18:40:46] [FIX] File permission fixed : /etc/default/keyboard
+[18:40:46] [FIX] Removed world-write : /etc/vtrgb
+[18:40:46] [FIX] File permission fixed : /etc/vtrgb
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01apport
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01apport
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01console-setup.sh
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01console-setup.sh
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01saned
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01saned
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01kerneloops
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01kerneloops
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01cups-browsed
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01cups-browsed
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01grub-common
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01grub-common
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01whoopsie
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01whoopsie
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01rsyslog
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01rsyslog
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01unattended-upgrades
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01unattended-upgrades
+[18:40:46] [FIX] Removed world-write : /etc/rc4.d/S01avahi-daemon
+[18:40:46] [FIX] Executable permission fixed : /etc/rc4.d/S01avahi-daemon
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01plymouth
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01plymouth
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01anacron
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01anacron
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01cups
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01cups
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01acpid
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01acpid
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01spice-vdagent
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01spice-vdagent
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01uuidd
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01uuidd
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01openvpn
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01openvpn
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/K01speech-dispatcher
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/K01speech-dispatcher
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01gdm3
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01gdm3
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01dbus
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01dbus
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01cron
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01cron
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01irqbalance
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01irqbalance
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01rsync
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01rsync
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01bluetooth
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01bluetooth
+[18:40:47] [FIX] Removed world-write : /etc/rc4.d/S01pulseaudio-enable-autospawn
+[18:40:47] [FIX] Executable permission fixed : /etc/rc4.d/S01pulseaudio-enable-autospawn
+[18:40:48] [ERROR] Failed to remove world-write : /etc/mtab
+[18:40:48] [ERROR] Failed to fix file permission : /etc/mtab
+[18:40:50] [FIX] Removed world-write : /etc/newt/palette
+[18:40:50] [FIX] File permission fixed : /etc/newt/palette
+[18:40:50] [FIX] Executable permission fixed : /etc/kernel/prerm.d/dkms
+[18:40:50] [FIX] Executable permission fixed : /etc/kernel/prerm.d/vboxadd
+[18:40:50] [FIX] Executable permission fixed : /etc/kernel/preinst.d/intel-microcode
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postinst.d/zz-update-grub
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postinst.d/xx-update-initrd-links
+[18:40:51] [FIX] Removed world-write : /etc/kernel/postinst.d/update-notifier
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postinst.d/update-notifier
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postinst.d/unattended-upgrades
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postinst.d/initramfs-tools
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postinst.d/dkms
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postinst.d/vboxadd
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postrm.d/zz-update-grub
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/postrm.d/initramfs-tools
+[18:40:51] [FIX] Executable permission fixed : /etc/kernel/header_postinst.d/dkms
+[18:40:52] [FIX] File permission fixed : /etc/fstab
+[18:40:52] [FIX] Removed SetGID : /etc/chatscripts
+[18:40:52] [FIX] Directory permission fixed : /etc/chatscripts
+[18:40:52] [FIX] File permission fixed : /etc/chatscripts/provider
+[18:40:52] [FIX] File permission fixed : /etc/security/opasswd
+[18:40:53] [FIX] Executable permission fixed : /etc/security/namespace.init
+[18:40:53] [FIX] File permission fixed : /etc/shadow-
+[18:40:54] [FIX] Executable permission fixed : /etc/console-setup/cached_setup_font.sh
+[18:40:55] [FIX] Executable permission fixed : /etc/console-setup/cached_setup_keyboard.sh
+[18:40:55] [FIX] Executable permission fixed : /etc/console-setup/cached_setup_terminal.sh
+[18:40:56] [FIX] Executable permission fixed : /etc/openvpn/update-resolv-conf
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/dpkg
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/bsdmainutils
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/man-db
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/cracklib-runtime
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/popularity-contest
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/quota
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/0anacron
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/apport
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/apt-compat
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/logrotate
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.daily/update-notifier-common
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.weekly/man-db
+[18:40:56] [FIX] Executable permission fixed : /etc/cron.weekly/0anacron
+[18:40:57] [FIX] Executable permission fixed : /etc/cron.weekly/update-notifier-common
+[18:40:59] [FIX] Executable permission fixed : /etc/pm/sleep.d/10_unattended-upgrades-hibernate
+[18:40:59] [FIX] Executable permission fixed : /etc/pm/sleep.d/10_grub-common
+[18:40:59] [FIX] Removed world-write : /etc/alternatives/vi.pl.1.gz
+[18:40:59] [FIX] File permission fixed : /etc/alternatives/vi.pl.1.gz
+[18:40:59] [FIX] Removed world-write : /etc/alternatives/faked.es.1.gz
+[18:40:59] [FIX] File permission fixed : /etc/alternatives/faked.es.1.gz
+[18:40:59] [FIX] Removed world-write : /etc/alternatives/vi.de.1.gz
+[18:40:59] [FIX] File permission fixed : /etc/alternatives/vi.de.1.gz
+[18:40:59] [FIX] Removed world-write : /etc/alternatives/pico
+[18:40:59] [FIX] Executable permission fixed : /etc/alternatives/pico
+[18:40:59] [FIX] Removed world-write : /etc/alternatives/lzless.1.gz
+[18:40:59] [FIX] File permission fixed : /etc/alternatives/lzless.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/pftp
+[18:41:00] [FIX] Executable permission fixed : /etc/alternatives/pftp
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/ip6tables
+[18:41:00] [FIX] Executable permission fixed : /etc/alternatives/ip6tables
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/vtrgb
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/vtrgb
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/ebtables-save
+[18:41:00] [FIX] Executable permission fixed : /etc/alternatives/ebtables-save
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/pinentry
+[18:41:00] [FIX] Executable permission fixed : /etc/alternatives/pinentry
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/pinentry-x11.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/pinentry-x11.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/newt-palette
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/newt-palette
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/lzgrep.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/lzgrep.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/view.de.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/view.de.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/lzegrep.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/lzegrep.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/ex.fr.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/ex.fr.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/fakeroot.es.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/fakeroot.es.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/mt.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/mt.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/ip6tables-restore
+[18:41:00] [FIX] Executable permission fixed : /etc/alternatives/ip6tables-restore
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/rsh.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/rsh.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/c99.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/c99.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/lzdiff.1.gz
+[18:41:00] [FIX] File permission fixed : /etc/alternatives/lzdiff.1.gz
+[18:41:00] [FIX] Removed world-write : /etc/alternatives/pinentry-x11
+[18:41:00] [FIX] Executable permission fixed : /etc/alternatives/pinentry-x11
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/gstreamer-codec-install
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/gstreamer-codec-install
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/ip6tables-save
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/ip6tables-save
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/vi.fr.1.gz
+[18:41:01] [FIX] File permission fixed : /etc/alternatives/vi.fr.1.gz
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/vi
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/vi
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/lzfgrep.1.gz
+[18:41:01] [FIX] File permission fixed : /etc/alternatives/lzfgrep.1.gz
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/lzcmp
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/lzcmp
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/arptables
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/arptables
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/fakeroot.sv.1.gz
+[18:41:01] [FIX] File permission fixed : /etc/alternatives/fakeroot.sv.1.gz
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/lzmore
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/lzmore
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/c89.1.gz
+[18:41:01] [FIX] File permission fixed : /etc/alternatives/c89.1.gz
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/pico.1.gz
+[18:41:01] [FIX] File permission fixed : /etc/alternatives/pico.1.gz
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/iptables-save
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/iptables-save
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/telnet.1.gz
+[18:41:01] [FIX] File permission fixed : /etc/alternatives/telnet.1.gz
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/x-window-manager
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/x-window-manager
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/unlzma.1.gz
+[18:41:01] [FIX] File permission fixed : /etc/alternatives/unlzma.1.gz
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/x-session-manager
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/x-session-manager
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/infobrowser
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/infobrowser
+[18:41:01] [FIX] Removed world-write : /etc/alternatives/arptables-restore
+[18:41:01] [FIX] Executable permission fixed : /etc/alternatives/arptables-restore
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/x-cursor-theme
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/x-cursor-theme
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/rview
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/rview
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/x-terminal-emulator
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/x-terminal-emulator
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/mt
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/mt
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/rlogin.1.gz
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/rlogin.1.gz
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/pftp.1.gz
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/pftp.1.gz
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/lzfgrep
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/lzfgrep
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/text.plymouth
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/text.plymouth
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/cpp
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/cpp
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/telnet
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/telnet
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/traceroute6
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/traceroute6
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/lzcmp.1.gz
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/lzcmp.1.gz
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/view.pl.1.gz
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/view.pl.1.gz
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/c89
+[18:41:02] [FIX] Executable permission fixed : /etc/alternatives/c89
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/view.fr.1.gz
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/view.fr.1.gz
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/default.plymouth
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/default.plymouth
+[18:41:02] [FIX] Removed world-write : /etc/alternatives/fakeroot.1.gz
+[18:41:02] [FIX] File permission fixed : /etc/alternatives/fakeroot.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/from
+[18:41:03] [FIX] Executable permission fixed : /etc/alternatives/from
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/from.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/from.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/iptables
+[18:41:03] [FIX] Executable permission fixed : /etc/alternatives/iptables
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/iptables-restore
+[18:41:03] [FIX] Executable permission fixed : /etc/alternatives/iptables-restore
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/x-window-manager.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/x-window-manager.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/ftp
+[18:41:03] [FIX] Executable permission fixed : /etc/alternatives/ftp
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/lzcat
+[18:41:03] [FIX] Executable permission fixed : /etc/alternatives/lzcat
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/nc
+[18:41:03] [FIX] Executable permission fixed : /etc/alternatives/nc
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/rcp.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/rcp.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/view.ru.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/view.ru.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/infobrowser.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/infobrowser.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/faked.fr.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/faked.fr.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/pinentry.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/pinentry.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/c99
+[18:41:03] [FIX] Executable permission fixed : /etc/alternatives/c99
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/pager.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/pager.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/nawk.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/nawk.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/nc.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/nc.1.gz
+[18:41:03] [FIX] Removed world-write : /etc/alternatives/faked.sv.1.gz
+[18:41:03] [FIX] File permission fixed : /etc/alternatives/faked.sv.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/awk.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/awk.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/ebtables
+[18:41:04] [FIX] Executable permission fixed : /etc/alternatives/ebtables
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/ex.ru.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/ex.ru.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/ex.ja.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/ex.ja.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/netrc.5.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/netrc.5.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/fakeroot.fr.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/fakeroot.fr.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/lzcat.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/lzcat.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/x-terminal-emulator.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/x-terminal-emulator.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/c++
+[18:41:04] [FIX] Executable permission fixed : /etc/alternatives/c++
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/netcat
+[18:41:04] [FIX] Executable permission fixed : /etc/alternatives/netcat
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/my.cnf
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/my.cnf
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/lzma.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/lzma.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/lzdiff
+[18:41:04] [FIX] Executable permission fixed : /etc/alternatives/lzdiff
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/ebtables-restore
+[18:41:04] [FIX] Executable permission fixed : /etc/alternatives/ebtables-restore
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/view.ja.1.gz
+[18:41:04] [FIX] File permission fixed : /etc/alternatives/view.ja.1.gz
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/write
+[18:41:04] [FIX] Executable permission fixed : /etc/alternatives/write
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/pager
+[18:41:04] [FIX] Executable permission fixed : /etc/alternatives/pager
+[18:41:04] [FIX] Removed world-write : /etc/alternatives/vi.it.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/vi.it.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/vi.ru.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/vi.ru.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/rmt.8.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/rmt.8.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/vi.ja.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/vi.ja.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/view
+[18:41:05] [FIX] Executable permission fixed : /etc/alternatives/view
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/netcat.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/netcat.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/arptables-save
+[18:41:05] [FIX] Executable permission fixed : /etc/alternatives/arptables-save
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/vi.da.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/vi.da.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/x-session-manager.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/x-session-manager.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/faked.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/faked.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/x-www-browser
+[18:41:05] [FIX] Executable permission fixed : /etc/alternatives/x-www-browser
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/view.it.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/view.it.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/cc.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/cc.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/cc
+[18:41:05] [FIX] Executable permission fixed : /etc/alternatives/cc
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/view.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/view.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/vi.1.gz
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/vi.1.gz
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/awk
+[18:41:05] [FIX] Executable permission fixed : /etc/alternatives/awk
+[18:41:05] [FIX] Removed world-write : /etc/alternatives/gdm3-theme.gresource
+[18:41:05] [FIX] File permission fixed : /etc/alternatives/gdm3-theme.gresource
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/ex
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/ex
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/pasteurize
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/pasteurize
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/lzma
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/lzma
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/unlzma
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/unlzma
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/lzless
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/lzless
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/rlogin
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/rlogin
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/ex.da.1.gz
+[18:41:06] [FIX] File permission fixed : /etc/alternatives/ex.da.1.gz
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/c++.1.gz
+[18:41:06] [FIX] File permission fixed : /etc/alternatives/c++.1.gz
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/w.1.gz
+[18:41:06] [FIX] File permission fixed : /etc/alternatives/w.1.gz
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/w
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/w
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/editor
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/editor
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/ex.pl.1.gz
+[18:41:06] [FIX] File permission fixed : /etc/alternatives/ex.pl.1.gz
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/fakeroot
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/fakeroot
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/rcp
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/rcp
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/futurize
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/futurize
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/builtins.7.gz
+[18:41:06] [FIX] File permission fixed : /etc/alternatives/builtins.7.gz
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/rsh
+[18:41:06] [FIX] Executable permission fixed : /etc/alternatives/rsh
+[18:41:06] [FIX] Removed world-write : /etc/alternatives/ex.de.1.gz
+[18:41:06] [FIX] File permission fixed : /etc/alternatives/ex.de.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/traceroute6.8.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/traceroute6.8.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/ex.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/ex.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/lzegrep
+[18:41:07] [FIX] Executable permission fixed : /etc/alternatives/lzegrep
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/lzmore.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/lzmore.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/editor.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/editor.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/nawk
+[18:41:07] [FIX] Executable permission fixed : /etc/alternatives/nawk
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/ftp.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/ftp.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/rmt
+[18:41:07] [FIX] Executable permission fixed : /etc/alternatives/rmt
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/gnome-www-browser
+[18:41:07] [FIX] Executable permission fixed : /etc/alternatives/gnome-www-browser
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/view.da.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/view.da.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/gnome-text-editor.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/gnome-text-editor.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/write.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/write.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/ex.it.1.gz
+[18:41:07] [FIX] File permission fixed : /etc/alternatives/ex.it.1.gz
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/lzgrep
+[18:41:07] [FIX] Executable permission fixed : /etc/alternatives/lzgrep
+[18:41:07] [FIX] Removed world-write : /etc/alternatives/gnome-text-editor
+[18:41:07] [FIX] Executable permission fixed : /etc/alternatives/gnome-text-editor
+[18:41:07] [FIX] File permission fixed : /etc/ppp/chap-secrets
+[18:41:07] [FIX] Executable permission fixed : /etc/ppp/ipv6-up
+[18:41:08] [FIX] Executable permission fixed : /etc/ppp/ip-down
+[18:41:08] [FIX] Executable permission fixed : /etc/ppp/ipv6-down
+[18:41:08] [FIX] Executable permission fixed : /etc/ppp/ip-down.d/0000usepeerdns
+[18:41:08] [FIX] Removed SetGID : /etc/ppp/peers
+[18:41:08] [FIX] Directory permission fixed : /etc/ppp/peers
+[18:41:08] [FIX] File permission fixed : /etc/ppp/peers/provider
+[18:41:08] [FIX] Executable permission fixed : /etc/ppp/ip-up
+[18:41:08] [FIX] File permission fixed : /etc/ppp/pap-secrets
+[18:41:08] [FIX] Executable permission fixed : /etc/ppp/ip-up.d/0000usepeerdns
+[18:41:10] [FIX] File permission fixed : /etc/shadow
+[18:41:10] [FIX] File permission fixed : /etc/machine-id
+[18:41:11] [FIX] Removed world-write : /etc/localtime
+[18:41:11] [FIX] File permission fixed : /etc/localtime
+[18:41:11] [FIX] File permission fixed : /etc/apt/sources.list
+[18:41:11] [FIX] File permission fixed : /etc/apt/apt.conf.d/00trustcdrom
+[18:41:11] [FIX] File permission fixed : /etc/apt/apt.conf.d/00aptitude

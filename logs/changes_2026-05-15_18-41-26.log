@@ -1,0 +1,1893 @@
+[18:41:35] [FIX] Executable permission fixed : /etc/update-motd.d/10-help-text
+[18:41:35] [FIX] Executable permission fixed : /etc/update-motd.d/92-unattended-upgrades
+[18:41:35] [FIX] Executable permission fixed : /etc/update-motd.d/85-fwupd
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/98-fsck-at-reboot
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/90-updates-available
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/00-header
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/98-reboot-required
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/91-contract-ua-esm-status
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/91-release-upgrade
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/50-motd-news
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/88-esm-announce
+[18:41:36] [FIX] Executable permission fixed : /etc/update-motd.d/95-hwe-eol
+[18:41:36] [FIX] Removed world-write : /etc/dpkg/origins/default
+[18:41:36] [FIX] File permission fixed : /etc/dpkg/origins/default
+[18:41:52] [FIX] Executable permission fixed : /etc/brltty/Contraction/latex-access.ctb
+[18:41:58] [FIX] Removed world-write : /etc/printcap
+[18:41:58] [FIX] File permission fixed : /etc/printcap
+[18:41:59] [FIX] Removed world-write : /etc/vtrgb
+[18:41:59] [FIX] File permission fixed : /etc/vtrgb
+[18:41:59] [FIX] Removed world-write : /etc/rc4.d/S01apport
+[18:41:59] [FIX] Executable permission fixed : /etc/rc4.d/S01apport
+[18:41:59] [FIX] Removed world-write : /etc/rc4.d/S01console-setup.sh
+[18:41:59] [FIX] Executable permission fixed : /etc/rc4.d/S01console-setup.sh
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01saned
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01saned
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01kerneloops
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01kerneloops
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01cups-browsed
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01cups-browsed
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01grub-common
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01grub-common
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01whoopsie
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01whoopsie
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01rsyslog
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01rsyslog
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01unattended-upgrades
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01unattended-upgrades
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01avahi-daemon
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01avahi-daemon
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01plymouth
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01plymouth
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01anacron
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01anacron
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01cups
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01cups
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01acpid
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01acpid
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01spice-vdagent
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01spice-vdagent
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01uuidd
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01uuidd
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01openvpn
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01openvpn
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/K01speech-dispatcher
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/K01speech-dispatcher
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01gdm3
+[18:42:00] [FIX] Executable permission fixed : /etc/rc4.d/S01gdm3
+[18:42:00] [FIX] Removed world-write : /etc/rc4.d/S01dbus
+[18:42:01] [FIX] Executable permission fixed : /etc/rc4.d/S01dbus
+[18:42:01] [FIX] Removed world-write : /etc/rc4.d/S01cron
+[18:42:01] [FIX] Executable permission fixed : /etc/rc4.d/S01cron
+[18:42:01] [FIX] Removed world-write : /etc/rc4.d/S01irqbalance
+[18:42:01] [FIX] Executable permission fixed : /etc/rc4.d/S01irqbalance
+[18:42:01] [FIX] Removed world-write : /etc/rc4.d/S01rsync
+[18:42:01] [FIX] Executable permission fixed : /etc/rc4.d/S01rsync
+[18:42:01] [FIX] Removed world-write : /etc/rc4.d/S01bluetooth
+[18:42:01] [FIX] Executable permission fixed : /etc/rc4.d/S01bluetooth
+[18:42:01] [FIX] Removed world-write : /etc/rc4.d/S01pulseaudio-enable-autospawn
+[18:42:01] [FIX] Executable permission fixed : /etc/rc4.d/S01pulseaudio-enable-autospawn
+[18:42:01] [ERROR] Failed to remove world-write : /etc/mtab
+[18:42:01] [ERROR] Failed to fix file permission : /etc/mtab
+[18:42:04] [FIX] Removed world-write : /etc/newt/palette
+[18:42:04] [FIX] File permission fixed : /etc/newt/palette
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/prerm.d/dkms
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/prerm.d/vboxadd
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/preinst.d/intel-microcode
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/postinst.d/zz-update-grub
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/postinst.d/xx-update-initrd-links
+[18:42:04] [FIX] Removed world-write : /etc/kernel/postinst.d/update-notifier
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/postinst.d/update-notifier
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/postinst.d/unattended-upgrades
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/postinst.d/initramfs-tools
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/postinst.d/dkms
+[18:42:04] [FIX] Executable permission fixed : /etc/kernel/postinst.d/vboxadd
+[18:42:05] [FIX] Executable permission fixed : /etc/kernel/postrm.d/zz-update-grub
+[18:42:05] [FIX] Executable permission fixed : /etc/kernel/postrm.d/initramfs-tools
+[18:42:05] [FIX] Executable permission fixed : /etc/kernel/header_postinst.d/dkms
+[18:42:06] [FIX] Executable permission fixed : /etc/security/namespace.init
+[18:42:07] [FIX] Executable permission fixed : /etc/console-setup/cached_setup_font.sh
+[18:42:08] [FIX] Executable permission fixed : /etc/console-setup/cached_setup_keyboard.sh
+[18:42:08] [FIX] Executable permission fixed : /etc/console-setup/cached_setup_terminal.sh
+[18:42:09] [FIX] Executable permission fixed : /etc/openvpn/update-resolv-conf
+[18:42:09] [FIX] Executable permission fixed : /etc/cron.daily/dpkg
+[18:42:09] [FIX] Executable permission fixed : /etc/cron.daily/bsdmainutils
+[18:42:09] [FIX] Executable permission fixed : /etc/cron.daily/man-db
+[18:42:09] [FIX] Executable permission fixed : /etc/cron.daily/cracklib-runtime
+[18:42:09] [FIX] Executable permission fixed : /etc/cron.daily/popularity-contest
+[18:42:09] [FIX] Executable permission fixed : /etc/cron.daily/quota
+[18:42:09] [FIX] Executable permission fixed : /etc/cron.daily/0anacron
+[18:42:10] [FIX] Executable permission fixed : /etc/cron.daily/apport
+[18:42:10] [FIX] Executable permission fixed : /etc/cron.daily/apt-compat
+[18:42:10] [FIX] Executable permission fixed : /etc/cron.daily/logrotate
+[18:42:10] [FIX] Executable permission fixed : /etc/cron.daily/update-notifier-common
+[18:42:10] [FIX] Executable permission fixed : /etc/cron.weekly/man-db
+[18:42:10] [FIX] Executable permission fixed : /etc/cron.weekly/0anacron
+[18:42:10] [FIX] Executable permission fixed : /etc/cron.weekly/update-notifier-common
+[18:42:12] [FIX] Executable permission fixed : /etc/pm/sleep.d/10_unattended-upgrades-hibernate
+[18:42:12] [FIX] Executable permission fixed : /etc/pm/sleep.d/10_grub-common
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/vi.pl.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/vi.pl.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/faked.es.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/faked.es.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/vi.de.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/vi.de.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/pico
+[18:42:13] [FIX] Executable permission fixed : /etc/alternatives/pico
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/lzless.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/lzless.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/pftp
+[18:42:13] [FIX] Executable permission fixed : /etc/alternatives/pftp
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/ip6tables
+[18:42:13] [FIX] Executable permission fixed : /etc/alternatives/ip6tables
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/vtrgb
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/vtrgb
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/ebtables-save
+[18:42:13] [FIX] Executable permission fixed : /etc/alternatives/ebtables-save
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/pinentry
+[18:42:13] [FIX] Executable permission fixed : /etc/alternatives/pinentry
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/pinentry-x11.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/pinentry-x11.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/newt-palette
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/newt-palette
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/lzgrep.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/lzgrep.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/view.de.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/view.de.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/lzegrep.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/lzegrep.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/ex.fr.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/ex.fr.1.gz
+[18:42:13] [FIX] Removed world-write : /etc/alternatives/fakeroot.es.1.gz
+[18:42:13] [FIX] File permission fixed : /etc/alternatives/fakeroot.es.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/mt.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/mt.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/ip6tables-restore
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/ip6tables-restore
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/rsh.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/rsh.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/c99.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/c99.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/lzdiff.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/lzdiff.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/pinentry-x11
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/pinentry-x11
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/gstreamer-codec-install
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/gstreamer-codec-install
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/ip6tables-save
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/ip6tables-save
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/vi.fr.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/vi.fr.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/vi
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/vi
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/lzfgrep.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/lzfgrep.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/lzcmp
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/lzcmp
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/arptables
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/arptables
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/fakeroot.sv.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/fakeroot.sv.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/lzmore
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/lzmore
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/c89.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/c89.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/pico.1.gz
+[18:42:14] [FIX] File permission fixed : /etc/alternatives/pico.1.gz
+[18:42:14] [FIX] Removed world-write : /etc/alternatives/iptables-save
+[18:42:14] [FIX] Executable permission fixed : /etc/alternatives/iptables-save
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/telnet.1.gz
+[18:42:15] [FIX] File permission fixed : /etc/alternatives/telnet.1.gz
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/x-window-manager
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/x-window-manager
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/unlzma.1.gz
+[18:42:15] [FIX] File permission fixed : /etc/alternatives/unlzma.1.gz
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/x-session-manager
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/x-session-manager
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/infobrowser
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/infobrowser
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/arptables-restore
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/arptables-restore
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/x-cursor-theme
+[18:42:15] [FIX] File permission fixed : /etc/alternatives/x-cursor-theme
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/rview
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/rview
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/x-terminal-emulator
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/x-terminal-emulator
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/mt
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/mt
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/rlogin.1.gz
+[18:42:15] [FIX] File permission fixed : /etc/alternatives/rlogin.1.gz
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/pftp.1.gz
+[18:42:15] [FIX] File permission fixed : /etc/alternatives/pftp.1.gz
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/lzfgrep
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/lzfgrep
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/text.plymouth
+[18:42:15] [FIX] File permission fixed : /etc/alternatives/text.plymouth
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/cpp
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/cpp
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/telnet
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/telnet
+[18:42:15] [FIX] Removed world-write : /etc/alternatives/traceroute6
+[18:42:15] [FIX] Executable permission fixed : /etc/alternatives/traceroute6
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/lzcmp.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/lzcmp.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/view.pl.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/view.pl.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/c89
+[18:42:16] [FIX] Executable permission fixed : /etc/alternatives/c89
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/view.fr.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/view.fr.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/default.plymouth
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/default.plymouth
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/fakeroot.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/fakeroot.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/from
+[18:42:16] [FIX] Executable permission fixed : /etc/alternatives/from
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/from.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/from.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/iptables
+[18:42:16] [FIX] Executable permission fixed : /etc/alternatives/iptables
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/iptables-restore
+[18:42:16] [FIX] Executable permission fixed : /etc/alternatives/iptables-restore
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/x-window-manager.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/x-window-manager.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/ftp
+[18:42:16] [FIX] Executable permission fixed : /etc/alternatives/ftp
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/lzcat
+[18:42:16] [FIX] Executable permission fixed : /etc/alternatives/lzcat
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/nc
+[18:42:16] [FIX] Executable permission fixed : /etc/alternatives/nc
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/rcp.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/rcp.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/view.ru.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/view.ru.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/infobrowser.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/infobrowser.1.gz
+[18:42:16] [FIX] Removed world-write : /etc/alternatives/faked.fr.1.gz
+[18:42:16] [FIX] File permission fixed : /etc/alternatives/faked.fr.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/pinentry.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/pinentry.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/c99
+[18:42:17] [FIX] Executable permission fixed : /etc/alternatives/c99
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/pager.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/pager.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/nawk.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/nawk.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/nc.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/nc.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/faked.sv.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/faked.sv.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/awk.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/awk.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/ebtables
+[18:42:17] [FIX] Executable permission fixed : /etc/alternatives/ebtables
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/ex.ru.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/ex.ru.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/ex.ja.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/ex.ja.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/netrc.5.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/netrc.5.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/fakeroot.fr.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/fakeroot.fr.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/lzcat.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/lzcat.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/x-terminal-emulator.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/x-terminal-emulator.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/c++
+[18:42:17] [FIX] Executable permission fixed : /etc/alternatives/c++
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/netcat
+[18:42:17] [FIX] Executable permission fixed : /etc/alternatives/netcat
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/my.cnf
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/my.cnf
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/lzma.1.gz
+[18:42:17] [FIX] File permission fixed : /etc/alternatives/lzma.1.gz
+[18:42:17] [FIX] Removed world-write : /etc/alternatives/lzdiff
+[18:42:17] [FIX] Executable permission fixed : /etc/alternatives/lzdiff
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/ebtables-restore
+[18:42:18] [FIX] Executable permission fixed : /etc/alternatives/ebtables-restore
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/view.ja.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/view.ja.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/write
+[18:42:18] [FIX] Executable permission fixed : /etc/alternatives/write
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/pager
+[18:42:18] [FIX] Executable permission fixed : /etc/alternatives/pager
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/vi.it.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/vi.it.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/vi.ru.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/vi.ru.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/rmt.8.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/rmt.8.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/vi.ja.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/vi.ja.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/view
+[18:42:18] [FIX] Executable permission fixed : /etc/alternatives/view
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/netcat.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/netcat.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/arptables-save
+[18:42:18] [FIX] Executable permission fixed : /etc/alternatives/arptables-save
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/vi.da.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/vi.da.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/x-session-manager.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/x-session-manager.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/faked.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/faked.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/x-www-browser
+[18:42:18] [FIX] Executable permission fixed : /etc/alternatives/x-www-browser
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/view.it.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/view.it.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/cc.1.gz
+[18:42:18] [FIX] File permission fixed : /etc/alternatives/cc.1.gz
+[18:42:18] [FIX] Removed world-write : /etc/alternatives/cc
+[18:42:18] [FIX] Executable permission fixed : /etc/alternatives/cc
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/view.1.gz
+[18:42:19] [FIX] File permission fixed : /etc/alternatives/view.1.gz
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/vi.1.gz
+[18:42:19] [FIX] File permission fixed : /etc/alternatives/vi.1.gz
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/awk
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/awk
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/gdm3-theme.gresource
+[18:42:19] [FIX] File permission fixed : /etc/alternatives/gdm3-theme.gresource
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/ex
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/ex
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/pasteurize
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/pasteurize
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/lzma
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/lzma
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/unlzma
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/unlzma
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/lzless
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/lzless
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/rlogin
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/rlogin
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/ex.da.1.gz
+[18:42:19] [FIX] File permission fixed : /etc/alternatives/ex.da.1.gz
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/c++.1.gz
+[18:42:19] [FIX] File permission fixed : /etc/alternatives/c++.1.gz
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/w.1.gz
+[18:42:19] [FIX] File permission fixed : /etc/alternatives/w.1.gz
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/w
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/w
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/editor
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/editor
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/ex.pl.1.gz
+[18:42:19] [FIX] File permission fixed : /etc/alternatives/ex.pl.1.gz
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/fakeroot
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/fakeroot
+[18:42:19] [FIX] Removed world-write : /etc/alternatives/rcp
+[18:42:19] [FIX] Executable permission fixed : /etc/alternatives/rcp
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/futurize
+[18:42:20] [FIX] Executable permission fixed : /etc/alternatives/futurize
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/builtins.7.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/builtins.7.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/rsh
+[18:42:20] [FIX] Executable permission fixed : /etc/alternatives/rsh
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/ex.de.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/ex.de.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/traceroute6.8.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/traceroute6.8.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/ex.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/ex.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/lzegrep
+[18:42:20] [FIX] Executable permission fixed : /etc/alternatives/lzegrep
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/lzmore.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/lzmore.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/editor.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/editor.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/nawk
+[18:42:20] [FIX] Executable permission fixed : /etc/alternatives/nawk
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/ftp.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/ftp.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/rmt
+[18:42:20] [FIX] Executable permission fixed : /etc/alternatives/rmt
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/gnome-www-browser
+[18:42:20] [FIX] Executable permission fixed : /etc/alternatives/gnome-www-browser
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/view.da.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/view.da.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/gnome-text-editor.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/gnome-text-editor.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/write.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/write.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/ex.it.1.gz
+[18:42:20] [FIX] File permission fixed : /etc/alternatives/ex.it.1.gz
+[18:42:20] [FIX] Removed world-write : /etc/alternatives/lzgrep
+[18:42:20] [FIX] Executable permission fixed : /etc/alternatives/lzgrep
+[18:42:21] [FIX] Removed world-write : /etc/alternatives/gnome-text-editor
+[18:42:21] [FIX] Executable permission fixed : /etc/alternatives/gnome-text-editor
+[18:42:21] [FIX] Executable permission fixed : /etc/ppp/ipv6-up
+[18:42:21] [FIX] Executable permission fixed : /etc/ppp/ip-down
+[18:42:21] [FIX] Executable permission fixed : /etc/ppp/ipv6-down
+[18:42:21] [FIX] Executable permission fixed : /etc/ppp/ip-down.d/0000usepeerdns
+[18:42:21] [FIX] Executable permission fixed : /etc/ppp/ip-up
+[18:42:21] [FIX] Executable permission fixed : /etc/ppp/ip-up.d/0000usepeerdns
+[18:42:24] [FIX] Removed world-write : /etc/localtime
+[18:42:24] [FIX] File permission fixed : /etc/localtime
+[18:42:26] [FIX] Removed world-write : /etc/network/if-post-down.d/wpasupplicant
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-post-down.d/wpasupplicant
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-post-down.d/wireless-tools
+[18:42:26] [FIX] Removed world-write : /etc/network/if-pre-up.d/wpasupplicant
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-pre-up.d/wpasupplicant
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-pre-up.d/wireless-tools
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-up.d/avahi-autoipd
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-up.d/openvpn
+[18:42:26] [FIX] Removed world-write : /etc/network/if-up.d/wpasupplicant
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-up.d/wpasupplicant
+[18:42:26] [FIX] Executable permission fixed : /etc/network/if-down.d/avahi-autoipd
+[18:42:27] [FIX] Executable permission fixed : /etc/network/if-down.d/openvpn
+[18:42:27] [FIX] Removed world-write : /etc/network/if-down.d/wpasupplicant
+[18:42:27] [FIX] Executable permission fixed : /etc/network/if-down.d/wpasupplicant
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01rsyslog
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01rsyslog
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01uuidd
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01uuidd
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01saned
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01saned
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01pulseaudio-enable-autospawn
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01pulseaudio-enable-autospawn
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01unattended-upgrades
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01unattended-upgrades
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01avahi-daemon
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01avahi-daemon
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01irqbalance
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01irqbalance
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01cups-browsed
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01cups-browsed
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01plymouth
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01plymouth
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01bluetooth
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01bluetooth
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01udev
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01udev
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01alsa-utils
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01alsa-utils
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01spice-vdagent
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01spice-vdagent
+[18:42:27] [FIX] Removed world-write : /etc/rc6.d/K01gdm3
+[18:42:27] [FIX] Executable permission fixed : /etc/rc6.d/K01gdm3
+[18:42:28] [FIX] Removed world-write : /etc/rc6.d/K01speech-dispatcher
+[18:42:28] [FIX] Executable permission fixed : /etc/rc6.d/K01speech-dispatcher
+[18:42:28] [FIX] Removed world-write : /etc/rc6.d/K01kerneloops
+[18:42:28] [FIX] Executable permission fixed : /etc/rc6.d/K01kerneloops
+[18:42:28] [FIX] Removed world-write : /etc/rc6.d/K01openvpn
+[18:42:28] [FIX] Executable permission fixed : /etc/rc6.d/K01openvpn
+[18:42:28] [FIX] Removed world-write : /etc/ifplugd/action.d/action_wpa
+[18:42:28] [FIX] Executable permission fixed : /etc/ifplugd/action.d/action_wpa
+[18:42:28] [FIX] Removed world-write : /etc/resolv.conf
+[18:42:28] [FIX] File permission fixed : /etc/resolv.conf
+[18:42:29] [FIX] Executable permission fixed : /etc/gdm3/PostSession/Default
+[18:42:29] [FIX] Executable permission fixed : /etc/gdm3/PrimeOff/Default
+[18:42:29] [FIX] Executable permission fixed : /etc/gdm3/PostLogin/Default.sample
+[18:42:29] [FIX] Executable permission fixed : /etc/gdm3/PreSession/Default
+[18:42:29] [FIX] Executable permission fixed : /etc/gdm3/Init/Default
+[18:42:29] [FIX] Executable permission fixed : /etc/gdm3/Xsession
+[18:42:29] [FIX] Executable permission fixed : /etc/gdm3/Prime/Default
+[18:42:29] [FIX] Removed world-write : /etc/rc0.d/K01rsyslog
+[18:42:29] [FIX] Executable permission fixed : /etc/rc0.d/K01rsyslog
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01uuidd
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01uuidd
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01saned
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01saned
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01pulseaudio-enable-autospawn
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01pulseaudio-enable-autospawn
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01unattended-upgrades
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01unattended-upgrades
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01avahi-daemon
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01avahi-daemon
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01irqbalance
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01irqbalance
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01cups-browsed
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01cups-browsed
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01plymouth
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01plymouth
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01bluetooth
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01bluetooth
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01udev
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01udev
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01alsa-utils
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01alsa-utils
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01spice-vdagent
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01spice-vdagent
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01gdm3
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01gdm3
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01speech-dispatcher
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01speech-dispatcher
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01kerneloops
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01kerneloops
+[18:42:30] [FIX] Removed world-write : /etc/rc0.d/K01openvpn
+[18:42:30] [FIX] Executable permission fixed : /etc/rc0.d/K01openvpn
+[18:42:36] [FIX] Removed world-write : /etc/sgml/catalog
+[18:42:36] [FIX] File permission fixed : /etc/sgml/catalog
+[18:42:36] [FIX] Removed world-write : /etc/os-release
+[18:42:36] [FIX] File permission fixed : /etc/os-release
+[18:42:36] [FIX] File permission fixed : /etc/sudoers
+[18:42:36] [FIX] Removed world-write : /etc/dictionaries-common/words
+[18:42:36] [FIX] File permission fixed : /etc/dictionaries-common/words
+[18:42:37] [FIX] Executable permission fixed : /etc/acpi/ibm-wireless.sh
+[18:42:37] [FIX] Executable permission fixed : /etc/acpi/undock.sh
+[18:42:37] [FIX] Executable permission fixed : /etc/acpi/tosh-wireless.sh
+[18:42:37] [FIX] Executable permission fixed : /etc/acpi/asus-wireless.sh
+[18:42:37] [FIX] Executable permission fixed : /etc/acpi/asus-keyboard-backlight.sh
+[18:42:38] [FIX] File permission fixed : /etc/ufw/user.rules
+[18:42:38] [FIX] File permission fixed : /etc/ufw/before6.rules
+[18:42:38] [FIX] File permission fixed : /etc/ufw/after.rules
+[18:42:38] [FIX] File permission fixed : /etc/ufw/after6.rules
+[18:42:38] [FIX] File permission fixed : /etc/ufw/after.init
+[18:42:38] [FIX] File permission fixed : /etc/ufw/before.rules
+[18:42:38] [FIX] File permission fixed : /etc/ufw/before.init
+[18:42:38] [FIX] File permission fixed : /etc/ufw/user6.rules
+[18:42:38] [FIX] Executable permission fixed : /etc/grub.d/20_memtest86+
+[18:42:38] [FIX] Executable permission fixed : /etc/grub.d/10_linux_zfs
+[18:42:38] [FIX] Executable permission fixed : /etc/grub.d/20_linux_xen
+[18:42:38] [FIX] Executable permission fixed : /etc/grub.d/30_os-prober
+[18:42:38] [FIX] Executable permission fixed : /etc/grub.d/05_debian_theme
+[18:42:38] [FIX] Executable permission fixed : /etc/grub.d/35_fwupd
+[18:42:39] [FIX] Executable permission fixed : /etc/grub.d/30_uefi-firmware
+[18:42:39] [FIX] Executable permission fixed : /etc/grub.d/41_custom
+[18:42:39] [FIX] Executable permission fixed : /etc/grub.d/40_custom
+[18:42:39] [FIX] Executable permission fixed : /etc/grub.d/10_linux
+[18:42:39] [FIX] Executable permission fixed : /etc/grub.d/00_header
+[18:42:40] [FIX] File permission fixed : /etc/.pwd.lock
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01rsyslog
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01rsyslog
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01ufw
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01ufw
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01uuidd
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01uuidd
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01saned
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01saned
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01pulseaudio-enable-autospawn
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01pulseaudio-enable-autospawn
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01avahi-daemon
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01avahi-daemon
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01irqbalance
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01irqbalance
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01cups-browsed
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01cups-browsed
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01bluetooth
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01bluetooth
+[18:42:40] [FIX] Removed world-write : /etc/rc1.d/K01alsa-utils
+[18:42:40] [FIX] Executable permission fixed : /etc/rc1.d/K01alsa-utils
+[18:42:41] [FIX] Removed world-write : /etc/rc1.d/K01whoopsie
+[18:42:41] [FIX] Executable permission fixed : /etc/rc1.d/K01whoopsie
+[18:42:41] [FIX] Removed world-write : /etc/rc1.d/K01spice-vdagent
+[18:42:41] [FIX] Executable permission fixed : /etc/rc1.d/K01spice-vdagent
+[18:42:41] [FIX] Removed world-write : /etc/rc1.d/K01gdm3
+[18:42:41] [FIX] Executable permission fixed : /etc/rc1.d/K01gdm3
+[18:42:41] [FIX] Removed world-write : /etc/rc1.d/K01speech-dispatcher
+[18:42:41] [FIX] Executable permission fixed : /etc/rc1.d/K01speech-dispatcher
+[18:42:41] [FIX] Removed world-write : /etc/rc1.d/K01cups
+[18:42:41] [FIX] Executable permission fixed : /etc/rc1.d/K01cups
+[18:42:41] [FIX] Removed world-write : /etc/rc1.d/K01kerneloops
+[18:42:41] [FIX] Executable permission fixed : /etc/rc1.d/K01kerneloops
+[18:42:41] [FIX] Removed world-write : /etc/rc1.d/K01openvpn
+[18:42:41] [FIX] Executable permission fixed : /etc/rc1.d/K01openvpn
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/x11-common
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/procps
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/bluetooth
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/network-manager
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/avahi-daemon
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/speech-dispatcher
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/plymouth-log
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/saned
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/openvpn
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/irqbalance
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/udev
+[18:42:41] [FIX] Executable permission fixed : /etc/init.d/cron
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/spice-vdagent
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/quota
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/uuidd
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/kerneloops
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/quotarpc
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/apport
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/pppd-dns
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/grub-common
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/hwclock.sh
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/gdm3
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/unattended-upgrades
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/dbus
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/kmod
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/alsa-utils
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/ufw
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/rsyslog
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/whoopsie
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/pulseaudio-enable-autospawn
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/acpid
+[18:42:42] [FIX] Executable permission fixed : /etc/init.d/cups-browsed
+[18:42:43] [FIX] Executable permission fixed : /etc/init.d/keyboard-setup.sh
+[18:42:43] [FIX] Executable permission fixed : /etc/init.d/apparmor
+[18:42:43] [FIX] Executable permission fixed : /etc/init.d/cups
+[18:42:43] [FIX] Executable permission fixed : /etc/init.d/plymouth
+[18:42:43] [FIX] Executable permission fixed : /etc/init.d/rsync
+[18:42:43] [FIX] Executable permission fixed : /etc/init.d/console-setup.sh
+[18:42:43] [FIX] Executable permission fixed : /etc/init.d/anacron
+[18:42:43] [FIX] Removed world-write : /etc/dkms/template-dkms-mkdsc
+[18:42:43] [FIX] Directory permission fixed : /etc/dkms/template-dkms-mkdsc
+[18:42:43] [FIX] Executable permission fixed : /etc/dkms/template-dkms-mkdeb/debian/rules
+[18:42:43] [FIX] Executable permission fixed : /etc/dkms/template-dkms-mkdeb/debian/prerm
+[18:42:44] [FIX] Executable permission fixed : /etc/dkms/template-dkms-mkdeb/debian/postinst
+[18:42:44] [FIX] Executable permission fixed : /etc/dkms/template-dkms-mkbmdeb/debian/rules
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01apport
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01apport
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01console-setup.sh
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01console-setup.sh
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01saned
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01saned
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01kerneloops
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01kerneloops
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01cups-browsed
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01cups-browsed
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01grub-common
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01grub-common
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01whoopsie
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01whoopsie
+[18:42:44] [FIX] Removed world-write : /etc/rc5.d/S01rsyslog
+[18:42:44] [FIX] Executable permission fixed : /etc/rc5.d/S01rsyslog
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01unattended-upgrades
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01unattended-upgrades
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01avahi-daemon
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01avahi-daemon
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01plymouth
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01plymouth
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01anacron
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01anacron
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01cups
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01cups
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01acpid
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01acpid
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01spice-vdagent
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01spice-vdagent
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01uuidd
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01uuidd
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01openvpn
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01openvpn
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/K01speech-dispatcher
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/K01speech-dispatcher
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01gdm3
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01gdm3
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01dbus
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01dbus
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01cron
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01cron
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01irqbalance
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01irqbalance
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01rsync
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01rsync
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01bluetooth
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01bluetooth
+[18:42:45] [FIX] Removed world-write : /etc/rc5.d/S01pulseaudio-enable-autospawn
+[18:42:45] [FIX] Executable permission fixed : /etc/rc5.d/S01pulseaudio-enable-autospawn
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/064e0aa9.0
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/064e0aa9.0
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/SSL.com_Root_Certification_Authority_ECC.pem
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/SSL.com_Root_Certification_Authority_ECC.pem
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/40547a79.0
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/40547a79.0
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/002c0b4f.0
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/002c0b4f.0
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/626dceaf.0
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/626dceaf.0
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/D-TRUST_EV_Root_CA_1_2020.pem
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/D-TRUST_EV_Root_CA_1_2020.pem
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/5cd81ad7.0
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/5cd81ad7.0
+[18:42:46] [FIX] Removed world-write : /etc/ssl/certs/81f2d2b1.0
+[18:42:46] [FIX] File permission fixed : /etc/ssl/certs/81f2d2b1.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/ed858448.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/ed858448.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/vTrus_ECC_Root_CA.pem
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/vTrus_ECC_Root_CA.pem
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/3513523f.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/3513523f.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/76faf6c0.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/76faf6c0.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/fd64f3fc.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/fd64f3fc.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/244b5494.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/244b5494.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/0f6fa695.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/0f6fa695.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_2.pem
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_2.pem
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/eed8c118.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/eed8c118.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/Entrust_Root_Certification_Authority_-_G4.pem
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/Entrust_Root_Certification_Authority_-_G4.pem
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/a3418fda.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/a3418fda.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/emSign_Root_CA_-_C1.pem
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/emSign_Root_CA_-_C1.pem
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/749e9e03.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/749e9e03.0
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/Buypass_Class_2_Root_CA.pem
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/Buypass_Class_2_Root_CA.pem
+[18:42:47] [FIX] Removed world-write : /etc/ssl/certs/b66938e9.0
+[18:42:47] [FIX] File permission fixed : /etc/ssl/certs/b66938e9.0
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/ePKI_Root_Certification_Authority.pem
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/ePKI_Root_Certification_Authority.pem
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/ca6e4ad9.0
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/ca6e4ad9.0
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/Atos_TrustedRoot_2011.pem
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/Atos_TrustedRoot_2011.pem
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/9f727ac7.0
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/9f727ac7.0
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/ff34af3f.0
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/ff34af3f.0
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/Go_Daddy_Root_Certificate_Authority_-_G2.pem
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/Go_Daddy_Root_Certificate_Authority_-_G2.pem
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/Trustwave_Global_ECC_P256_Certification_Authority.pem
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/Trustwave_Global_ECC_P256_Certification_Authority.pem
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/CA_Disig_Root_R2.pem
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/CA_Disig_Root_R2.pem
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/4f316efb.0
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/4f316efb.0
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_Assured_ID_Root_CA.pem
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_Assured_ID_Root_CA.pem
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/0c31d5ce
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/0c31d5ce
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/9c8dfbd4.0
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/9c8dfbd4.0
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/TrustAsia_Global_Root_CA_G3.pem
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/TrustAsia_Global_Root_CA_G3.pem
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/de6d66f3.0
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/de6d66f3.0
+[18:42:48] [FIX] Removed world-write : /etc/ssl/certs/3e359ba6.0
+[18:42:48] [FIX] File permission fixed : /etc/ssl/certs/3e359ba6.0
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/09789157.0
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/09789157.0
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/CommScope_Public_Trust_ECC_Root-01.pem
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/CommScope_Public_Trust_ECC_Root-01.pem
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/a89d74c2.0
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/a89d74c2.0
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/Entrust_Root_Certification_Authority_-_EC1.pem
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/Entrust_Root_Certification_Authority_-_EC1.pem
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/Trustwave_Global_Certification_Authority.pem
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/Trustwave_Global_Certification_Authority.pem
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/e113c810.0
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/e113c810.0
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_Assured_ID_Root_G3.pem
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_Assured_ID_Root_G3.pem
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/c28a8a30.0
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/c28a8a30.0
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/8f103249.0
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/8f103249.0
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/GlobalSign_Root_R46.pem
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/GlobalSign_Root_R46.pem
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/GTS_Root_R1.pem
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/GTS_Root_R1.pem
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/4bfab552.0
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/4bfab552.0
+[18:42:49] [FIX] Removed world-write : /etc/ssl/certs/e868b802.0
+[18:42:49] [FIX] File permission fixed : /etc/ssl/certs/e868b802.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/dc4d6a89.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/dc4d6a89.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/SecureSign_RootCA11.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/SecureSign_RootCA11.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/1e08bfd1.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/1e08bfd1.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/QuoVadis_Root_CA_3_G3.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/QuoVadis_Root_CA_3_G3.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/7a780d93.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/7a780d93.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/TrustAsia_Global_Root_CA_G4.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/TrustAsia_Global_Root_CA_G4.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/e36a6752.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/e36a6752.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/8508e720.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/8508e720.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/Certigna.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/Certigna.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/emSign_ECC_Root_CA_-_G3.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/emSign_ECC_Root_CA_-_G3.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/b7a5b843.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/b7a5b843.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/QuoVadis_Root_CA_2.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/QuoVadis_Root_CA_2.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/f30dd6ad.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/f30dd6ad.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/HARICA_TLS_RSA_Root_CA_2021.pem
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/HARICA_TLS_RSA_Root_CA_2021.pem
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/d4dae3dd.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/d4dae3dd.0
+[18:42:50] [FIX] Removed world-write : /etc/ssl/certs/1d3472b9.0
+[18:42:50] [FIX] File permission fixed : /etc/ssl/certs/1d3472b9.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/Certum_Trusted_Network_CA.pem
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/Certum_Trusted_Network_CA.pem
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/0f5dc4f3.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/0f5dc4f3.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/GLOBALTRUST_2020.pem
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/GLOBALTRUST_2020.pem
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/1001acf7.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/1001acf7.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/406c9bb1.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/406c9bb1.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/fa5da96b.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/fa5da96b.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/d52c538d.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/d52c538d.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/18856ac4.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/18856ac4.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/930ac5d2.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/930ac5d2.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/7719f463.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/7719f463.0
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/Microsoft_ECC_Root_Certificate_Authority_2017.pem
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/Microsoft_ECC_Root_Certificate_Authority_2017.pem
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/Secure_Global_CA.pem
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/Secure_Global_CA.pem
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/UCA_Extended_Validation_Root.pem
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/UCA_Extended_Validation_Root.pem
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_TLS_RSA4096_Root_G5.pem
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_TLS_RSA4096_Root_G5.pem
+[18:42:51] [FIX] Removed world-write : /etc/ssl/certs/90c5a3c8.0
+[18:42:51] [FIX] File permission fixed : /etc/ssl/certs/90c5a3c8.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/5443e9e3.0
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/5443e9e3.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/Atos_TrustedRoot_Root_CA_ECC_TLS_2021.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/Atos_TrustedRoot_Root_CA_ECC_TLS_2021.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/ACCVRAIZ1.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/ACCVRAIZ1.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/4fd49c6c.0
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/4fd49c6c.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/08063a00.0
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/08063a00.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/Entrust_Root_Certification_Authority.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/Entrust_Root_Certification_Authority.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/SecureTrust_CA.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/SecureTrust_CA.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_3.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_3.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/93bc0acc.0
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/93bc0acc.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/653b494a.0
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/653b494a.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/AC_RAIZ_FNMT-RCM.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/AC_RAIZ_FNMT-RCM.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/75d1b2ed.0
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/75d1b2ed.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/Microsoft_RSA_Root_Certificate_Authority_2017.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/Microsoft_RSA_Root_Certificate_Authority_2017.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/Certum_EC-384_CA.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/Certum_EC-384_CA.pem
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/9046744a.0
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/9046744a.0
+[18:42:52] [FIX] Removed world-write : /etc/ssl/certs/Baltimore_CyberTrust_Root.pem
+[18:42:52] [FIX] File permission fixed : /etc/ssl/certs/Baltimore_CyberTrust_Root.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/6b99d060.0
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/6b99d060.0
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/54657681.0
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/54657681.0
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/IdenTrust_Public_Sector_Root_CA_1.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/IdenTrust_Public_Sector_Root_CA_1.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/GTS_Root_R4.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/GTS_Root_R4.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_R46.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_R46.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/ISRG_Root_X2.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/ISRG_Root_X2.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/2ae6433e.0
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/2ae6433e.0
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/4042bcee.0
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/4042bcee.0
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/SwissSign_Gold_CA_-_G2.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/SwissSign_Gold_CA_-_G2.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/certSIGN_Root_CA_G2.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/certSIGN_Root_CA_G2.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/Entrust_Root_Certification_Authority_-_G2.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/Entrust_Root_Certification_Authority_-_G2.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/USERTrust_ECC_Certification_Authority.pem
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/USERTrust_ECC_Certification_Authority.pem
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/9bf03295.0
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/9bf03295.0
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/feffd413.0
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/feffd413.0
+[18:42:53] [FIX] Removed world-write : /etc/ssl/certs/b433981b.0
+[18:42:53] [FIX] File permission fixed : /etc/ssl/certs/b433981b.0
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/Atos_TrustedRoot_Root_CA_RSA_TLS_2021.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/Atos_TrustedRoot_Root_CA_RSA_TLS_2021.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/NAVER_Global_Root_Certification_Authority.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/NAVER_Global_Root_Certification_Authority.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/ce5e74ef.0
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/ce5e74ef.0
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/0bf05006.0
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/0bf05006.0
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/Izenpe.com.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/Izenpe.com.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_Assured_ID_Root_G2.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_Assured_ID_Root_G2.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_ECC.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_ECC.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/ISRG_Root_X1.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/ISRG_Root_X1.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/OISTE_WISeKey_Global_Root_GC_CA.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/OISTE_WISeKey_Global_Root_GC_CA.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/cbf06781.0
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/cbf06781.0
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/CommScope_Public_Trust_RSA_Root-01.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/CommScope_Public_Trust_RSA_Root-01.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/9b5697b0.0
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/9b5697b0.0
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/Telia_Root_CA_v2.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/Telia_Root_CA_v2.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/9846683b.0
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/9846683b.0
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/GlobalSign_Root_CA_-_R6.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/GlobalSign_Root_CA_-_R6.pem
+[18:42:54] [FIX] Removed world-write : /etc/ssl/certs/Security_Communication_ECC_RootCA1.pem
+[18:42:54] [FIX] File permission fixed : /etc/ssl/certs/Security_Communication_ECC_RootCA1.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/TeliaSonera_Root_CA_v1.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/TeliaSonera_Root_CA_v1.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/Go_Daddy_Class_2_CA.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/Go_Daddy_Class_2_CA.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/0179095f.0
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/0179095f.0
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/b727005e.0
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/b727005e.0
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/062cdee6.0
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/062cdee6.0
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/Starfield_Class_2_CA.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/Starfield_Class_2_CA.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/8d89cda1.0
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/8d89cda1.0
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/USERTrust_RSA_Certification_Authority.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/USERTrust_RSA_Certification_Authority.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/773e07ad.0
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/773e07ad.0
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/Certainly_Root_E1.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/Certainly_Root_E1.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/Trustwave_Global_ECC_P384_Certification_Authority.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/Trustwave_Global_ECC_P384_Certification_Authority.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/GDCA_TrustAUTH_R5_ROOT.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/GDCA_TrustAUTH_R5_ROOT.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/Certum_Trusted_Root_CA.pem
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/Certum_Trusted_Root_CA.pem
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/14bc7599.0
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/14bc7599.0
+[18:42:55] [FIX] Removed world-write : /etc/ssl/certs/1e09d511.0
+[18:42:55] [FIX] File permission fixed : /etc/ssl/certs/1e09d511.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/8312c4c1.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/8312c4c1.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_E46.pem
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_E46.pem
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/fb717492.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/fb717492.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/da0cfd1d.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/da0cfd1d.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/Amazon_Root_CA_2.pem
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/Amazon_Root_CA_2.pem
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/9b46e03d.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/9b46e03d.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/TunTrust_Root_CA.pem
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/TunTrust_Root_CA.pem
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/D-TRUST_BR_Root_CA_1_2020.pem
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/D-TRUST_BR_Root_CA_1_2020.pem
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/4b718d9b.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/4b718d9b.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/f387163d.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/f387163d.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/e35234b1.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/e35234b1.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/1cef98f5.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/1cef98f5.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/QuoVadis_Root_CA_2_G3.pem
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/QuoVadis_Root_CA_2_G3.pem
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/7a3adc42.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/7a3adc42.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/SZAFIR_ROOT_CA2.pem
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/SZAFIR_ROOT_CA2.pem
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/0b1b94ef.0
+[18:42:56] [FIX] File permission fixed : /etc/ssl/certs/0b1b94ef.0
+[18:42:56] [FIX] Removed world-write : /etc/ssl/certs/f51bb24c.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/f51bb24c.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/5e98733a.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/5e98733a.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/f249de83.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/f249de83.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/UCA_Global_G2_Root.pem
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/UCA_Global_G2_Root.pem
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/e73d606e.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/e73d606e.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/ee64a828.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/ee64a828.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/06dc52d5.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/06dc52d5.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/cc450945.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/cc450945.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/5f15c80c.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/5f15c80c.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_Global_Root_G2.pem
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_Global_Root_G2.pem
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/f081611a.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/f081611a.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/2923b3f9.0
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/2923b3f9.0
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_Trusted_Root_G4.pem
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_Trusted_Root_G4.pem
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/Starfield_Root_Certificate_Authority_-_G2.pem
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/Starfield_Root_Certificate_Authority_-_G2.pem
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/ANF_Secure_Server_Root_CA.pem
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/ANF_Secure_Server_Root_CA.pem
+[18:42:57] [FIX] Removed world-write : /etc/ssl/certs/emSign_Root_CA_-_G1.pem
+[18:42:57] [FIX] File permission fixed : /etc/ssl/certs/emSign_Root_CA_-_G1.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/ecccd8db.0
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/ecccd8db.0
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/e-Szigno_Root_CA_2017.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/e-Szigno_Root_CA_2017.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/vTrus_Root_CA.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/vTrus_Root_CA.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/Security_Communication_RootCA3.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/Security_Communication_RootCA3.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/Amazon_Root_CA_4.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/Amazon_Root_CA_4.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/SSL.com_TLS_RSA_Root_CA_2022.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/SSL.com_TLS_RSA_Root_CA_2022.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/Entrust.net_Premium_2048_Secure_Server_CA.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/Entrust.net_Premium_2048_Secure_Server_CA.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/68dd7389.0
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/68dd7389.0
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/5f618aec.0
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/5f618aec.0
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/SSL.com_TLS_ECC_Root_CA_2022.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/SSL.com_TLS_ECC_Root_CA_2022.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/CommScope_Public_Trust_ECC_Root-02.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/CommScope_Public_Trust_ECC_Root-02.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/SSL.com_Root_Certification_Authority_RSA.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/SSL.com_Root_Certification_Authority_RSA.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/e18bfb83.0
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/e18bfb83.0
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/Hongkong_Post_Root_CA_3.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/Hongkong_Post_Root_CA_3.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/fc5a8f99.0
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/fc5a8f99.0
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/Actalis_Authentication_Root_CA.pem
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/Actalis_Authentication_Root_CA.pem
+[18:42:58] [FIX] Removed world-write : /etc/ssl/certs/0b9bc432.0
+[18:42:58] [FIX] File permission fixed : /etc/ssl/certs/0b9bc432.0
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/Certainly_Root_R1.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/Certainly_Root_R1.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/228f89db.0
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/228f89db.0
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/GTS_Root_R3.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/GTS_Root_R3.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/QuoVadis_Root_CA_1_G3.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/QuoVadis_Root_CA_1_G3.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/emSign_ECC_Root_CA_-_C3.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/emSign_ECC_Root_CA_-_C3.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/2b349938.0
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/2b349938.0
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/HiPKI_Root_CA_-_G1.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/HiPKI_Root_CA_-_G1.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/Certigna_Root_CA.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/Certigna_Root_CA.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/c01eb047.0
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/c01eb047.0
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/COMODO_ECC_Certification_Authority.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/COMODO_ECC_Certification_Authority.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_2009.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_2009.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/d887a5bb.0
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/d887a5bb.0
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/f0c70a8d.0
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/f0c70a8d.0
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/1c7314a2
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/1c7314a2
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R5.pem
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R5.pem
+[18:42:59] [FIX] Removed world-write : /etc/ssl/certs/cd8c0d63.0
+[18:42:59] [FIX] File permission fixed : /etc/ssl/certs/cd8c0d63.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/ef954a4e.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/ef954a4e.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R4.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R4.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/3bde41ac.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/3bde41ac.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/HARICA_TLS_ECC_Root_CA_2021.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/HARICA_TLS_ECC_Root_CA_2021.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/b0e59380.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/b0e59380.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/9ef4a08a.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/9ef4a08a.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/8cb5ee0f.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/8cb5ee0f.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/QuoVadis_Root_CA_3.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/QuoVadis_Root_CA_3.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/SwissSign_Silver_CA_-_G2.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/SwissSign_Silver_CA_-_G2.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/607986c7.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/607986c7.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/TWCA_Root_Certification_Authority.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/TWCA_Root_Certification_Authority.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/GlobalSign_Root_CA.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/GlobalSign_Root_CA.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/GlobalSign_Root_CA_-_R3.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/GlobalSign_Root_CA_-_R3.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/certSIGN_ROOT_CA.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/certSIGN_ROOT_CA.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/5ad8a5d6.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/5ad8a5d6.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_High_Assurance_EV_Root_CA.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_High_Assurance_EV_Root_CA.pem
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/aee5f10d.0
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/aee5f10d.0
+[18:43:00] [FIX] Removed world-write : /etc/ssl/certs/GlobalSign_Root_E46.pem
+[18:43:00] [FIX] File permission fixed : /etc/ssl/certs/GlobalSign_Root_E46.pem
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/Microsec_e-Szigno_Root_CA_2009.pem
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/Microsec_e-Szigno_Root_CA_2009.pem
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/9482e63a.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/9482e63a.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/b1159c4c.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/b1159c4c.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/5931b5bc.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/5931b5bc.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/865fbdf9.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/865fbdf9.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/6d41d539.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/6d41d539.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/02265526.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/02265526.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/8d86cdd1.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/8d86cdd1.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/e8de2f56.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/e8de2f56.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/cd58d51e.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/cd58d51e.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/8160b96c.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/8160b96c.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/Starfield_Services_Root_Certificate_Authority_-_G2.pem
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/Starfield_Services_Root_Certificate_Authority_-_G2.pem
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/AffirmTrust_Commercial.pem
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/AffirmTrust_Commercial.pem
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/0a775a30.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/0a775a30.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/32888f65.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/32888f65.0
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/COMODO_RSA_Certification_Authority.pem
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/COMODO_RSA_Certification_Authority.pem
+[18:43:01] [FIX] Removed world-write : /etc/ssl/certs/106f3e4d.0
+[18:43:01] [FIX] File permission fixed : /etc/ssl/certs/106f3e4d.0
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/GTS_Root_R2.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/GTS_Root_R2.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/Amazon_Root_CA_1.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/Amazon_Root_CA_1.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/Certum_Trusted_Network_CA_2.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/Certum_Trusted_Network_CA_2.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_Global_Root_CA.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_Global_Root_CA.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/COMODO_Certification_Authority.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/COMODO_Certification_Authority.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_Global_Root_G3.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_Global_Root_G3.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/DigiCert_TLS_ECC_P384_Root_G5.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/DigiCert_TLS_ECC_P384_Root_G5.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/f3377b1b.0
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/f3377b1b.0
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/a94d09e5.0
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/a94d09e5.0
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/AffirmTrust_Premium_ECC.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/AffirmTrust_Premium_ECC.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/BJCA_Global_Root_CA1.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/BJCA_Global_Root_CA1.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/AC_RAIZ_FNMT-RCM_SERVIDORES_SEGUROS.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/AC_RAIZ_FNMT-RCM_SERVIDORES_SEGUROS.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/Buypass_Class_3_Root_CA.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/Buypass_Class_3_Root_CA.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/d7e8dc79.0
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/d7e8dc79.0
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/706f604c.0
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/706f604c.0
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/Amazon_Root_CA_3.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/Amazon_Root_CA_3.pem
+[18:43:02] [FIX] Removed world-write : /etc/ssl/certs/TWCA_Global_Root_CA.pem
+[18:43:02] [FIX] File permission fixed : /etc/ssl/certs/TWCA_Global_Root_CA.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/dd8e9d41.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/dd8e9d41.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/6fa5da56.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/6fa5da56.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/5860aaa6.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/5860aaa6.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/40193066.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/40193066.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/CommScope_Public_Trust_RSA_Root-02.pem
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/CommScope_Public_Trust_RSA_Root-02.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/988a38cb.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/988a38cb.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/BJCA_Global_Root_CA2.pem
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/BJCA_Global_Root_CA2.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/d6325660.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/d6325660.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/3fb36b73.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/3fb36b73.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/7f3d5d1d.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/7f3d5d1d.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/fe8a2cd8.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/fe8a2cd8.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/IdenTrust_Commercial_Root_CA_1.pem
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/IdenTrust_Commercial_Root_CA_1.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/AffirmTrust_Networking.pem
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/AffirmTrust_Networking.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/Security_Communication_Root_CA.pem
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/Security_Communication_Root_CA.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/1c7314a2.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/1c7314a2.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/b81b93f0.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/b81b93f0.0
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+[18:43:03] [FIX] Removed world-write : /etc/ssl/certs/bf53fb88.0
+[18:43:03] [FIX] File permission fixed : /etc/ssl/certs/bf53fb88.0
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/CFCA_EV_ROOT.pem
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/CFCA_EV_ROOT.pem
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/Security_Communication_RootCA2.pem
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/Security_Communication_RootCA2.pem
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/XRamp_Global_CA_Root.pem
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/XRamp_Global_CA_Root.pem
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/57bcb2da.0
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/57bcb2da.0
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/48bec511.0
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/48bec511.0
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/f39fc864.0
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/f39fc864.0
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/Comodo_AAA_Services_root.pem
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/Comodo_AAA_Services_root.pem
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/9d04f354.0
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/9d04f354.0
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/OISTE_WISeKey_Global_Root_GB_CA.pem
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/OISTE_WISeKey_Global_Root_GB_CA.pem
+[18:43:04] [FIX] Removed world-write : /etc/ssl/certs/AffirmTrust_Premium.pem
+[18:43:04] [FIX] File permission fixed : /etc/ssl/certs/AffirmTrust_Premium.pem
+[18:43:04] [FIX] Directory permission fixed : /etc/ssl/private
+[18:43:04] [FIX] File permission fixed : /etc/ssl/private/ssl-cert-snakeoil.key
+[18:43:04] [FIX] File permission fixed : /etc/sudoers.d/README
+[18:43:05] [FIX] Executable permission fixed : /etc/NetworkManager/dispatcher.d/01-ifupdown
+[18:43:05] [FIX] File permission fixed : /etc/gshadow-
+[18:43:07] [FIX] Executable permission fixed : /etc/X11/Xreset
+[18:43:07] [FIX] Executable permission fixed : /etc/X11/Xsession
+[18:43:07] [FIX] Executable permission fixed : /etc/X11/xinit/xinitrc
+[18:43:07] [FIX] Executable permission fixed : /etc/X11/xinit/xserverrc
+[18:43:10] [FIX] Removed world-write : /etc/modprobe.d/blacklist-oss.conf
+[18:43:10] [FIX] File permission fixed : /etc/modprobe.d/blacklist-oss.conf
+[18:43:10] [FIX] Removed world-write : /etc/sysctl.d/99-sysctl.conf
+[18:43:10] [FIX] File permission fixed : /etc/sysctl.d/99-sysctl.conf
+[18:43:11] [FIX] Executable permission fixed : /etc/dhcp/dhclient-enter-hooks.d/avahi-autoipd
+[18:43:11] [FIX] Executable permission fixed : /etc/dhcp/dhclient-enter-hooks.d/resolved
+[18:43:11] [FIX] Removed world-write : /etc/dhcp/dhclient-enter-hooks.d/debug
+[18:43:11] [FIX] File permission fixed : /etc/dhcp/dhclient-enter-hooks.d/debug
+[18:43:11] [FIX] Executable permission fixed : /etc/dhcp/dhclient-exit-hooks.d/zzz_avahi-autoipd
+[18:43:11] [FIX] Removed world-write : /etc/dhcp/dhclient-exit-hooks.d/debug
+[18:43:11] [FIX] File permission fixed : /etc/dhcp/dhclient-exit-hooks.d/debug
+[18:43:11] [FIX] Removed world-write : /etc/apm/suspend.d/80alsa
+[18:43:11] [FIX] Executable permission fixed : /etc/apm/suspend.d/80alsa
+[18:43:12] [FIX] Executable permission fixed : /etc/apm/scripts.d/alsa
+[18:43:12] [FIX] Removed world-write : /etc/apm/resume.d/20alsa
+[18:43:12] [FIX] Executable permission fixed : /etc/apm/resume.d/20alsa
+[18:43:12] [FIX] File permission fixed : /etc/gshadow
+[18:43:12] [FIX] Executable permission fixed : /etc/avahi/avahi-autoipd.action
+[18:43:19] [FIX] Removed world-write : /etc/apparmor.d/disable/usr.sbin.rsyslogd
+[18:43:19] [FIX] File permission fixed : /etc/apparmor.d/disable/usr.sbin.rsyslogd
+[18:43:19] [FIX] Removed world-write : /etc/apparmor.d/disable/usr.bin.firefox
+[18:43:19] [FIX] File permission fixed : /etc/apparmor.d/disable/usr.bin.firefox
+[18:43:20] [FIX] Removed world-write : /etc/modules-load.d/modules.conf
+[18:43:20] [FIX] File permission fixed : /etc/modules-load.d/modules.conf
+[18:43:20] [FIX] Executable permission fixed : /etc/xdg/Xwayland-session.d/00-xrdb
+[18:43:23] [FIX] Removed world-write : /etc/xdg/systemd/user
+[18:43:23] [FIX] Directory permission fixed : /etc/xdg/systemd/user
+[18:43:23] [FIX] File permission fixed : /etc/brlapi.key
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01x11-common
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01x11-common
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01keyboard-setup.sh
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01keyboard-setup.sh
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01ufw
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01ufw
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01apparmor
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01apparmor
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01alsa-utils
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01alsa-utils
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01plymouth-log
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01plymouth-log
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01procps
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01procps
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01udev
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01udev
+[18:43:23] [FIX] Removed world-write : /etc/rcS.d/S01pppd-dns
+[18:43:23] [FIX] Executable permission fixed : /etc/rcS.d/S01pppd-dns
+[18:43:24] [FIX] Removed world-write : /etc/rcS.d/S01kmod
+[18:43:24] [FIX] Executable permission fixed : /etc/rcS.d/S01kmod
+[18:43:24] [FIX] Removed world-write : /etc/systemd/system/sysinit.target.wants/systemd-timesyncd.service
+[18:43:24] [FIX] File permission fixed : /etc/systemd/system/sysinit.target.wants/systemd-timesyncd.service
+[18:43:24] [FIX] Removed world-write : /etc/systemd/system/sysinit.target.wants/apparmor.service
+[18:43:24] [FIX] File permission fixed : /etc/systemd/system/sysinit.target.wants/apparmor.service
+[18:43:24] [FIX] Removed world-write : /etc/systemd/system/sysinit.target.wants/setvtrgb.service
+[18:43:24] [FIX] File permission fixed : /etc/systemd/system/sysinit.target.wants/setvtrgb.service
+[18:43:24] [FIX] Removed world-write : /etc/systemd/system/sysinit.target.wants/systemd-pstore.service
+[18:43:24] [FIX] File permission fixed : /etc/systemd/system/sysinit.target.wants/systemd-pstore.service
+[18:43:24] [FIX] Removed world-write : /etc/systemd/system/sysinit.target.wants/keyboard-setup.service
+[18:43:24] [FIX] File permission fixed : /etc/systemd/system/sysinit.target.wants/keyboard-setup.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snapd.recovery-chooser-trigger.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snapd.recovery-chooser-trigger.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/networkd-dispatcher.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/networkd-dispatcher.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/ondemand.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/ondemand.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snapd.core-fixup.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snapd.core-fixup.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/grub-initrd-fallback.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/grub-initrd-fallback.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/console-setup.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/console-setup.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/irqbalance.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/irqbalance.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/secureboot-db.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/secureboot-db.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/unattended-upgrades.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/unattended-upgrades.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/avahi-daemon.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/avahi-daemon.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/ua-reboot-cmds.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/ua-reboot-cmds.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/grub-common.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/grub-common.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/vboxadd-service.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/vboxadd-service.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/remote-fs.target
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/remote-fs.target
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/ubuntu-advantage.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/ubuntu-advantage.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/systemd-resolved.service
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/systemd-resolved.service
+[18:43:25] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d42\x2d2204-226.mount
+[18:43:25] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d42\x2d2204-226.mount
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/rsync.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/rsync.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d42\x2d2204-247.mount
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d42\x2d2204-247.mount
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-core20-2769.mount
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-core20-2769.mount
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/ModemManager.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/ModemManager.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/kerneloops.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/kerneloops.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snapd.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snapd.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-core20-1828.mount
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-core20-1828.mount
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/wpa_supplicant.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/wpa_supplicant.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/whoopsie.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/whoopsie.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-snapd-25935.mount
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-snapd-25935.mount
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/cups.path
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/cups.path
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/thermald.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/thermald.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snapd.autoimport.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snapd.autoimport.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-core22-2339.mount
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-core22-2339.mount
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/anacron.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/anacron.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/rsyslog.service
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/rsyslog.service
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-bare-5.mount
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-bare-5.mount
+[18:43:26] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d3\x2d38\x2d2004-119.mount
+[18:43:26] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d3\x2d38\x2d2004-119.mount
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/cups-browsed.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/cups-browsed.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snapd.apparmor.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snapd.apparmor.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-gtk\x2dcommon\x2dthemes-1535.mount
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-gtk\x2dcommon\x2dthemes-1535.mount
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/NetworkManager.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/NetworkManager.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-snap\x2dstore-638.mount
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-snap\x2dstore-638.mount
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-snapd-26382.mount
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-snapd-26382.mount
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/vboxadd.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/vboxadd.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/cron.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/cron.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/ufw.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/ufw.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-snap\x2dstore-1216.mount
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-snap\x2dstore-1216.mount
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d3\x2d38\x2d2004-143.mount
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-gnome\x2d3\x2d38\x2d2004-143.mount
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snap-core22-2411.mount
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snap-core22-2411.mount
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/pppd-dns.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/pppd-dns.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/snapd.seeded.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/snapd.seeded.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/openvpn.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/openvpn.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/multi-user.target.wants/dmesg.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/multi-user.target.wants/dmesg.service
+[18:43:27] [FIX] Removed world-write : /etc/systemd/system/cloud-final.service.wants/snapd.seeded.service
+[18:43:27] [FIX] File permission fixed : /etc/systemd/system/cloud-final.service.wants/snapd.seeded.service
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/rescue.target.wants/grub-initrd-fallback.service
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/rescue.target.wants/grub-initrd-fallback.service
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/getty.target.wants/getty@tty1.service
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/getty.target.wants/getty@tty1.service
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/anacron.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/anacron.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/logrotate.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/logrotate.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/ua-timer.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/ua-timer.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/motd-news.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/motd-news.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/apt-daily-upgrade.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/apt-daily-upgrade.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/fstrim.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/fstrim.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/fwupd-refresh.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/fwupd-refresh.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/man-db.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/man-db.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/apt-daily.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/apt-daily.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/snapd.snap-repair.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/snapd.snap-repair.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/timers.target.wants/e2scrub_all.timer
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/timers.target.wants/e2scrub_all.timer
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/dbus-org.freedesktop.timesync1.service
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/dbus-org.freedesktop.timesync1.service
+[18:43:28] [FIX] Removed world-write : /etc/systemd/system/display-manager.service
+[18:43:28] [FIX] File permission fixed : /etc/systemd/system/display-manager.service
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d42\x2d2204-226.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d42\x2d2204-226.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d42\x2d2204-247.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d42\x2d2204-247.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-core20-2769.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-core20-2769.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-core20-1828.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-core20-1828.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-snapd-25935.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-snapd-25935.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-core22-2339.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-core22-2339.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-bare-5.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-bare-5.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d3\x2d38\x2d2004-119.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d3\x2d38\x2d2004-119.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-gtk\x2dcommon\x2dthemes-1535.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-gtk\x2dcommon\x2dthemes-1535.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-snap\x2dstore-638.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-snap\x2dstore-638.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-snapd-26382.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-snapd-26382.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-snap\x2dstore-1216.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-snap\x2dstore-1216.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d3\x2d38\x2d2004-143.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-gnome\x2d3\x2d38\x2d2004-143.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/snapd.mounts.target.wants/snap-core22-2411.mount
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/snapd.mounts.target.wants/snap-core22-2411.mount
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/graphical.target.wants/accounts-daemon.service
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/graphical.target.wants/accounts-daemon.service
+[18:43:29] [FIX] Removed world-write : /etc/systemd/system/graphical.target.wants/switcheroo-control.service
+[18:43:29] [FIX] File permission fixed : /etc/systemd/system/graphical.target.wants/switcheroo-control.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/graphical.target.wants/udisks2.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/graphical.target.wants/udisks2.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/syslog.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/syslog.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/dbus-org.bluez.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/dbus-org.bluez.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/dbus-org.freedesktop.resolve1.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/dbus-org.freedesktop.resolve1.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/dbus-org.freedesktop.nm-dispatcher.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/dbus-org.freedesktop.nm-dispatcher.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/display-manager.service.wants/gpu-manager.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/display-manager.service.wants/gpu-manager.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/paths.target.wants/acpid.path
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/paths.target.wants/acpid.path
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/paths.target.wants/apport-autoreport.path
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/paths.target.wants/apport-autoreport.path
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/network-online.target.wants/NetworkManager-wait-online.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/network-online.target.wants/NetworkManager-wait-online.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/dbus-org.freedesktop.ModemManager1.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/dbus-org.freedesktop.ModemManager1.service
+[18:43:30] [FIX] Removed world-write : /etc/systemd/system/printer.target.wants/cups.service
+[18:43:30] [FIX] File permission fixed : /etc/systemd/system/printer.target.wants/cups.service
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/dbus-org.freedesktop.thermald.service
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/dbus-org.freedesktop.thermald.service
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/default.target.wants/e2scrub_reap.service
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/default.target.wants/e2scrub_reap.service
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/bluetooth.target.wants/bluetooth.service
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/bluetooth.target.wants/bluetooth.service
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/dbus-org.freedesktop.Avahi.service
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/dbus-org.freedesktop.Avahi.service
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/sockets.target.wants/acpid.socket
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/sockets.target.wants/acpid.socket
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/sockets.target.wants/apport-forward.socket
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/sockets.target.wants/apport-forward.socket
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/sockets.target.wants/snapd.socket
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/sockets.target.wants/snapd.socket
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/sockets.target.wants/cups.socket
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/sockets.target.wants/cups.socket
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/sockets.target.wants/avahi-daemon.socket
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/sockets.target.wants/avahi-daemon.socket
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/sockets.target.wants/uuidd.socket
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/sockets.target.wants/uuidd.socket
+[18:43:31] [FIX] Removed world-write : /etc/systemd/system/oem-config.service.wants/gpu-manager.service
+[18:43:31] [FIX] File permission fixed : /etc/systemd/system/oem-config.service.wants/gpu-manager.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/system/sleep.target.wants/grub-initrd-fallback.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/system/sleep.target.wants/grub-initrd-fallback.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/system/sleep.target.wants/grub-common.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/system/sleep.target.wants/grub-common.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/system/dbus-fi.w1.wpa_supplicant1.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/system/dbus-fi.w1.wpa_supplicant1.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/system/emergency.target.wants/grub-initrd-fallback.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/system/emergency.target.wants/grub-initrd-fallback.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/system/final.target.wants/snapd.system-shutdown.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/system/final.target.wants/snapd.system-shutdown.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/user/default.target.wants/pulseaudio.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/user/default.target.wants/pulseaudio.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/user/default.target.wants/ubuntu-report.path
+[18:43:32] [FIX] File permission fixed : /etc/systemd/user/default.target.wants/ubuntu-report.path
+[18:43:32] [FIX] Removed world-write : /etc/systemd/user/default.target.wants/tracker-extract.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/user/default.target.wants/tracker-extract.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/user/default.target.wants/tracker-miner-fs.service
+[18:43:32] [FIX] File permission fixed : /etc/systemd/user/default.target.wants/tracker-miner-fs.service
+[18:43:32] [FIX] Removed world-write : /etc/systemd/user/sockets.target.wants/pk-debconf-helper.socket
+[18:43:33] [FIX] File permission fixed : /etc/systemd/user/sockets.target.wants/pk-debconf-helper.socket
+[18:43:33] [FIX] Removed world-write : /etc/systemd/user/sockets.target.wants/gpg-agent-extra.socket
+[18:43:33] [FIX] File permission fixed : /etc/systemd/user/sockets.target.wants/gpg-agent-extra.socket
+[18:43:33] [FIX] Removed world-write : /etc/systemd/user/sockets.target.wants/gpg-agent-browser.socket
+[18:43:33] [FIX] File permission fixed : /etc/systemd/user/sockets.target.wants/gpg-agent-browser.socket
+[18:43:33] [FIX] Removed world-write : /etc/systemd/user/sockets.target.wants/gpg-agent-ssh.socket
+[18:43:33] [FIX] File permission fixed : /etc/systemd/user/sockets.target.wants/gpg-agent-ssh.socket
+[18:43:33] [FIX] Removed world-write : /etc/systemd/user/sockets.target.wants/dirmngr.socket
+[18:43:33] [FIX] File permission fixed : /etc/systemd/user/sockets.target.wants/dirmngr.socket
+[18:43:33] [FIX] Removed world-write : /etc/systemd/user/sockets.target.wants/pulseaudio.socket
+[18:43:33] [FIX] File permission fixed : /etc/systemd/user/sockets.target.wants/pulseaudio.socket
+[18:43:33] [FIX] Removed world-write : /etc/systemd/user/sockets.target.wants/gpg-agent.socket
+[18:43:33] [FIX] File permission fixed : /etc/systemd/user/sockets.target.wants/gpg-agent.socket
+[18:43:33] [FIX] Removed world-write : /etc/mysql/my.cnf
+[18:43:33] [FIX] File permission fixed : /etc/mysql/my.cnf
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01apport
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01apport
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01console-setup.sh
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01console-setup.sh
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01saned
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01saned
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01kerneloops
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01kerneloops
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01cups-browsed
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01cups-browsed
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01grub-common
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01grub-common
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01whoopsie
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01whoopsie
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01rsyslog
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01rsyslog
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01unattended-upgrades
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01unattended-upgrades
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01avahi-daemon
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01avahi-daemon
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01plymouth
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01plymouth
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01anacron
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01anacron
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01cups
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01cups
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01acpid
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01acpid
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01spice-vdagent
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01spice-vdagent
+[18:43:34] [FIX] Removed world-write : /etc/rc2.d/S01uuidd
+[18:43:34] [FIX] Executable permission fixed : /etc/rc2.d/S01uuidd
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01openvpn
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01openvpn
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/K01speech-dispatcher
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/K01speech-dispatcher
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01gdm3
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01gdm3
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01dbus
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01dbus
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01cron
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01cron
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01irqbalance
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01irqbalance
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01rsync
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01rsync
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01bluetooth
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01bluetooth
+[18:43:35] [FIX] Removed world-write : /etc/rc2.d/S01pulseaudio-enable-autospawn
+[18:43:35] [FIX] Executable permission fixed : /etc/rc2.d/S01pulseaudio-enable-autospawn
+[18:43:35] [FIX] File permission fixed : /etc/popularity-contest.conf
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01apport
+[18:43:35] [FIX] Executable permission fixed : /etc/rc3.d/S01apport
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01console-setup.sh
+[18:43:35] [FIX] Executable permission fixed : /etc/rc3.d/S01console-setup.sh
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01saned
+[18:43:35] [FIX] Executable permission fixed : /etc/rc3.d/S01saned
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01kerneloops
+[18:43:35] [FIX] Executable permission fixed : /etc/rc3.d/S01kerneloops
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01cups-browsed
+[18:43:35] [FIX] Executable permission fixed : /etc/rc3.d/S01cups-browsed
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01grub-common
+[18:43:35] [FIX] Executable permission fixed : /etc/rc3.d/S01grub-common
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01whoopsie
+[18:43:35] [FIX] Executable permission fixed : /etc/rc3.d/S01whoopsie
+[18:43:35] [FIX] Removed world-write : /etc/rc3.d/S01rsyslog
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01rsyslog
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01unattended-upgrades
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01unattended-upgrades
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01avahi-daemon
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01avahi-daemon
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01plymouth
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01plymouth
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01anacron
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01anacron
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01cups
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01cups
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01acpid
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01acpid
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01spice-vdagent
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01spice-vdagent
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01uuidd
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01uuidd
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01openvpn
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01openvpn
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/K01speech-dispatcher
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/K01speech-dispatcher
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01gdm3
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01gdm3
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01dbus
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01dbus
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01cron
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01cron
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01irqbalance
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01irqbalance
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01rsync
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01rsync
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01bluetooth
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01bluetooth
+[18:43:36] [FIX] Removed world-write : /etc/rc3.d/S01pulseaudio-enable-autospawn
+[18:43:36] [FIX] Executable permission fixed : /etc/rc3.d/S01pulseaudio-enable-autospawn
+[18:43:37] [FIX] Removed world-write : /etc/apparmor/init/network-interface-security/sbin.dhclient
+[18:43:37] [FIX] File permission fixed : /etc/apparmor/init/network-interface-security/sbin.dhclient
+[18:43:37] [FIX] Directory permission fixed : /etc/polkit-1/localauthority
+[18:43:38] [FIX] Executable permission fixed : /etc/cron.monthly/0anacron
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/50-jack.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/50-jack.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/10-samplerate.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/10-samplerate.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/60-upmix.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/60-upmix.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/50-oss.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/50-oss.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/50-pulseaudio.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/50-pulseaudio.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/10-speexrate.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/10-speexrate.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/60-vdownmix.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/60-vdownmix.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/99-pulse.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/99-pulse.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/50-arcam-av-ctl.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/50-arcam-av-ctl.conf
+[18:43:38] [FIX] Removed world-write : /etc/alsa/conf.d/98-usb-stream.conf
+[18:43:38] [FIX] File permission fixed : /etc/alsa/conf.d/98-usb-stream.conf
+[18:43:38] [FIX] Executable permission fixed : /etc/wpa_supplicant/ifupdown.sh
+[18:43:39] [FIX] Executable permission fixed : /etc/wpa_supplicant/action_wpa.sh
+[18:43:39] [FIX] Directory permission fixed : /etc/cups/ssl
+[18:43:39] [FIX] File permission fixed : /etc/cups/subscriptions.conf.O
+[18:43:39] [FIX] File permission fixed : /etc/cups/subscriptions.conf
+[18:43:39] [FIX] Removed world-write : /etc/rmt
+[18:43:39] [FIX] Executable permission fixed : /etc/rmt
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/64-22-tlwg-typist.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/64-22-tlwg-typist.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/40-nonlatin.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/40-nonlatin.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/20-unhint-small-dejavu-sans-mono.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/20-unhint-small-dejavu-sans-mono.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-p052.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-p052.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/67-fonts-smc-manjari.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/67-fonts-smc-manjari.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-suruma.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-suruma.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-beng-extra.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-beng-extra.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/60-generic.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/60-generic.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/69-language-selector-zh-sg.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/69-language-selector-zh-sg.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/58-dejavu-lgc-sans.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/58-dejavu-lgc-sans.conf
+[18:43:41] [FIX] Removed world-write : /etc/fonts/conf.d/57-dejavu-sans.conf
+[18:43:41] [FIX] File permission fixed : /etc/fonts/conf.d/57-dejavu-sans.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-z003.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-z003.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-pagul.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-pagul.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-nimbus-mono-ps.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-nimbus-mono-ps.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/64-02-tlwg-norasi.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/64-02-tlwg-norasi.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-nimbus-sans.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-nimbus-sans.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-orya-extra.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-orya-extra.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-c059.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-c059.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/30-metric-aliases.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/30-metric-aliases.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/50-user.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/50-user.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-tamil.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-tamil.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-nimbus-roman.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-nimbus-roman.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/64-13-tlwg-garuda.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/64-13-tlwg-garuda.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-smc-meera.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-smc-meera.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/89-tlwg-laksaman-synthetic.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/89-tlwg-laksaman-synthetic.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/10-hinting-slight.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/10-hinting-slight.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-keraleeyam.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-keraleeyam.conf
+[18:43:42] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-raghumalayalamsans.conf
+[18:43:42] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-raghumalayalamsans.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-karumbi.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-karumbi.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/45-generic.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/45-generic.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-telu-extra.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-telu-extra.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-d050000l.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-d050000l.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/65-nonlatin.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/65-nonlatin.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/64-23-tlwg-mono.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/64-23-tlwg-mono.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-dyuthi.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-dyuthi.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/10-antialias.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/10-antialias.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/90-synthetic.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/90-synthetic.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/30-opensymbol.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/30-opensymbol.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-guru-extra.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-guru-extra.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-fallback-generics.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-fallback-generics.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/20-unhint-small-dejavu-sans.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/20-unhint-small-dejavu-sans.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-smc-rachana.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-smc-rachana.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-bengali.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-bengali.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/11-lcdfilter-default.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/11-lcdfilter-default.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-gujr-extra.conf
+[18:43:43] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-gujr-extra.conf
+[18:43:43] [FIX] Removed world-write : /etc/fonts/conf.d/69-language-selector-zh-mo.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/69-language-selector-zh-mo.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-standard-symbols-ps.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-standard-symbols-ps.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/80-delicious.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/80-delicious.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/69-language-selector-zh-tw.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/69-language-selector-zh-tw.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/89-tlwg-kinnari-synthetic.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/89-tlwg-kinnari-synthetic.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/64-21-tlwg-typo.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/64-21-tlwg-typo.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/69-language-selector-ja.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/69-language-selector-ja.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/20-unhint-small-vera.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/20-unhint-small-vera.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/20-unhint-small-dejavu-serif.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/20-unhint-small-dejavu-serif.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/64-15-laksaman.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/64-15-laksaman.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-devanagari.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-devanagari.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/64-14-tlwg-umpush.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/64-14-tlwg-umpush.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/64-01-tlwg-kinnari.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/64-01-tlwg-kinnari.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/89-tlwg-umpush-synthetic.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/89-tlwg-umpush-synthetic.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/58-dejavu-lgc-serif.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/58-dejavu-lgc-serif.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/69-language-selector-zh-cn.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/69-language-selector-zh-cn.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/69-language-selector-zh-hk.conf
+[18:43:44] [FIX] File permission fixed : /etc/fonts/conf.d/69-language-selector-zh-hk.conf
+[18:43:44] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-tamil-classical.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-tamil-classical.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/56-language-selector-ar.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/56-language-selector-ar.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/58-dejavu-lgc-sans-mono.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/58-dejavu-lgc-sans-mono.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/65-fonts-persian.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/65-fonts-persian.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-anjalioldlipi.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-anjalioldlipi.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/60-latin.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/60-latin.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans-mono.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans-mono.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/64-10-tlwg-loma.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/64-10-tlwg-loma.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-gurmukhi.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-gurmukhi.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-kannada.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-kannada.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/59-lohit-devanagari.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/59-lohit-devanagari.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-serif.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-serif.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-gujarati.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-gujarati.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/45-latin.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/45-latin.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/65-droid-sans-fallback.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/65-droid-sans-fallback.conf
+[18:43:45] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-bookman.conf
+[18:43:45] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-bookman.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/64-11-tlwg-waree.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/64-11-tlwg-waree.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/49-sansserif.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/49-sansserif.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-odia.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-odia.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/10-scale-bitmap-fonts.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/10-scale-bitmap-fonts.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/30-cjk-aliases.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/30-cjk-aliases.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/99-language-selector-zh.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/99-language-selector-zh.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/70-no-bitmaps.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/70-no-bitmaps.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-deva-extra.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-deva-extra.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-uroob.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-uroob.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/69-unifont.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/69-unifont.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/67-smc-chilanka.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/67-smc-chilanka.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-telugu.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-telugu.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/57-dejavu-serif.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/57-dejavu-serif.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/57-dejavu-sans-mono.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/57-dejavu-sans-mono.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/89-tlwg-garuda-synthetic.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/89-tlwg-garuda-synthetic.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/65-0-fonts-gubbi.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/65-0-fonts-gubbi.conf
+[18:43:46] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-gothic.conf
+[18:43:46] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-gothic.conf
+[18:43:47] [FIX] Removed world-write : /etc/fonts/conf.d/64-language-selector-prefer.conf
+[18:43:47] [FIX] File permission fixed : /etc/fonts/conf.d/64-language-selector-prefer.conf
+[18:43:47] [FIX] Removed world-write : /etc/fonts/conf.d/70-fonts-noto-cjk.conf
+[18:43:47] [FIX] File permission fixed : /etc/fonts/conf.d/70-fonts-noto-cjk.conf
+[18:43:47] [FIX] Removed world-write : /etc/fonts/conf.d/61-urw-fallback-backwards.conf
+[18:43:47] [FIX] File permission fixed : /etc/fonts/conf.d/61-urw-fallback-backwards.conf
+[18:43:47] [FIX] Removed world-write : /etc/fonts/conf.d/66-lohit-assamese.conf
+[18:43:47] [FIX] File permission fixed : /etc/fonts/conf.d/66-lohit-assamese.conf
+[18:43:47] [FIX] Removed world-write : /etc/fonts/conf.d/51-local.conf
+[18:43:47] [FIX] File permission fixed : /etc/fonts/conf.d/51-local.conf

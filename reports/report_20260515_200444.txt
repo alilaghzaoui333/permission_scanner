@@ -1,0 +1,34 @@
+===== SCAN START Fri 15 May 2026 08:04:44 PM EDT =====
+[BEFORE] /home/ali/permission_scanner/test : 755
+[AFTER]  /home/ali/permission_scanner/test : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/badfile2 : 644
+[AFTER]  /home/ali/permission_scanner/test/badfile2 : 644
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/baddir : 755
+[AFTER]  /home/ali/permission_scanner/test/baddir : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/badfile : 755
+[MISMATCH FILE] /home/ali/permission_scanner/test/badfile (755 != 644)
+[AFTER]  /home/ali/permission_scanner/test/badfile : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/suidfile : 755
+[MISMATCH FILE] /home/ali/permission_scanner/test/suidfile (755 != 644)
+[AFTER]  /home/ali/permission_scanner/test/suidfile : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/sgidfile : 755
+[MISMATCH FILE] /home/ali/permission_scanner/test/sgidfile (755 != 644)
+[AFTER]  /home/ali/permission_scanner/test/sgidfile : 755
+----------------------------------------
+===== SECURITY ANALYSIS =====
+Risk Score : 6
+Risk Level : LOW
+Critical Issues : 0
+SetUID Files : 0
+SetGID Files : 0
+===== SUMMARY =====
+Total scanned : 6
+Files with issues : 3
+Issues found : 3
+Fixes applied : 0
+===== SCAN END Fri 15 May 2026 08:04:45 PM EDT =====

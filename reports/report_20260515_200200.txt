@@ -1,0 +1,4915 @@
+===== SCAN START Fri 15 May 2026 08:02:01 PM EDT =====
+[BEFORE] /usr/bin : 755
+[AFTER]  /usr/bin : 755
+----------------------------------------
+[BEFORE] /usr/bin/yelp : 755
+[MISMATCH FILE] /usr/bin/yelp (755 != 644)
+[AFTER]  /usr/bin/yelp : 755
+----------------------------------------
+[BEFORE] /usr/bin/cvtsudoers : 755
+[MISMATCH FILE] /usr/bin/cvtsudoers (755 != 644)
+[AFTER]  /usr/bin/cvtsudoers : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-rename : 755
+[MISMATCH FILE] /usr/bin/gvfs-rename (755 != 644)
+[AFTER]  /usr/bin/gvfs-rename : 755
+----------------------------------------
+[BEFORE] /usr/bin/tzselect : 755
+[MISMATCH FILE] /usr/bin/tzselect (755 != 644)
+[AFTER]  /usr/bin/tzselect : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-analyze : 755
+[MISMATCH FILE] /usr/bin/systemd-analyze (755 != 644)
+[AFTER]  /usr/bin/systemd-analyze : 755
+----------------------------------------
+[BEFORE] /usr/bin/chfn : 4755
+[CRITICAL] SetUID detected : /usr/bin/chfn
+[MISMATCH FILE] /usr/bin/chfn (755 != 644)
+[AFTER]  /usr/bin/chfn : 4755
+----------------------------------------
+[BEFORE] /usr/bin/transmission-gtk : 755
+[MISMATCH FILE] /usr/bin/transmission-gtk (755 != 644)
+[AFTER]  /usr/bin/transmission-gtk : 755
+----------------------------------------
+[BEFORE] /usr/bin/ptargrep : 755
+[MISMATCH FILE] /usr/bin/ptargrep (755 != 644)
+[AFTER]  /usr/bin/ptargrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/alsamixer : 755
+[MISMATCH FILE] /usr/bin/alsamixer (755 != 644)
+[AFTER]  /usr/bin/alsamixer : 755
+----------------------------------------
+[BEFORE] /usr/bin/install-printerdriver : 755
+[MISMATCH FILE] /usr/bin/install-printerdriver (755 != 644)
+[AFTER]  /usr/bin/install-printerdriver : 755
+----------------------------------------
+[BEFORE] /usr/bin/ssh-keyscan : 755
+[MISMATCH FILE] /usr/bin/ssh-keyscan (755 != 644)
+[AFTER]  /usr/bin/ssh-keyscan : 755
+----------------------------------------
+[BEFORE] /usr/bin/xvinfo : 755
+[MISMATCH FILE] /usr/bin/xvinfo (755 != 644)
+[AFTER]  /usr/bin/xvinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-sysusers : 755
+[MISMATCH FILE] /usr/bin/systemd-sysusers (755 != 644)
+[AFTER]  /usr/bin/systemd-sysusers : 755
+----------------------------------------
+[BEFORE] /usr/bin/printf : 755
+[MISMATCH FILE] /usr/bin/printf (755 != 644)
+[AFTER]  /usr/bin/printf : 755
+----------------------------------------
+[BEFORE] /usr/bin/shred : 755
+[MISMATCH FILE] /usr/bin/shred (755 != 644)
+[AFTER]  /usr/bin/shred : 755
+----------------------------------------
+[BEFORE] /usr/bin/umount : 4755
+[CRITICAL] SetUID detected : /usr/bin/umount
+[MISMATCH FILE] /usr/bin/umount (755 != 644)
+[AFTER]  /usr/bin/umount : 4755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mkrescue : 755
+[MISMATCH FILE] /usr/bin/grub-mkrescue (755 != 644)
+[AFTER]  /usr/bin/grub-mkrescue : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-font-viewer : 755
+[MISMATCH FILE] /usr/bin/gnome-font-viewer (755 != 644)
+[AFTER]  /usr/bin/gnome-font-viewer : 755
+----------------------------------------
+[BEFORE] /usr/bin/mountpoint : 755
+[MISMATCH FILE] /usr/bin/mountpoint (755 != 644)
+[AFTER]  /usr/bin/mountpoint : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-screenshot : 755
+[MISMATCH FILE] /usr/bin/gnome-screenshot (755 != 644)
+[AFTER]  /usr/bin/gnome-screenshot : 755
+----------------------------------------
+[BEFORE] /usr/bin/xev : 755
+[MISMATCH FILE] /usr/bin/xev (755 != 644)
+[AFTER]  /usr/bin/xev : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfs-3g.probe : 755
+[MISMATCH FILE] /usr/bin/ntfs-3g.probe (755 != 644)
+[AFTER]  /usr/bin/ntfs-3g.probe : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2pdfwr : 755
+[MISMATCH FILE] /usr/bin/ps2pdfwr (755 != 644)
+[AFTER]  /usr/bin/ps2pdfwr : 755
+----------------------------------------
+[BEFORE] /usr/bin/getconf : 755
+[MISMATCH FILE] /usr/bin/getconf (755 != 644)
+[AFTER]  /usr/bin/getconf : 755
+----------------------------------------
+[BEFORE] /usr/bin/wall : 755
+[MISMATCH FILE] /usr/bin/wall (755 != 644)
+[AFTER]  /usr/bin/wall : 755
+----------------------------------------
+[BEFORE] /usr/bin/xinput : 755
+[MISMATCH FILE] /usr/bin/xinput (755 != 644)
+[AFTER]  /usr/bin/xinput : 755
+----------------------------------------
+[BEFORE] /usr/bin/cvt : 755
+[MISMATCH FILE] /usr/bin/cvt (755 != 644)
+[AFTER]  /usr/bin/cvt : 755
+----------------------------------------
+[BEFORE] /usr/bin/lomath : 755
+[MISMATCH FILE] /usr/bin/lomath (755 != 644)
+[AFTER]  /usr/bin/lomath : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-ls : 755
+[MISMATCH FILE] /usr/bin/gvfs-ls (755 != 644)
+[AFTER]  /usr/bin/gvfs-ls : 755
+----------------------------------------
+[BEFORE] /usr/bin/xset : 755
+[MISMATCH FILE] /usr/bin/xset (755 != 644)
+[AFTER]  /usr/bin/xset : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gprof : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gprof (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gprof : 755
+----------------------------------------
+[BEFORE] /usr/bin/env : 755
+[MISMATCH FILE] /usr/bin/env (755 != 644)
+[AFTER]  /usr/bin/env : 755
+----------------------------------------
+[BEFORE] /usr/bin/ppdc : 755
+[MISMATCH FILE] /usr/bin/ppdc (755 != 644)
+[AFTER]  /usr/bin/ppdc : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg : 755
+[MISMATCH FILE] /usr/bin/dpkg (755 != 644)
+[AFTER]  /usr/bin/dpkg : 755
+----------------------------------------
+[BEFORE] /usr/bin/unicode_start : 755
+[MISMATCH FILE] /usr/bin/unicode_start (755 != 644)
+[AFTER]  /usr/bin/unicode_start : 755
+----------------------------------------
+[BEFORE] /usr/bin/ipod-time-sync : 755
+[MISMATCH FILE] /usr/bin/ipod-time-sync (755 != 644)
+[AFTER]  /usr/bin/ipod-time-sync : 755
+----------------------------------------
+[BEFORE] /usr/bin/vstp : 755
+[MISMATCH FILE] /usr/bin/vstp (755 != 644)
+[AFTER]  /usr/bin/vstp : 755
+----------------------------------------
+[BEFORE] /usr/bin/lwp-dump : 755
+[MISMATCH FILE] /usr/bin/lwp-dump (755 != 644)
+[AFTER]  /usr/bin/lwp-dump : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-gensymbols : 755
+[MISMATCH FILE] /usr/bin/dpkg-gensymbols (755 != 644)
+[AFTER]  /usr/bin/dpkg-gensymbols : 755
+----------------------------------------
+[BEFORE] /usr/bin/infocmp : 755
+[MISMATCH FILE] /usr/bin/infocmp (755 != 644)
+[AFTER]  /usr/bin/infocmp : 755
+----------------------------------------
+[BEFORE] /usr/bin/totem-video-thumbnailer : 755
+[MISMATCH FILE] /usr/bin/totem-video-thumbnailer (755 != 644)
+[AFTER]  /usr/bin/totem-video-thumbnailer : 755
+----------------------------------------
+[BEFORE] /usr/bin/col : 755
+[MISMATCH FILE] /usr/bin/col (755 != 644)
+[AFTER]  /usr/bin/col : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-source : 755
+[MISMATCH FILE] /usr/bin/dpkg-source (755 != 644)
+[AFTER]  /usr/bin/dpkg-source : 755
+----------------------------------------
+[BEFORE] /usr/bin/sleep : 755
+[MISMATCH FILE] /usr/bin/sleep (755 != 644)
+[AFTER]  /usr/bin/sleep : 755
+----------------------------------------
+[BEFORE] /usr/bin/sbsign : 755
+[MISMATCH FILE] /usr/bin/sbsign (755 != 644)
+[AFTER]  /usr/bin/sbsign : 755
+----------------------------------------
+[BEFORE] /usr/bin/bzip2recover : 755
+[MISMATCH FILE] /usr/bin/bzip2recover (755 != 644)
+[AFTER]  /usr/bin/bzip2recover : 755
+----------------------------------------
+[BEFORE] /usr/bin/brltty : 755
+[MISMATCH FILE] /usr/bin/brltty (755 != 644)
+[AFTER]  /usr/bin/brltty : 755
+----------------------------------------
+[BEFORE] /usr/bin/seq : 755
+[MISMATCH FILE] /usr/bin/seq (755 != 644)
+[AFTER]  /usr/bin/seq : 755
+----------------------------------------
+[BEFORE] /usr/bin/timeout : 755
+[MISMATCH FILE] /usr/bin/timeout (755 != 644)
+[AFTER]  /usr/bin/timeout : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-menulst2cfg : 755
+[MISMATCH FILE] /usr/bin/grub-menulst2cfg (755 != 644)
+[AFTER]  /usr/bin/grub-menulst2cfg : 755
+----------------------------------------
+[BEFORE] /usr/bin/Xorg : 755
+[MISMATCH FILE] /usr/bin/Xorg (755 != 644)
+[AFTER]  /usr/bin/Xorg : 755
+----------------------------------------
+[BEFORE] /usr/bin/unopkg : 755
+[MISMATCH FILE] /usr/bin/unopkg (755 != 644)
+[AFTER]  /usr/bin/unopkg : 755
+----------------------------------------
+[BEFORE] /usr/bin/troff : 755
+[MISMATCH FILE] /usr/bin/troff (755 != 644)
+[AFTER]  /usr/bin/troff : 755
+----------------------------------------
+[BEFORE] /usr/bin/gamma4scanimage : 755
+[MISMATCH FILE] /usr/bin/gamma4scanimage (755 != 644)
+[AFTER]  /usr/bin/gamma4scanimage : 755
+----------------------------------------
+[BEFORE] /usr/bin/Xwayland : 755
+[MISMATCH FILE] /usr/bin/Xwayland (755 != 644)
+[AFTER]  /usr/bin/Xwayland : 755
+----------------------------------------
+[BEFORE] /usr/bin/spd-conf : 755
+[MISMATCH FILE] /usr/bin/spd-conf (755 != 644)
+[AFTER]  /usr/bin/spd-conf : 755
+----------------------------------------
+[BEFORE] /usr/bin/h2xs : 755
+[MISMATCH FILE] /usr/bin/h2xs (755 != 644)
+[AFTER]  /usr/bin/h2xs : 755
+----------------------------------------
+[BEFORE] /usr/bin/snap : 755
+[MISMATCH FILE] /usr/bin/snap (755 != 644)
+[AFTER]  /usr/bin/snap : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfswipe : 755
+[MISMATCH FILE] /usr/bin/ntfswipe (755 != 644)
+[AFTER]  /usr/bin/ntfswipe : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-ar : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-ar (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-ar : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mknetdir : 755
+[MISMATCH FILE] /usr/bin/grub-mknetdir (755 != 644)
+[AFTER]  /usr/bin/grub-mknetdir : 755
+----------------------------------------
+[BEFORE] /usr/bin/arm2hpdl : 755
+[MISMATCH FILE] /usr/bin/arm2hpdl (755 != 644)
+[AFTER]  /usr/bin/arm2hpdl : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpg-zip : 755
+[MISMATCH FILE] /usr/bin/gpg-zip (755 != 644)
+[AFTER]  /usr/bin/gpg-zip : 755
+----------------------------------------
+[BEFORE] /usr/bin/lwp-mirror : 755
+[MISMATCH FILE] /usr/bin/lwp-mirror (755 != 644)
+[AFTER]  /usr/bin/lwp-mirror : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpgtar : 755
+[MISMATCH FILE] /usr/bin/gpgtar (755 != 644)
+[AFTER]  /usr/bin/gpgtar : 755
+----------------------------------------
+[BEFORE] /usr/bin/gslj : 755
+[MISMATCH FILE] /usr/bin/gslj (755 != 644)
+[AFTER]  /usr/bin/gslj : 755
+----------------------------------------
+[BEFORE] /usr/bin/xbiff : 755
+[MISMATCH FILE] /usr/bin/xbiff (755 != 644)
+[AFTER]  /usr/bin/xbiff : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkbvleds : 755
+[MISMATCH FILE] /usr/bin/xkbvleds (755 != 644)
+[AFTER]  /usr/bin/xkbvleds : 755
+----------------------------------------
+[BEFORE] /usr/bin/networkctl : 755
+[MISMATCH FILE] /usr/bin/networkctl (755 != 644)
+[AFTER]  /usr/bin/networkctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/mk_modmap : 755
+[MISMATCH FILE] /usr/bin/mk_modmap (755 != 644)
+[AFTER]  /usr/bin/mk_modmap : 755
+----------------------------------------
+[BEFORE] /usr/bin/pactl : 755
+[MISMATCH FILE] /usr/bin/pactl (755 != 644)
+[AFTER]  /usr/bin/pactl : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-vendor : 755
+[MISMATCH FILE] /usr/bin/dpkg-vendor (755 != 644)
+[AFTER]  /usr/bin/dpkg-vendor : 755
+----------------------------------------
+[BEFORE] /usr/bin/aa-exec : 755
+[MISMATCH FILE] /usr/bin/aa-exec (755 != 644)
+[AFTER]  /usr/bin/aa-exec : 755
+----------------------------------------
+[BEFORE] /usr/bin/oakdecode : 755
+[MISMATCH FILE] /usr/bin/oakdecode (755 != 644)
+[AFTER]  /usr/bin/oakdecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/pod2html : 755
+[MISMATCH FILE] /usr/bin/pod2html (755 != 644)
+[AFTER]  /usr/bin/pod2html : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-tmpfiles : 755
+[MISMATCH FILE] /usr/bin/systemd-tmpfiles (755 != 644)
+[AFTER]  /usr/bin/systemd-tmpfiles : 755
+----------------------------------------
+[BEFORE] /usr/bin/paste : 755
+[MISMATCH FILE] /usr/bin/paste (755 != 644)
+[AFTER]  /usr/bin/paste : 755
+----------------------------------------
+[BEFORE] /usr/bin/perl5.30-x86_64-linux-gnu : 755
+[MISMATCH FILE] /usr/bin/perl5.30-x86_64-linux-gnu (755 != 644)
+[AFTER]  /usr/bin/perl5.30-x86_64-linux-gnu : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2hiperc : 755
+[MISMATCH FILE] /usr/bin/foo2hiperc (755 != 644)
+[AFTER]  /usr/bin/foo2hiperc : 755
+----------------------------------------
+[BEFORE] /usr/bin/getent : 755
+[MISMATCH FILE] /usr/bin/getent (755 != 644)
+[AFTER]  /usr/bin/getent : 755
+----------------------------------------
+[BEFORE] /usr/bin/bc : 755
+[MISMATCH FILE] /usr/bin/bc (755 != 644)
+[AFTER]  /usr/bin/bc : 755
+----------------------------------------
+[BEFORE] /usr/bin/mdig : 755
+[MISMATCH FILE] /usr/bin/mdig (755 != 644)
+[AFTER]  /usr/bin/mdig : 755
+----------------------------------------
+[BEFORE] /usr/bin/broadwayd : 755
+[MISMATCH FILE] /usr/bin/broadwayd (755 != 644)
+[AFTER]  /usr/bin/broadwayd : 755
+----------------------------------------
+[BEFORE] /usr/bin/isoinfo : 755
+[MISMATCH FILE] /usr/bin/isoinfo (755 != 644)
+[AFTER]  /usr/bin/isoinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/nsenter : 755
+[MISMATCH FILE] /usr/bin/nsenter (755 != 644)
+[AFTER]  /usr/bin/nsenter : 755
+----------------------------------------
+[BEFORE] /usr/bin/printerbanner : 755
+[MISMATCH FILE] /usr/bin/printerbanner (755 != 644)
+[AFTER]  /usr/bin/printerbanner : 755
+----------------------------------------
+[BEFORE] /usr/bin/dh_installxmlcatalogs : 755
+[MISMATCH FILE] /usr/bin/dh_installxmlcatalogs (755 != 644)
+[AFTER]  /usr/bin/dh_installxmlcatalogs : 755
+----------------------------------------
+[BEFORE] /usr/bin/top : 755
+[MISMATCH FILE] /usr/bin/top (755 != 644)
+[AFTER]  /usr/bin/top : 755
+----------------------------------------
+[BEFORE] /usr/bin/pax11publish : 755
+[MISMATCH FILE] /usr/bin/pax11publish (755 != 644)
+[AFTER]  /usr/bin/pax11publish : 755
+----------------------------------------
+[BEFORE] /usr/bin/rygel : 755
+[MISMATCH FILE] /usr/bin/rygel (755 != 644)
+[AFTER]  /usr/bin/rygel : 755
+----------------------------------------
+[BEFORE] /usr/bin/transicc : 755
+[MISMATCH FILE] /usr/bin/transicc (755 != 644)
+[AFTER]  /usr/bin/transicc : 755
+----------------------------------------
+[BEFORE] /usr/bin/login : 755
+[MISMATCH FILE] /usr/bin/login (755 != 644)
+[AFTER]  /usr/bin/login : 755
+----------------------------------------
+[BEFORE] /usr/bin/openvt : 755
+[MISMATCH FILE] /usr/bin/openvt (755 != 644)
+[AFTER]  /usr/bin/openvt : 755
+----------------------------------------
+[BEFORE] /usr/bin/x11perf : 755
+[MISMATCH FILE] /usr/bin/x11perf (755 != 644)
+[AFTER]  /usr/bin/x11perf : 755
+----------------------------------------
+[BEFORE] /usr/bin/xxd : 755
+[MISMATCH FILE] /usr/bin/xxd (755 != 644)
+[AFTER]  /usr/bin/xxd : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-session : 755
+[MISMATCH FILE] /usr/bin/gnome-session (755 != 644)
+[AFTER]  /usr/bin/gnome-session : 755
+----------------------------------------
+[BEFORE] /usr/bin/stdbuf : 755
+[MISMATCH FILE] /usr/bin/stdbuf (755 != 644)
+[AFTER]  /usr/bin/stdbuf : 755
+----------------------------------------
+[BEFORE] /usr/bin/socat : 755
+[MISMATCH FILE] /usr/bin/socat (755 != 644)
+[AFTER]  /usr/bin/socat : 755
+----------------------------------------
+[BEFORE] /usr/bin/unicode_stop : 755
+[MISMATCH FILE] /usr/bin/unicode_stop (755 != 644)
+[AFTER]  /usr/bin/unicode_stop : 755
+----------------------------------------
+[BEFORE] /usr/bin/unzipsfx : 755
+[MISMATCH FILE] /usr/bin/unzipsfx (755 != 644)
+[AFTER]  /usr/bin/unzipsfx : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-detect-virt : 755
+[MISMATCH FILE] /usr/bin/systemd-detect-virt (755 != 644)
+[AFTER]  /usr/bin/systemd-detect-virt : 755
+----------------------------------------
+[BEFORE] /usr/bin/dig : 755
+[MISMATCH FILE] /usr/bin/dig (755 != 644)
+[AFTER]  /usr/bin/dig : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-calendar : 755
+[MISMATCH FILE] /usr/bin/gnome-calendar (755 != 644)
+[AFTER]  /usr/bin/gnome-calendar : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-trash : 755
+[MISMATCH FILE] /usr/bin/gvfs-trash (755 != 644)
+[AFTER]  /usr/bin/gvfs-trash : 755
+----------------------------------------
+[BEFORE] /usr/bin/sudoreplay : 755
+[MISMATCH FILE] /usr/bin/sudoreplay (755 != 644)
+[AFTER]  /usr/bin/sudoreplay : 755
+----------------------------------------
+[BEFORE] /usr/bin/gio : 755
+[MISMATCH FILE] /usr/bin/gio (755 != 644)
+[AFTER]  /usr/bin/gio : 755
+----------------------------------------
+[BEFORE] /usr/bin/instmodsh : 755
+[MISMATCH FILE] /usr/bin/instmodsh (755 != 644)
+[AFTER]  /usr/bin/instmodsh : 755
+----------------------------------------
+[BEFORE] /usr/bin/usb_printerid : 755
+[MISMATCH FILE] /usr/bin/usb_printerid (755 != 644)
+[AFTER]  /usr/bin/usb_printerid : 755
+----------------------------------------
+[BEFORE] /usr/bin/dirmngr-client : 755
+[MISMATCH FILE] /usr/bin/dirmngr-client (755 != 644)
+[AFTER]  /usr/bin/dirmngr-client : 755
+----------------------------------------
+[BEFORE] /usr/bin/patch : 755
+[MISMATCH FILE] /usr/bin/patch (755 != 644)
+[AFTER]  /usr/bin/patch : 755
+----------------------------------------
+[BEFORE] /usr/bin/update-alternatives : 755
+[MISMATCH FILE] /usr/bin/update-alternatives (755 != 644)
+[AFTER]  /usr/bin/update-alternatives : 755
+----------------------------------------
+[BEFORE] /usr/bin/baobab : 755
+[MISMATCH FILE] /usr/bin/baobab (755 != 644)
+[AFTER]  /usr/bin/baobab : 755
+----------------------------------------
+[BEFORE] /usr/bin/seahorse : 755
+[MISMATCH FILE] /usr/bin/seahorse (755 != 644)
+[AFTER]  /usr/bin/seahorse : 755
+----------------------------------------
+[BEFORE] /usr/bin/iecset : 755
+[MISMATCH FILE] /usr/bin/iecset (755 != 644)
+[AFTER]  /usr/bin/iecset : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-terminal : 755
+[MISMATCH FILE] /usr/bin/gnome-terminal (755 != 644)
+[AFTER]  /usr/bin/gnome-terminal : 755
+----------------------------------------
+[BEFORE] /usr/bin/localectl : 755
+[MISMATCH FILE] /usr/bin/localectl (755 != 644)
+[AFTER]  /usr/bin/localectl : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-name : 755
+[MISMATCH FILE] /usr/bin/dpkg-name (755 != 644)
+[AFTER]  /usr/bin/dpkg-name : 755
+----------------------------------------
+[BEFORE] /usr/bin/xauth : 755
+[MISMATCH FILE] /usr/bin/xauth (755 != 644)
+[AFTER]  /usr/bin/xauth : 755
+----------------------------------------
+[BEFORE] /usr/bin/rmdir : 755
+[MISMATCH FILE] /usr/bin/rmdir (755 != 644)
+[AFTER]  /usr/bin/rmdir : 755
+----------------------------------------
+[BEFORE] /usr/bin/nroff : 755
+[MISMATCH FILE] /usr/bin/nroff (755 != 644)
+[AFTER]  /usr/bin/nroff : 755
+----------------------------------------
+[BEFORE] /usr/bin/debconf-communicate : 755
+[MISMATCH FILE] /usr/bin/debconf-communicate (755 != 644)
+[AFTER]  /usr/bin/debconf-communicate : 755
+----------------------------------------
+[BEFORE] /usr/bin/udevadm : 755
+[MISMATCH FILE] /usr/bin/udevadm (755 != 644)
+[AFTER]  /usr/bin/udevadm : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2hp2600-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2hp2600-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2hp2600-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/pasuspender : 755
+[MISMATCH FILE] /usr/bin/pasuspender (755 != 644)
+[AFTER]  /usr/bin/pasuspender : 755
+----------------------------------------
+[BEFORE] /usr/bin/dh_dkms : 755
+[MISMATCH FILE] /usr/bin/dh_dkms (755 != 644)
+[AFTER]  /usr/bin/dh_dkms : 755
+----------------------------------------
+[BEFORE] /usr/bin/bdftruncate : 755
+[MISMATCH FILE] /usr/bin/bdftruncate (755 != 644)
+[AFTER]  /usr/bin/bdftruncate : 755
+----------------------------------------
+[BEFORE] /usr/bin/plog : 755
+[MISMATCH FILE] /usr/bin/plog (755 != 644)
+[AFTER]  /usr/bin/plog : 755
+----------------------------------------
+[BEFORE] /usr/bin/screendump : 755
+[MISMATCH FILE] /usr/bin/screendump (755 != 644)
+[AFTER]  /usr/bin/screendump : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-desktop-menu : 755
+[MISMATCH FILE] /usr/bin/xdg-desktop-menu (755 != 644)
+[AFTER]  /usr/bin/xdg-desktop-menu : 755
+----------------------------------------
+[BEFORE] /usr/bin/setfont : 755
+[MISMATCH FILE] /usr/bin/setfont (755 != 644)
+[AFTER]  /usr/bin/setfont : 755
+----------------------------------------
+[BEFORE] /usr/bin/tracker : 755
+[MISMATCH FILE] /usr/bin/tracker (755 != 644)
+[AFTER]  /usr/bin/tracker : 755
+----------------------------------------
+[BEFORE] /usr/bin/[ : 755
+[MISMATCH FILE] /usr/bin/[ (755 != 644)
+[AFTER]  /usr/bin/[ : 755
+----------------------------------------
+[BEFORE] /usr/bin/xzmore : 755
+[MISMATCH FILE] /usr/bin/xzmore (755 != 644)
+[AFTER]  /usr/bin/xzmore : 755
+----------------------------------------
+[BEFORE] /usr/bin/scp-dbus-service : 755
+[MISMATCH FILE] /usr/bin/scp-dbus-service (755 != 644)
+[AFTER]  /usr/bin/scp-dbus-service : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpgsplit : 755
+[MISMATCH FILE] /usr/bin/gpgsplit (755 != 644)
+[AFTER]  /usr/bin/gpgsplit : 755
+----------------------------------------
+[BEFORE] /usr/bin/uuidparse : 755
+[MISMATCH FILE] /usr/bin/uuidparse (755 != 644)
+[AFTER]  /usr/bin/uuidparse : 755
+----------------------------------------
+[BEFORE] /usr/bin/resizecons : 755
+[MISMATCH FILE] /usr/bin/resizecons (755 != 644)
+[AFTER]  /usr/bin/resizecons : 755
+----------------------------------------
+[BEFORE] /usr/bin/gipddecode : 755
+[MISMATCH FILE] /usr/bin/gipddecode (755 != 644)
+[AFTER]  /usr/bin/gipddecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/pkttyagent : 755
+[MISMATCH FILE] /usr/bin/pkttyagent (755 != 644)
+[AFTER]  /usr/bin/pkttyagent : 755
+----------------------------------------
+[BEFORE] /usr/bin/nautilus-sendto : 755
+[MISMATCH FILE] /usr/bin/nautilus-sendto (755 != 644)
+[AFTER]  /usr/bin/nautilus-sendto : 755
+----------------------------------------
+[BEFORE] /usr/bin/m2300w-wrapper : 755
+[MISMATCH FILE] /usr/bin/m2300w-wrapper (755 != 644)
+[AFTER]  /usr/bin/m2300w-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/mimetype : 755
+[MISMATCH FILE] /usr/bin/mimetype (755 != 644)
+[AFTER]  /usr/bin/mimetype : 755
+----------------------------------------
+[BEFORE] /usr/bin/apport-unpack : 755
+[MISMATCH FILE] /usr/bin/apport-unpack (755 != 644)
+[AFTER]  /usr/bin/apport-unpack : 755
+----------------------------------------
+[BEFORE] /usr/bin/avahi-browse : 755
+[MISMATCH FILE] /usr/bin/avahi-browse (755 != 644)
+[AFTER]  /usr/bin/avahi-browse : 755
+----------------------------------------
+[BEFORE] /usr/bin/gzip : 755
+[MISMATCH FILE] /usr/bin/gzip (755 != 644)
+[AFTER]  /usr/bin/gzip : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-extensions : 755
+[MISMATCH FILE] /usr/bin/gnome-extensions (755 != 644)
+[AFTER]  /usr/bin/gnome-extensions : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mkpasswd-pbkdf2 : 755
+[MISMATCH FILE] /usr/bin/grub-mkpasswd-pbkdf2 (755 != 644)
+[AFTER]  /usr/bin/grub-mkpasswd-pbkdf2 : 755
+----------------------------------------
+[BEFORE] /usr/bin/dd : 755
+[MISMATCH FILE] /usr/bin/dd (755 != 644)
+[AFTER]  /usr/bin/dd : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdfunite : 755
+[MISMATCH FILE] /usr/bin/pdfunite (755 != 644)
+[AFTER]  /usr/bin/pdfunite : 755
+----------------------------------------
+[BEFORE] /usr/bin/info : 755
+[MISMATCH FILE] /usr/bin/info (755 != 644)
+[AFTER]  /usr/bin/info : 755
+----------------------------------------
+[BEFORE] /usr/bin/mmcli : 755
+[MISMATCH FILE] /usr/bin/mmcli (755 != 644)
+[AFTER]  /usr/bin/mmcli : 755
+----------------------------------------
+[BEFORE] /usr/bin/apport-bug : 755
+[MISMATCH FILE] /usr/bin/apport-bug (755 != 644)
+[AFTER]  /usr/bin/apport-bug : 755
+----------------------------------------
+[BEFORE] /usr/bin/genisoimage : 755
+[MISMATCH FILE] /usr/bin/genisoimage (755 != 644)
+[AFTER]  /usr/bin/genisoimage : 755
+----------------------------------------
+[BEFORE] /usr/bin/xcursorgen : 755
+[MISMATCH FILE] /usr/bin/xcursorgen (755 != 644)
+[AFTER]  /usr/bin/xcursorgen : 755
+----------------------------------------
+[BEFORE] /usr/bin/speech-dispatcher : 755
+[MISMATCH FILE] /usr/bin/speech-dispatcher (755 != 644)
+[AFTER]  /usr/bin/speech-dispatcher : 755
+----------------------------------------
+[BEFORE] /usr/bin/remmina : 755
+[MISMATCH FILE] /usr/bin/remmina (755 != 644)
+[AFTER]  /usr/bin/remmina : 755
+----------------------------------------
+[BEFORE] /usr/bin/vmwarectrl : 755
+[MISMATCH FILE] /usr/bin/vmwarectrl (755 != 644)
+[AFTER]  /usr/bin/vmwarectrl : 755
+----------------------------------------
+[BEFORE] /usr/bin/findmnt : 755
+[MISMATCH FILE] /usr/bin/findmnt (755 != 644)
+[AFTER]  /usr/bin/findmnt : 755
+----------------------------------------
+[BEFORE] /usr/bin/pulseaudio : 755
+[MISMATCH FILE] /usr/bin/pulseaudio (755 != 644)
+[AFTER]  /usr/bin/pulseaudio : 755
+----------------------------------------
+[BEFORE] /usr/bin/kbd_mode : 755
+[MISMATCH FILE] /usr/bin/kbd_mode (755 != 644)
+[AFTER]  /usr/bin/kbd_mode : 755
+----------------------------------------
+[BEFORE] /usr/bin/cpan5.30-x86_64-linux-gnu : 755
+[MISMATCH FILE] /usr/bin/cpan5.30-x86_64-linux-gnu (755 != 644)
+[AFTER]  /usr/bin/cpan5.30-x86_64-linux-gnu : 755
+----------------------------------------
+[BEFORE] /usr/bin/loginctl : 755
+[MISMATCH FILE] /usr/bin/loginctl (755 != 644)
+[AFTER]  /usr/bin/loginctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-send : 755
+[MISMATCH FILE] /usr/bin/dbus-send (755 != 644)
+[AFTER]  /usr/bin/dbus-send : 755
+----------------------------------------
+[BEFORE] /usr/bin/chattr : 755
+[MISMATCH FILE] /usr/bin/chattr (755 != 644)
+[AFTER]  /usr/bin/chattr : 755
+----------------------------------------
+[BEFORE] /usr/bin/cd-create-profile : 755
+[MISMATCH FILE] /usr/bin/cd-create-profile (755 != 644)
+[AFTER]  /usr/bin/cd-create-profile : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-machine-id-setup : 755
+[MISMATCH FILE] /usr/bin/systemd-machine-id-setup (755 != 644)
+[AFTER]  /usr/bin/systemd-machine-id-setup : 755
+----------------------------------------
+[BEFORE] /usr/bin/m2400w : 755
+[MISMATCH FILE] /usr/bin/m2400w (755 != 644)
+[AFTER]  /usr/bin/m2400w : 755
+----------------------------------------
+[BEFORE] /usr/bin/gencat : 755
+[MISMATCH FILE] /usr/bin/gencat (755 != 644)
+[AFTER]  /usr/bin/gencat : 755
+----------------------------------------
+[BEFORE] /usr/bin/watchgnupg : 755
+[MISMATCH FILE] /usr/bin/watchgnupg (755 != 644)
+[AFTER]  /usr/bin/watchgnupg : 755
+----------------------------------------
+[BEFORE] /usr/bin/lslocks : 755
+[MISMATCH FILE] /usr/bin/lslocks (755 != 644)
+[AFTER]  /usr/bin/lslocks : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gcov-dump-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gcov-dump-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gcov-dump-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/setsid : 755
+[MISMATCH FILE] /usr/bin/setsid (755 != 644)
+[AFTER]  /usr/bin/setsid : 755
+----------------------------------------
+[BEFORE] /usr/bin/readlink : 755
+[MISMATCH FILE] /usr/bin/readlink (755 != 644)
+[AFTER]  /usr/bin/readlink : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-script-check : 755
+[MISMATCH FILE] /usr/bin/grub-script-check (755 != 644)
+[AFTER]  /usr/bin/grub-script-check : 755
+----------------------------------------
+[BEFORE] /usr/bin/diff : 755
+[MISMATCH FILE] /usr/bin/diff (755 != 644)
+[AFTER]  /usr/bin/diff : 755
+----------------------------------------
+[BEFORE] /usr/bin/mtrace : 755
+[MISMATCH FILE] /usr/bin/mtrace (755 != 644)
+[AFTER]  /usr/bin/mtrace : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-get : 755
+[MISMATCH FILE] /usr/bin/apt-get (755 != 644)
+[AFTER]  /usr/bin/apt-get : 755
+----------------------------------------
+[BEFORE] /usr/bin/apgbfm : 755
+[MISMATCH FILE] /usr/bin/apgbfm (755 != 644)
+[AFTER]  /usr/bin/apgbfm : 755
+----------------------------------------
+[BEFORE] /usr/bin/bzip2 : 755
+[MISMATCH FILE] /usr/bin/bzip2 (755 != 644)
+[AFTER]  /usr/bin/bzip2 : 755
+----------------------------------------
+[BEFORE] /usr/bin/tificc : 755
+[MISMATCH FILE] /usr/bin/tificc (755 != 644)
+[AFTER]  /usr/bin/tificc : 755
+----------------------------------------
+[BEFORE] /usr/bin/pslog : 755
+[MISMATCH FILE] /usr/bin/pslog (755 != 644)
+[AFTER]  /usr/bin/pslog : 755
+----------------------------------------
+[BEFORE] /usr/bin/bzgrep : 755
+[MISMATCH FILE] /usr/bin/bzgrep (755 != 644)
+[AFTER]  /usr/bin/bzgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/helpztags : 755
+[MISMATCH FILE] /usr/bin/helpztags (755 != 644)
+[AFTER]  /usr/bin/helpztags : 755
+----------------------------------------
+[BEFORE] /usr/bin/shellcheck : 755
+[MISMATCH FILE] /usr/bin/shellcheck (755 != 644)
+[AFTER]  /usr/bin/shellcheck : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-mark : 755
+[MISMATCH FILE] /usr/bin/apt-mark (755 != 644)
+[AFTER]  /usr/bin/apt-mark : 755
+----------------------------------------
+[BEFORE] /usr/bin/debconf-apt-progress : 755
+[MISMATCH FILE] /usr/bin/debconf-apt-progress (755 != 644)
+[AFTER]  /usr/bin/debconf-apt-progress : 755
+----------------------------------------
+[BEFORE] /usr/bin/iceauth : 755
+[MISMATCH FILE] /usr/bin/iceauth (755 != 644)
+[AFTER]  /usr/bin/iceauth : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-terminal.real : 755
+[MISMATCH FILE] /usr/bin/gnome-terminal.real (755 != 644)
+[AFTER]  /usr/bin/gnome-terminal.real : 755
+----------------------------------------
+[BEFORE] /usr/bin/vmstat : 755
+[MISMATCH FILE] /usr/bin/vmstat (755 != 644)
+[AFTER]  /usr/bin/vmstat : 755
+----------------------------------------
+[BEFORE] /usr/bin/choom : 755
+[MISMATCH FILE] /usr/bin/choom (755 != 644)
+[AFTER]  /usr/bin/choom : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2oak : 755
+[MISMATCH FILE] /usr/bin/foo2oak (755 != 644)
+[AFTER]  /usr/bin/foo2oak : 755
+----------------------------------------
+[BEFORE] /usr/bin/gslp : 755
+[MISMATCH FILE] /usr/bin/gslp (755 != 644)
+[AFTER]  /usr/bin/gslp : 755
+----------------------------------------
+[BEFORE] /usr/bin/gtk-query-settings : 755
+[MISMATCH FILE] /usr/bin/gtk-query-settings (755 != 644)
+[AFTER]  /usr/bin/gtk-query-settings : 755
+----------------------------------------
+[BEFORE] /usr/bin/c89-gcc : 755
+[MISMATCH FILE] /usr/bin/c89-gcc (755 != 644)
+[AFTER]  /usr/bin/c89-gcc : 755
+----------------------------------------
+[BEFORE] /usr/bin/bccmd : 755
+[MISMATCH FILE] /usr/bin/bccmd (755 != 644)
+[AFTER]  /usr/bin/bccmd : 755
+----------------------------------------
+[BEFORE] /usr/bin/ckbcomp : 755
+[MISMATCH FILE] /usr/bin/ckbcomp (755 != 644)
+[AFTER]  /usr/bin/ckbcomp : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-query : 755
+[MISMATCH FILE] /usr/bin/fc-query (755 != 644)
+[AFTER]  /usr/bin/fc-query : 755
+----------------------------------------
+[BEFORE] /usr/bin/hostnamectl : 755
+[MISMATCH FILE] /usr/bin/hostnamectl (755 != 644)
+[AFTER]  /usr/bin/hostnamectl : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gcov-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gcov-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gcov-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsfallocate : 755
+[MISMATCH FILE] /usr/bin/ntfsfallocate (755 != 644)
+[AFTER]  /usr/bin/ntfsfallocate : 755
+----------------------------------------
+[BEFORE] /usr/bin/more : 755
+[MISMATCH FILE] /usr/bin/more (755 != 644)
+[AFTER]  /usr/bin/more : 755
+----------------------------------------
+[BEFORE] /usr/bin/avahi-publish : 755
+[MISMATCH FILE] /usr/bin/avahi-publish (755 != 644)
+[AFTER]  /usr/bin/avahi-publish : 755
+----------------------------------------
+[BEFORE] /usr/bin/mkzftree : 755
+[MISMATCH FILE] /usr/bin/mkzftree (755 != 644)
+[AFTER]  /usr/bin/mkzftree : 755
+----------------------------------------
+[BEFORE] /usr/bin/pfbtopfa : 755
+[MISMATCH FILE] /usr/bin/pfbtopfa (755 != 644)
+[AFTER]  /usr/bin/pfbtopfa : 755
+----------------------------------------
+[BEFORE] /usr/bin/pydoc3.8 : 755
+[MISMATCH FILE] /usr/bin/pydoc3.8 (755 != 644)
+[AFTER]  /usr/bin/pydoc3.8 : 755
+----------------------------------------
+[BEFORE] /usr/bin/lshw : 755
+[MISMATCH FILE] /usr/bin/lshw (755 != 644)
+[AFTER]  /usr/bin/lshw : 755
+----------------------------------------
+[BEFORE] /usr/bin/sha384sum : 755
+[MISMATCH FILE] /usr/bin/sha384sum (755 != 644)
+[AFTER]  /usr/bin/sha384sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/ubuntu-drivers : 755
+[MISMATCH FILE] /usr/bin/ubuntu-drivers (755 != 644)
+[AFTER]  /usr/bin/ubuntu-drivers : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkill : 755
+[MISMATCH FILE] /usr/bin/xkill (755 != 644)
+[AFTER]  /usr/bin/xkill : 755
+----------------------------------------
+[BEFORE] /usr/bin/enchant-2 : 755
+[MISMATCH FILE] /usr/bin/enchant-2 (755 != 644)
+[AFTER]  /usr/bin/enchant-2 : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-cleanup-sockets : 755
+[MISMATCH FILE] /usr/bin/dbus-cleanup-sockets (755 != 644)
+[AFTER]  /usr/bin/dbus-cleanup-sockets : 755
+----------------------------------------
+[BEFORE] /usr/bin/tr : 755
+[MISMATCH FILE] /usr/bin/tr (755 != 644)
+[AFTER]  /usr/bin/tr : 755
+----------------------------------------
+[BEFORE] /usr/bin/file-roller : 755
+[MISMATCH FILE] /usr/bin/file-roller (755 != 644)
+[AFTER]  /usr/bin/file-roller : 755
+----------------------------------------
+[BEFORE] /usr/bin/clear_console : 755
+[MISMATCH FILE] /usr/bin/clear_console (755 != 644)
+[AFTER]  /usr/bin/clear_console : 755
+----------------------------------------
+[BEFORE] /usr/bin/syslinux-legacy : 755
+[MISMATCH FILE] /usr/bin/syslinux-legacy (755 != 644)
+[AFTER]  /usr/bin/syslinux-legacy : 755
+----------------------------------------
+[BEFORE] /usr/bin/zdump : 755
+[MISMATCH FILE] /usr/bin/zdump (755 != 644)
+[AFTER]  /usr/bin/zdump : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-match : 755
+[MISMATCH FILE] /usr/bin/fc-match (755 != 644)
+[AFTER]  /usr/bin/fc-match : 755
+----------------------------------------
+[BEFORE] /usr/bin/scp : 755
+[MISMATCH FILE] /usr/bin/scp (755 != 644)
+[AFTER]  /usr/bin/scp : 755
+----------------------------------------
+[BEFORE] /usr/bin/l2ping : 755
+[MISMATCH FILE] /usr/bin/l2ping (755 != 644)
+[AFTER]  /usr/bin/l2ping : 755
+----------------------------------------
+[BEFORE] /usr/bin/pldd : 755
+[MISMATCH FILE] /usr/bin/pldd (755 != 644)
+[AFTER]  /usr/bin/pldd : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-mount : 755
+[MISMATCH FILE] /usr/bin/systemd-mount (755 != 644)
+[AFTER]  /usr/bin/systemd-mount : 755
+----------------------------------------
+[BEFORE] /usr/bin/pwdx : 755
+[MISMATCH FILE] /usr/bin/pwdx (755 != 644)
+[AFTER]  /usr/bin/pwdx : 755
+----------------------------------------
+[BEFORE] /usr/bin/xmessage : 755
+[MISMATCH FILE] /usr/bin/xmessage (755 != 644)
+[AFTER]  /usr/bin/xmessage : 755
+----------------------------------------
+[BEFORE] /usr/bin/tput : 755
+[MISMATCH FILE] /usr/bin/tput (755 != 644)
+[AFTER]  /usr/bin/tput : 755
+----------------------------------------
+[BEFORE] /usr/bin/mount : 4755
+[CRITICAL] SetUID detected : /usr/bin/mount
+[MISMATCH FILE] /usr/bin/mount (755 != 644)
+[AFTER]  /usr/bin/mount : 4755
+----------------------------------------
+[BEFORE] /usr/bin/linux-check-removal : 755
+[MISMATCH FILE] /usr/bin/linux-check-removal (755 != 644)
+[AFTER]  /usr/bin/linux-check-removal : 755
+----------------------------------------
+[BEFORE] /usr/bin/test : 755
+[MISMATCH FILE] /usr/bin/test (755 != 644)
+[AFTER]  /usr/bin/test : 755
+----------------------------------------
+[BEFORE] /usr/bin/resizepart : 755
+[MISMATCH FILE] /usr/bin/resizepart (755 != 644)
+[AFTER]  /usr/bin/resizepart : 755
+----------------------------------------
+[BEFORE] /usr/bin/pkg-config : 755
+[MISMATCH FILE] /usr/bin/pkg-config (755 != 644)
+[AFTER]  /usr/bin/pkg-config : 755
+----------------------------------------
+[BEFORE] /usr/bin/pf2afm : 755
+[MISMATCH FILE] /usr/bin/pf2afm (755 != 644)
+[AFTER]  /usr/bin/pf2afm : 755
+----------------------------------------
+[BEFORE] /usr/bin/setmetamode : 755
+[MISMATCH FILE] /usr/bin/setmetamode (755 != 644)
+[AFTER]  /usr/bin/setmetamode : 755
+----------------------------------------
+[BEFORE] /usr/bin/setkeycodes : 755
+[MISMATCH FILE] /usr/bin/setkeycodes (755 != 644)
+[AFTER]  /usr/bin/setkeycodes : 755
+----------------------------------------
+[BEFORE] /usr/bin/linux-boot-prober : 755
+[MISMATCH FILE] /usr/bin/linux-boot-prober (755 != 644)
+[AFTER]  /usr/bin/linux-boot-prober : 755
+----------------------------------------
+[BEFORE] /usr/bin/ssh-argv0 : 755
+[MISMATCH FILE] /usr/bin/ssh-argv0 (755 != 644)
+[AFTER]  /usr/bin/ssh-argv0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/fallocate : 755
+[MISMATCH FILE] /usr/bin/fallocate (755 != 644)
+[AFTER]  /usr/bin/fallocate : 755
+----------------------------------------
+[BEFORE] /usr/bin/hcitool : 755
+[MISMATCH FILE] /usr/bin/hcitool (755 != 644)
+[AFTER]  /usr/bin/hcitool : 755
+----------------------------------------
+[BEFORE] /usr/bin/pacmd : 755
+[MISMATCH FILE] /usr/bin/pacmd (755 != 644)
+[AFTER]  /usr/bin/pacmd : 755
+----------------------------------------
+[BEFORE] /usr/bin/groff : 755
+[MISMATCH FILE] /usr/bin/groff (755 != 644)
+[AFTER]  /usr/bin/groff : 755
+----------------------------------------
+[BEFORE] /usr/bin/lz4 : 755
+[MISMATCH FILE] /usr/bin/lz4 (755 != 644)
+[AFTER]  /usr/bin/lz4 : 755
+----------------------------------------
+[BEFORE] /usr/bin/tar : 755
+[MISMATCH FILE] /usr/bin/tar (755 != 644)
+[AFTER]  /usr/bin/tar : 755
+----------------------------------------
+[BEFORE] /usr/bin/bzcat : 755
+[MISMATCH FILE] /usr/bin/bzcat (755 != 644)
+[AFTER]  /usr/bin/bzcat : 755
+----------------------------------------
+[BEFORE] /usr/bin/do-release-upgrade : 755
+[MISMATCH FILE] /usr/bin/do-release-upgrade (755 != 644)
+[AFTER]  /usr/bin/do-release-upgrade : 755
+----------------------------------------
+[BEFORE] /usr/bin/xsetroot : 755
+[MISMATCH FILE] /usr/bin/xsetroot (755 != 644)
+[AFTER]  /usr/bin/xsetroot : 755
+----------------------------------------
+[BEFORE] /usr/bin/zipnote : 755
+[MISMATCH FILE] /usr/bin/zipnote (755 != 644)
+[AFTER]  /usr/bin/zipnote : 755
+----------------------------------------
+[BEFORE] /usr/bin/fonttosfnt : 755
+[MISMATCH FILE] /usr/bin/fonttosfnt (755 != 644)
+[AFTER]  /usr/bin/fonttosfnt : 755
+----------------------------------------
+[BEFORE] /usr/bin/desktop-file-validate : 755
+[MISMATCH FILE] /usr/bin/desktop-file-validate (755 != 644)
+[AFTER]  /usr/bin/desktop-file-validate : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2hp : 755
+[MISMATCH FILE] /usr/bin/foo2hp (755 != 644)
+[AFTER]  /usr/bin/foo2hp : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-mime : 755
+[MISMATCH FILE] /usr/bin/xdg-mime (755 != 644)
+[AFTER]  /usr/bin/xdg-mime : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-readelf : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-readelf (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-readelf : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-config : 755
+[MISMATCH FILE] /usr/bin/apt-config (755 != 644)
+[AFTER]  /usr/bin/apt-config : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-mount : 755
+[MISMATCH FILE] /usr/bin/gvfs-mount (755 != 644)
+[AFTER]  /usr/bin/gvfs-mount : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkbbell : 755
+[MISMATCH FILE] /usr/bin/xkbbell (755 != 644)
+[AFTER]  /usr/bin/xkbbell : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-strings : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-strings (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-strings : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-monitor-file : 755
+[MISMATCH FILE] /usr/bin/gvfs-monitor-file (755 != 644)
+[AFTER]  /usr/bin/gvfs-monitor-file : 755
+----------------------------------------
+[BEFORE] /usr/bin/run-mailcap : 755
+[MISMATCH FILE] /usr/bin/run-mailcap (755 != 644)
+[AFTER]  /usr/bin/run-mailcap : 755
+----------------------------------------
+[BEFORE] /usr/bin/usb-devices : 755
+[MISMATCH FILE] /usr/bin/usb-devices (755 != 644)
+[AFTER]  /usr/bin/usb-devices : 755
+----------------------------------------
+[BEFORE] /usr/bin/check-language-support : 755
+[MISMATCH FILE] /usr/bin/check-language-support (755 != 644)
+[AFTER]  /usr/bin/check-language-support : 755
+----------------------------------------
+[BEFORE] /usr/bin/xbrlapi : 755
+[MISMATCH FILE] /usr/bin/xbrlapi (755 != 644)
+[AFTER]  /usr/bin/xbrlapi : 755
+----------------------------------------
+[BEFORE] /usr/bin/xvidtune : 755
+[MISMATCH FILE] /usr/bin/xvidtune (755 != 644)
+[AFTER]  /usr/bin/xvidtune : 755
+----------------------------------------
+[BEFORE] /usr/bin/make-first-existing-target : 755
+[MISMATCH FILE] /usr/bin/make-first-existing-target (755 != 644)
+[AFTER]  /usr/bin/make-first-existing-target : 755
+----------------------------------------
+[BEFORE] /usr/bin/ulockmgr_server : 755
+[MISMATCH FILE] /usr/bin/ulockmgr_server (755 != 644)
+[AFTER]  /usr/bin/ulockmgr_server : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpg-wks-server : 755
+[MISMATCH FILE] /usr/bin/gpg-wks-server (755 != 644)
+[AFTER]  /usr/bin/gpg-wks-server : 755
+----------------------------------------
+[BEFORE] /usr/bin/gcore : 755
+[MISMATCH FILE] /usr/bin/gcore (755 != 644)
+[AFTER]  /usr/bin/gcore : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsdecrypt : 755
+[MISMATCH FILE] /usr/bin/ntfsdecrypt (755 != 644)
+[AFTER]  /usr/bin/ntfsdecrypt : 755
+----------------------------------------
+[BEFORE] /usr/bin/apg : 755
+[MISMATCH FILE] /usr/bin/apg (755 != 644)
+[AFTER]  /usr/bin/apg : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-nm : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-nm (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-nm : 755
+----------------------------------------
+[BEFORE] /usr/bin/delv : 755
+[MISMATCH FILE] /usr/bin/delv (755 != 644)
+[AFTER]  /usr/bin/delv : 755
+----------------------------------------
+[BEFORE] /usr/bin/ubuntu-distro-info : 755
+[MISMATCH FILE] /usr/bin/ubuntu-distro-info (755 != 644)
+[AFTER]  /usr/bin/ubuntu-distro-info : 755
+----------------------------------------
+[BEFORE] /usr/bin/perl : 755
+[MISMATCH FILE] /usr/bin/perl (755 != 644)
+[AFTER]  /usr/bin/perl : 755
+----------------------------------------
+[BEFORE] /usr/bin/pod2man : 755
+[MISMATCH FILE] /usr/bin/pod2man (755 != 644)
+[AFTER]  /usr/bin/pod2man : 755
+----------------------------------------
+[BEFORE] /usr/bin/xzless : 755
+[MISMATCH FILE] /usr/bin/xzless (755 != 644)
+[AFTER]  /usr/bin/xzless : 755
+----------------------------------------
+[BEFORE] /usr/bin/dash : 755
+[MISMATCH FILE] /usr/bin/dash (755 != 644)
+[AFTER]  /usr/bin/dash : 755
+----------------------------------------
+[BEFORE] /usr/bin/showrgb : 755
+[MISMATCH FILE] /usr/bin/showrgb (755 != 644)
+[AFTER]  /usr/bin/showrgb : 755
+----------------------------------------
+[BEFORE] /usr/bin/whoopsie-preferences : 755
+[MISMATCH FILE] /usr/bin/whoopsie-preferences (755 != 644)
+[AFTER]  /usr/bin/whoopsie-preferences : 755
+----------------------------------------
+[BEFORE] /usr/bin/xprop : 755
+[MISMATCH FILE] /usr/bin/xprop (755 != 644)
+[AFTER]  /usr/bin/xprop : 755
+----------------------------------------
+[BEFORE] /usr/bin/usbhid-dump : 755
+[MISMATCH FILE] /usr/bin/usbhid-dump (755 != 644)
+[AFTER]  /usr/bin/usbhid-dump : 755
+----------------------------------------
+[BEFORE] /usr/bin/grep-dctrl : 755
+[MISMATCH FILE] /usr/bin/grep-dctrl (755 != 644)
+[AFTER]  /usr/bin/grep-dctrl : 755
+----------------------------------------
+[BEFORE] /usr/bin/os-prober : 755
+[MISMATCH FILE] /usr/bin/os-prober (755 != 644)
+[AFTER]  /usr/bin/os-prober : 755
+----------------------------------------
+[BEFORE] /usr/bin/btmgmt : 755
+[MISMATCH FILE] /usr/bin/btmgmt (755 != 644)
+[AFTER]  /usr/bin/btmgmt : 755
+----------------------------------------
+[BEFORE] /usr/bin/realpath : 755
+[MISMATCH FILE] /usr/bin/realpath (755 != 644)
+[AFTER]  /usr/bin/realpath : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-shell-extension-tool : 755
+[MISMATCH FILE] /usr/bin/gnome-shell-extension-tool (755 != 644)
+[AFTER]  /usr/bin/gnome-shell-extension-tool : 755
+----------------------------------------
+[BEFORE] /usr/bin/notify-send : 755
+[MISMATCH FILE] /usr/bin/notify-send (755 != 644)
+[AFTER]  /usr/bin/notify-send : 755
+----------------------------------------
+[BEFORE] /usr/bin/setfacl : 755
+[MISMATCH FILE] /usr/bin/setfacl (755 != 644)
+[AFTER]  /usr/bin/setfacl : 755
+----------------------------------------
+[BEFORE] /usr/bin/lcf : 755
+[MISMATCH FILE] /usr/bin/lcf (755 != 644)
+[AFTER]  /usr/bin/lcf : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-genchanges : 755
+[MISMATCH FILE] /usr/bin/dpkg-genchanges (755 != 644)
+[AFTER]  /usr/bin/dpkg-genchanges : 755
+----------------------------------------
+[BEFORE] /usr/bin/session-migration : 755
+[MISMATCH FILE] /usr/bin/session-migration (755 != 644)
+[AFTER]  /usr/bin/session-migration : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-deb : 755
+[MISMATCH FILE] /usr/bin/dpkg-deb (755 != 644)
+[AFTER]  /usr/bin/dpkg-deb : 755
+----------------------------------------
+[BEFORE] /usr/bin/rstartd : 755
+[MISMATCH FILE] /usr/bin/rstartd (755 != 644)
+[AFTER]  /usr/bin/rstartd : 755
+----------------------------------------
+[BEFORE] /usr/bin/traceroute6.iputils : 755
+[MISMATCH FILE] /usr/bin/traceroute6.iputils (755 != 644)
+[AFTER]  /usr/bin/traceroute6.iputils : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-cdrom : 755
+[MISMATCH FILE] /usr/bin/apt-cdrom (755 != 644)
+[AFTER]  /usr/bin/apt-cdrom : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2ddst-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2ddst-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2ddst-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mount : 755
+[MISMATCH FILE] /usr/bin/grub-mount (755 != 644)
+[AFTER]  /usr/bin/grub-mount : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-cat : 755
+[MISMATCH FILE] /usr/bin/systemd-cat (755 != 644)
+[AFTER]  /usr/bin/systemd-cat : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-cat : 755
+[MISMATCH FILE] /usr/bin/fc-cat (755 != 644)
+[AFTER]  /usr/bin/fc-cat : 755
+----------------------------------------
+[BEFORE] /usr/bin/nslookup : 755
+[MISMATCH FILE] /usr/bin/nslookup (755 != 644)
+[AFTER]  /usr/bin/nslookup : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdbtui : 755
+[MISMATCH FILE] /usr/bin/gdbtui (755 != 644)
+[AFTER]  /usr/bin/gdbtui : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpg-agent : 755
+[MISMATCH FILE] /usr/bin/gpg-agent (755 != 644)
+[AFTER]  /usr/bin/gpg-agent : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdftops : 755
+[MISMATCH FILE] /usr/bin/pdftops (755 != 644)
+[AFTER]  /usr/bin/pdftops : 755
+----------------------------------------
+[BEFORE] /usr/bin/lpr : 755
+[MISMATCH FILE] /usr/bin/lpr (755 != 644)
+[AFTER]  /usr/bin/lpr : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2lava : 755
+[MISMATCH FILE] /usr/bin/foo2lava (755 != 644)
+[AFTER]  /usr/bin/foo2lava : 755
+----------------------------------------
+[BEFORE] /usr/bin/unshare : 755
+[MISMATCH FILE] /usr/bin/unshare (755 != 644)
+[AFTER]  /usr/bin/unshare : 755
+----------------------------------------
+[BEFORE] /usr/bin/tic : 755
+[MISMATCH FILE] /usr/bin/tic (755 != 644)
+[AFTER]  /usr/bin/tic : 755
+----------------------------------------
+[BEFORE] /usr/bin/eps2eps : 755
+[MISMATCH FILE] /usr/bin/eps2eps (755 != 644)
+[AFTER]  /usr/bin/eps2eps : 755
+----------------------------------------
+[BEFORE] /usr/bin/pa-info : 755
+[MISMATCH FILE] /usr/bin/pa-info (755 != 644)
+[AFTER]  /usr/bin/pa-info : 755
+----------------------------------------
+[BEFORE] /usr/bin/pkcheck : 755
+[MISMATCH FILE] /usr/bin/pkcheck (755 != 644)
+[AFTER]  /usr/bin/pkcheck : 755
+----------------------------------------
+[BEFORE] /usr/bin/hostid : 755
+[MISMATCH FILE] /usr/bin/hostid (755 != 644)
+[AFTER]  /usr/bin/hostid : 755
+----------------------------------------
+[BEFORE] /usr/bin/perlbug : 755
+[MISMATCH FILE] /usr/bin/perlbug (755 != 644)
+[AFTER]  /usr/bin/perlbug : 755
+----------------------------------------
+[BEFORE] /usr/bin/diff3 : 755
+[MISMATCH FILE] /usr/bin/diff3 (755 != 644)
+[AFTER]  /usr/bin/diff3 : 755
+----------------------------------------
+[BEFORE] /usr/bin/atobm : 755
+[MISMATCH FILE] /usr/bin/atobm (755 != 644)
+[AFTER]  /usr/bin/atobm : 755
+----------------------------------------
+[BEFORE] /usr/bin/ppdi : 755
+[MISMATCH FILE] /usr/bin/ppdi (755 != 644)
+[AFTER]  /usr/bin/ppdi : 755
+----------------------------------------
+[BEFORE] /usr/bin/journalctl : 755
+[MISMATCH FILE] /usr/bin/journalctl (755 != 644)
+[AFTER]  /usr/bin/journalctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/kernel-install : 755
+[MISMATCH FILE] /usr/bin/kernel-install (755 != 644)
+[AFTER]  /usr/bin/kernel-install : 755
+----------------------------------------
+[BEFORE] /usr/bin/xzgrep : 755
+[MISMATCH FILE] /usr/bin/xzgrep (755 != 644)
+[AFTER]  /usr/bin/xzgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/sort : 755
+[MISMATCH FILE] /usr/bin/sort (755 != 644)
+[AFTER]  /usr/bin/sort : 755
+----------------------------------------
+[BEFORE] /usr/bin/aplay : 755
+[MISMATCH FILE] /usr/bin/aplay (755 != 644)
+[AFTER]  /usr/bin/aplay : 755
+----------------------------------------
+[BEFORE] /usr/bin/system-config-printer-applet : 755
+[MISMATCH FILE] /usr/bin/system-config-printer-applet (755 != 644)
+[AFTER]  /usr/bin/system-config-printer-applet : 755
+----------------------------------------
+[BEFORE] /usr/bin/system-config-printer : 755
+[MISMATCH FILE] /usr/bin/system-config-printer (755 != 644)
+[AFTER]  /usr/bin/system-config-printer : 755
+----------------------------------------
+[BEFORE] /usr/bin/zenity : 755
+[MISMATCH FILE] /usr/bin/zenity (755 != 644)
+[AFTER]  /usr/bin/zenity : 755
+----------------------------------------
+[BEFORE] /usr/bin/dconf : 755
+[MISMATCH FILE] /usr/bin/dconf (755 != 644)
+[AFTER]  /usr/bin/dconf : 755
+----------------------------------------
+[BEFORE] /usr/bin/ping : 755
+[MISMATCH FILE] /usr/bin/ping (755 != 644)
+[AFTER]  /usr/bin/ping : 755
+----------------------------------------
+[BEFORE] /usr/bin/xmore : 755
+[MISMATCH FILE] /usr/bin/xmore (755 != 644)
+[AFTER]  /usr/bin/xmore : 755
+----------------------------------------
+[BEFORE] /usr/bin/pstree : 755
+[MISMATCH FILE] /usr/bin/pstree (755 != 644)
+[AFTER]  /usr/bin/pstree : 755
+----------------------------------------
+[BEFORE] /usr/bin/xlsclients : 755
+[MISMATCH FILE] /usr/bin/xlsclients (755 != 644)
+[AFTER]  /usr/bin/xlsclients : 755
+----------------------------------------
+[BEFORE] /usr/bin/nautilus-autorun-software : 755
+[MISMATCH FILE] /usr/bin/nautilus-autorun-software (755 != 644)
+[AFTER]  /usr/bin/nautilus-autorun-software : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdriinfo : 755
+[MISMATCH FILE] /usr/bin/xdriinfo (755 != 644)
+[AFTER]  /usr/bin/xdriinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/migrate-pubring-from-classic-gpg : 755
+[MISMATCH FILE] /usr/bin/migrate-pubring-from-classic-gpg (755 != 644)
+[AFTER]  /usr/bin/migrate-pubring-from-classic-gpg : 755
+----------------------------------------
+[BEFORE] /usr/bin/xwd : 755
+[MISMATCH FILE] /usr/bin/xwd (755 != 644)
+[AFTER]  /usr/bin/xwd : 755
+----------------------------------------
+[BEFORE] /usr/bin/tbl-dctrl : 755
+[MISMATCH FILE] /usr/bin/tbl-dctrl (755 != 644)
+[AFTER]  /usr/bin/tbl-dctrl : 755
+----------------------------------------
+[BEFORE] /usr/bin/perli11ndoc : 755
+[MISMATCH FILE] /usr/bin/perli11ndoc (755 != 644)
+[AFTER]  /usr/bin/perli11ndoc : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-mkdir : 755
+[MISMATCH FILE] /usr/bin/gvfs-mkdir (755 != 644)
+[AFTER]  /usr/bin/gvfs-mkdir : 755
+----------------------------------------
+[BEFORE] /usr/bin/showconsolefont : 755
+[MISMATCH FILE] /usr/bin/showconsolefont (755 != 644)
+[AFTER]  /usr/bin/showconsolefont : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpu-manager : 755
+[MISMATCH FILE] /usr/bin/gpu-manager (755 != 644)
+[AFTER]  /usr/bin/gpu-manager : 755
+----------------------------------------
+[BEFORE] /usr/bin/bluetoothctl : 755
+[MISMATCH FILE] /usr/bin/bluetoothctl (755 != 644)
+[AFTER]  /usr/bin/bluetoothctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/bzmore : 755
+[MISMATCH FILE] /usr/bin/bzmore (755 != 644)
+[AFTER]  /usr/bin/bzmore : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfs-3g : 755
+[MISMATCH FILE] /usr/bin/ntfs-3g (755 != 644)
+[AFTER]  /usr/bin/ntfs-3g : 755
+----------------------------------------
+[BEFORE] /usr/bin/aspell-import : 755
+[MISMATCH FILE] /usr/bin/aspell-import (755 != 644)
+[AFTER]  /usr/bin/aspell-import : 755
+----------------------------------------
+[BEFORE] /usr/bin/nautilus : 755
+[MISMATCH FILE] /usr/bin/nautilus (755 != 644)
+[AFTER]  /usr/bin/nautilus : 755
+----------------------------------------
+[BEFORE] /usr/bin/date : 755
+[MISMATCH FILE] /usr/bin/date (755 != 644)
+[AFTER]  /usr/bin/date : 755
+----------------------------------------
+[BEFORE] /usr/bin/gamemoderun : 755
+[MISMATCH FILE] /usr/bin/gamemoderun (755 != 644)
+[AFTER]  /usr/bin/gamemoderun : 755
+----------------------------------------
+[BEFORE] /usr/bin/gapplication : 755
+[MISMATCH FILE] /usr/bin/gapplication (755 != 644)
+[AFTER]  /usr/bin/gapplication : 755
+----------------------------------------
+[BEFORE] /usr/bin/free : 755
+[MISMATCH FILE] /usr/bin/free (755 != 644)
+[AFTER]  /usr/bin/free : 755
+----------------------------------------
+[BEFORE] /usr/bin/bash : 755
+[MISMATCH FILE] /usr/bin/bash (755 != 644)
+[AFTER]  /usr/bin/bash : 755
+----------------------------------------
+[BEFORE] /usr/bin/look : 755
+[MISMATCH FILE] /usr/bin/look (755 != 644)
+[AFTER]  /usr/bin/look : 755
+----------------------------------------
+[BEFORE] /usr/bin/ul : 755
+[MISMATCH FILE] /usr/bin/ul (755 != 644)
+[AFTER]  /usr/bin/ul : 755
+----------------------------------------
+[BEFORE] /usr/bin/make : 755
+[MISMATCH FILE] /usr/bin/make (755 != 644)
+[AFTER]  /usr/bin/make : 755
+----------------------------------------
+[BEFORE] /usr/bin/mkfontscale : 755
+[MISMATCH FILE] /usr/bin/mkfontscale (755 != 644)
+[AFTER]  /usr/bin/mkfontscale : 755
+----------------------------------------
+[BEFORE] /usr/bin/opldecode : 755
+[MISMATCH FILE] /usr/bin/opldecode (755 != 644)
+[AFTER]  /usr/bin/opldecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/shotwell : 755
+[MISMATCH FILE] /usr/bin/shotwell (755 != 644)
+[AFTER]  /usr/bin/shotwell : 755
+----------------------------------------
+[BEFORE] /usr/bin/brltty-ttb : 755
+[MISMATCH FILE] /usr/bin/brltty-ttb (755 != 644)
+[AFTER]  /usr/bin/brltty-ttb : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdpyinfo : 755
+[MISMATCH FILE] /usr/bin/xdpyinfo (755 != 644)
+[AFTER]  /usr/bin/xdpyinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/trust : 755
+[MISMATCH FILE] /usr/bin/trust (755 != 644)
+[AFTER]  /usr/bin/trust : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2ddst : 755
+[MISMATCH FILE] /usr/bin/foo2ddst (755 != 644)
+[AFTER]  /usr/bin/foo2ddst : 755
+----------------------------------------
+[BEFORE] /usr/bin/mtools : 755
+[MISMATCH FILE] /usr/bin/mtools (755 != 644)
+[AFTER]  /usr/bin/mtools : 755
+----------------------------------------
+[BEFORE] /usr/bin/bsd-from : 755
+[MISMATCH FILE] /usr/bin/bsd-from (755 != 644)
+[AFTER]  /usr/bin/bsd-from : 755
+----------------------------------------
+[BEFORE] /usr/bin/nmcli : 755
+[MISMATCH FILE] /usr/bin/nmcli (755 != 644)
+[AFTER]  /usr/bin/nmcli : 755
+----------------------------------------
+[BEFORE] /usr/bin/grep : 755
+[MISMATCH FILE] /usr/bin/grep (755 != 644)
+[AFTER]  /usr/bin/grep : 755
+----------------------------------------
+[BEFORE] /usr/bin/fuser : 755
+[MISMATCH FILE] /usr/bin/fuser (755 != 644)
+[AFTER]  /usr/bin/fuser : 755
+----------------------------------------
+[BEFORE] /usr/bin/sensible-editor : 755
+[MISMATCH FILE] /usr/bin/sensible-editor (755 != 644)
+[AFTER]  /usr/bin/sensible-editor : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-email : 755
+[MISMATCH FILE] /usr/bin/xdg-email (755 != 644)
+[AFTER]  /usr/bin/xdg-email : 755
+----------------------------------------
+[BEFORE] /usr/bin/dumpkeys : 755
+[MISMATCH FILE] /usr/bin/dumpkeys (755 != 644)
+[AFTER]  /usr/bin/dumpkeys : 755
+----------------------------------------
+[BEFORE] /usr/bin/sha256sum : 755
+[MISMATCH FILE] /usr/bin/sha256sum (755 != 644)
+[AFTER]  /usr/bin/sha256sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/apturl : 755
+[MISMATCH FILE] /usr/bin/apturl (755 != 644)
+[AFTER]  /usr/bin/apturl : 755
+----------------------------------------
+[BEFORE] /usr/bin/mt-gnu : 755
+[MISMATCH FILE] /usr/bin/mt-gnu (755 != 644)
+[AFTER]  /usr/bin/mt-gnu : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-scanpackages : 755
+[MISMATCH FILE] /usr/bin/dpkg-scanpackages (755 != 644)
+[AFTER]  /usr/bin/dpkg-scanpackages : 755
+----------------------------------------
+[BEFORE] /usr/bin/touch : 755
+[MISMATCH FILE] /usr/bin/touch (755 != 644)
+[AFTER]  /usr/bin/touch : 755
+----------------------------------------
+[BEFORE] /usr/bin/usbreset : 755
+[MISMATCH FILE] /usr/bin/usbreset (755 != 644)
+[AFTER]  /usr/bin/usbreset : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-run-session : 755
+[MISMATCH FILE] /usr/bin/dbus-run-session (755 != 644)
+[AFTER]  /usr/bin/dbus-run-session : 755
+----------------------------------------
+[BEFORE] /usr/bin/lp : 755
+[MISMATCH FILE] /usr/bin/lp (755 != 644)
+[AFTER]  /usr/bin/lp : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-checkbuilddeps : 755
+[MISMATCH FILE] /usr/bin/dpkg-checkbuilddeps (755 != 644)
+[AFTER]  /usr/bin/dpkg-checkbuilddeps : 755
+----------------------------------------
+[BEFORE] /usr/bin/luit : 755
+[MISMATCH FILE] /usr/bin/luit (755 != 644)
+[AFTER]  /usr/bin/luit : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpg-connect-agent : 755
+[MISMATCH FILE] /usr/bin/gpg-connect-agent (755 != 644)
+[AFTER]  /usr/bin/gpg-connect-agent : 755
+----------------------------------------
+[BEFORE] /usr/bin/hostname : 755
+[MISMATCH FILE] /usr/bin/hostname (755 != 644)
+[AFTER]  /usr/bin/hostname : 755
+----------------------------------------
+[BEFORE] /usr/bin/tset : 755
+[MISMATCH FILE] /usr/bin/tset (755 != 644)
+[AFTER]  /usr/bin/tset : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsinfo : 755
+[MISMATCH FILE] /usr/bin/ntfsinfo (755 != 644)
+[AFTER]  /usr/bin/ntfsinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/xcmsdb : 755
+[MISMATCH FILE] /usr/bin/xcmsdb (755 != 644)
+[AFTER]  /usr/bin/xcmsdb : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsattr : 755
+[MISMATCH FILE] /usr/bin/lsattr (755 != 644)
+[AFTER]  /usr/bin/lsattr : 755
+----------------------------------------
+[BEFORE] /usr/bin/run-parts : 755
+[MISMATCH FILE] /usr/bin/run-parts (755 != 644)
+[AFTER]  /usr/bin/run-parts : 755
+----------------------------------------
+[BEFORE] /usr/bin/uniq : 755
+[MISMATCH FILE] /usr/bin/uniq (755 != 644)
+[AFTER]  /usr/bin/uniq : 755
+----------------------------------------
+[BEFORE] /usr/bin/ssh-copy-id : 755
+[MISMATCH FILE] /usr/bin/ssh-copy-id (755 != 644)
+[AFTER]  /usr/bin/ssh-copy-id : 755
+----------------------------------------
+[BEFORE] /usr/bin/csplit : 755
+[MISMATCH FILE] /usr/bin/csplit (755 != 644)
+[AFTER]  /usr/bin/csplit : 755
+----------------------------------------
+[BEFORE] /usr/bin/podselect : 755
+[MISMATCH FILE] /usr/bin/podselect (755 != 644)
+[AFTER]  /usr/bin/podselect : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpg : 755
+[MISMATCH FILE] /usr/bin/gpg (755 != 644)
+[AFTER]  /usr/bin/gpg : 755
+----------------------------------------
+[BEFORE] /usr/bin/hciattach : 755
+[MISMATCH FILE] /usr/bin/hciattach (755 != 644)
+[AFTER]  /usr/bin/hciattach : 755
+----------------------------------------
+[BEFORE] /usr/bin/hciconfig : 755
+[MISMATCH FILE] /usr/bin/hciconfig (755 != 644)
+[AFTER]  /usr/bin/hciconfig : 755
+----------------------------------------
+[BEFORE] /usr/bin/namei : 755
+[MISMATCH FILE] /usr/bin/namei (755 != 644)
+[AFTER]  /usr/bin/namei : 755
+----------------------------------------
+[BEFORE] /usr/bin/fprintd-enroll : 755
+[MISMATCH FILE] /usr/bin/fprintd-enroll (755 != 644)
+[AFTER]  /usr/bin/fprintd-enroll : 755
+----------------------------------------
+[BEFORE] /usr/bin/uptime : 755
+[MISMATCH FILE] /usr/bin/uptime (755 != 644)
+[AFTER]  /usr/bin/uptime : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-g++-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-g++-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-g++-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/mkdir : 755
+[MISMATCH FILE] /usr/bin/mkdir (755 != 644)
+[AFTER]  /usr/bin/mkdir : 755
+----------------------------------------
+[BEFORE] /usr/bin/cp : 755
+[MISMATCH FILE] /usr/bin/cp (755 != 644)
+[AFTER]  /usr/bin/cp : 755
+----------------------------------------
+[BEFORE] /usr/bin/xclock : 755
+[MISMATCH FILE] /usr/bin/xclock (755 != 644)
+[AFTER]  /usr/bin/xclock : 755
+----------------------------------------
+[BEFORE] /usr/bin/busctl : 755
+[MISMATCH FILE] /usr/bin/busctl (755 != 644)
+[AFTER]  /usr/bin/busctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/rgrep : 755
+[MISMATCH FILE] /usr/bin/rgrep (755 != 644)
+[AFTER]  /usr/bin/rgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/amixer : 755
+[MISMATCH FILE] /usr/bin/amixer (755 != 644)
+[AFTER]  /usr/bin/amixer : 755
+----------------------------------------
+[BEFORE] /usr/bin/enc2xs : 755
+[MISMATCH FILE] /usr/bin/enc2xs (755 != 644)
+[AFTER]  /usr/bin/enc2xs : 755
+----------------------------------------
+[BEFORE] /usr/bin/avahi-resolve : 755
+[MISMATCH FILE] /usr/bin/avahi-resolve (755 != 644)
+[AFTER]  /usr/bin/avahi-resolve : 755
+----------------------------------------
+[BEFORE] /usr/bin/debconf-set-selections : 755
+[MISMATCH FILE] /usr/bin/debconf-set-selections (755 != 644)
+[AFTER]  /usr/bin/debconf-set-selections : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-buildpackage : 755
+[MISMATCH FILE] /usr/bin/dpkg-buildpackage (755 != 644)
+[AFTER]  /usr/bin/dpkg-buildpackage : 755
+----------------------------------------
+[BEFORE] /usr/bin/cautious-launcher : 755
+[MISMATCH FILE] /usr/bin/cautious-launcher (755 != 644)
+[AFTER]  /usr/bin/cautious-launcher : 755
+----------------------------------------
+[BEFORE] /usr/bin/cmp : 755
+[MISMATCH FILE] /usr/bin/cmp (755 != 644)
+[AFTER]  /usr/bin/cmp : 755
+----------------------------------------
+[BEFORE] /usr/bin/gamemoded : 755
+[MISMATCH FILE] /usr/bin/gamemoded (755 != 644)
+[AFTER]  /usr/bin/gamemoded : 755
+----------------------------------------
+[BEFORE] /usr/bin/kbdinfo : 755
+[MISMATCH FILE] /usr/bin/kbdinfo (755 != 644)
+[AFTER]  /usr/bin/kbdinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/m2300w : 755
+[MISMATCH FILE] /usr/bin/m2300w (755 != 644)
+[AFTER]  /usr/bin/m2300w : 755
+----------------------------------------
+[BEFORE] /usr/bin/sensible-pager : 755
+[MISMATCH FILE] /usr/bin/sensible-pager (755 != 644)
+[AFTER]  /usr/bin/sensible-pager : 755
+----------------------------------------
+[BEFORE] /usr/bin/nm-online : 755
+[MISMATCH FILE] /usr/bin/nm-online (755 != 644)
+[AFTER]  /usr/bin/nm-online : 755
+----------------------------------------
+[BEFORE] /usr/bin/link : 755
+[MISMATCH FILE] /usr/bin/link (755 != 644)
+[AFTER]  /usr/bin/link : 755
+----------------------------------------
+[BEFORE] /usr/bin/calendar : 755
+[MISMATCH FILE] /usr/bin/calendar (755 != 644)
+[AFTER]  /usr/bin/calendar : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdfattach : 755
+[MISMATCH FILE] /usr/bin/pdfattach (755 != 644)
+[AFTER]  /usr/bin/pdfattach : 755
+----------------------------------------
+[BEFORE] /usr/bin/debconf-escape : 755
+[MISMATCH FILE] /usr/bin/debconf-escape (755 != 644)
+[AFTER]  /usr/bin/debconf-escape : 755
+----------------------------------------
+[BEFORE] /usr/bin/deb-systemd-helper : 755
+[MISMATCH FILE] /usr/bin/deb-systemd-helper (755 != 644)
+[AFTER]  /usr/bin/deb-systemd-helper : 755
+----------------------------------------
+[BEFORE] /usr/bin/dirmngr : 755
+[MISMATCH FILE] /usr/bin/dirmngr (755 != 644)
+[AFTER]  /usr/bin/dirmngr : 755
+----------------------------------------
+[BEFORE] /usr/bin/spice-vdagent : 755
+[MISMATCH FILE] /usr/bin/spice-vdagent (755 != 644)
+[AFTER]  /usr/bin/spice-vdagent : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-objdump : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-objdump (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-objdump : 755
+----------------------------------------
+[BEFORE] /usr/bin/renice : 755
+[MISMATCH FILE] /usr/bin/renice (755 != 644)
+[AFTER]  /usr/bin/renice : 755
+----------------------------------------
+[BEFORE] /usr/bin/xz : 755
+[MISMATCH FILE] /usr/bin/xz (755 != 644)
+[AFTER]  /usr/bin/xz : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdf2ps : 755
+[MISMATCH FILE] /usr/bin/pdf2ps (755 != 644)
+[AFTER]  /usr/bin/pdf2ps : 755
+----------------------------------------
+[BEFORE] /usr/bin/alsaloop : 755
+[MISMATCH FILE] /usr/bin/alsaloop (755 != 644)
+[AFTER]  /usr/bin/alsaloop : 755
+----------------------------------------
+[BEFORE] /usr/bin/mscompress : 755
+[MISMATCH FILE] /usr/bin/mscompress (755 != 644)
+[AFTER]  /usr/bin/mscompress : 755
+----------------------------------------
+[BEFORE] /usr/bin/python3-futurize : 755
+[MISMATCH FILE] /usr/bin/python3-futurize (755 != 644)
+[AFTER]  /usr/bin/python3-futurize : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-strip : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-strip (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-strip : 755
+----------------------------------------
+[BEFORE] /usr/bin/amidi : 755
+[MISMATCH FILE] /usr/bin/amidi (755 != 644)
+[AFTER]  /usr/bin/amidi : 755
+----------------------------------------
+[BEFORE] /usr/bin/perlivp : 755
+[MISMATCH FILE] /usr/bin/perlivp (755 != 644)
+[AFTER]  /usr/bin/perlivp : 755
+----------------------------------------
+[BEFORE] /usr/bin/add-apt-repository : 755
+[MISMATCH FILE] /usr/bin/add-apt-repository (755 != 644)
+[AFTER]  /usr/bin/add-apt-repository : 755
+----------------------------------------
+[BEFORE] /usr/bin/git-shell : 755
+[MISMATCH FILE] /usr/bin/git-shell (755 != 644)
+[AFTER]  /usr/bin/git-shell : 755
+----------------------------------------
+[BEFORE] /usr/bin/neqn : 755
+[MISMATCH FILE] /usr/bin/neqn (755 != 644)
+[AFTER]  /usr/bin/neqn : 755
+----------------------------------------
+[BEFORE] /usr/bin/mv : 755
+[MISMATCH FILE] /usr/bin/mv (755 != 644)
+[AFTER]  /usr/bin/mv : 755
+----------------------------------------
+[BEFORE] /usr/bin/intel-virtual-output : 755
+[MISMATCH FILE] /usr/bin/intel-virtual-output (755 != 644)
+[AFTER]  /usr/bin/intel-virtual-output : 755
+----------------------------------------
+[BEFORE] /usr/bin/cupstestppd : 755
+[MISMATCH FILE] /usr/bin/cupstestppd (755 != 644)
+[AFTER]  /usr/bin/cupstestppd : 755
+----------------------------------------
+[BEFORE] /usr/bin/cksum : 755
+[MISMATCH FILE] /usr/bin/cksum (755 != 644)
+[AFTER]  /usr/bin/cksum : 755
+----------------------------------------
+[BEFORE] /usr/bin/rhythmbox : 755
+[MISMATCH FILE] /usr/bin/rhythmbox (755 != 644)
+[AFTER]  /usr/bin/rhythmbox : 755
+----------------------------------------
+[BEFORE] /usr/bin/umax_pp : 755
+[MISMATCH FILE] /usr/bin/umax_pp (755 != 644)
+[AFTER]  /usr/bin/umax_pp : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-dbus-proxy : 755
+[MISMATCH FILE] /usr/bin/xdg-dbus-proxy (755 != 644)
+[AFTER]  /usr/bin/xdg-dbus-proxy : 755
+----------------------------------------
+[BEFORE] /usr/bin/xfd : 755
+[MISMATCH FILE] /usr/bin/xfd (755 != 644)
+[AFTER]  /usr/bin/xfd : 755
+----------------------------------------
+[BEFORE] /usr/bin/bzexe : 755
+[MISMATCH FILE] /usr/bin/bzexe (755 != 644)
+[AFTER]  /usr/bin/bzexe : 755
+----------------------------------------
+[BEFORE] /usr/bin/basename : 755
+[MISMATCH FILE] /usr/bin/basename (755 != 644)
+[AFTER]  /usr/bin/basename : 755
+----------------------------------------
+[BEFORE] /usr/bin/lowriter : 755
+[MISMATCH FILE] /usr/bin/lowriter (755 != 644)
+[AFTER]  /usr/bin/lowriter : 755
+----------------------------------------
+[BEFORE] /usr/bin/lesskey : 755
+[MISMATCH FILE] /usr/bin/lesskey (755 != 644)
+[AFTER]  /usr/bin/lesskey : 755
+----------------------------------------
+[BEFORE] /usr/bin/gst-play-1.0 : 755
+[MISMATCH FILE] /usr/bin/gst-play-1.0 (755 != 644)
+[AFTER]  /usr/bin/gst-play-1.0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/pic : 755
+[MISMATCH FILE] /usr/bin/pic (755 != 644)
+[AFTER]  /usr/bin/pic : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-cpp-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-cpp-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-cpp-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/dirname : 755
+[MISMATCH FILE] /usr/bin/dirname (755 != 644)
+[AFTER]  /usr/bin/dirname : 755
+----------------------------------------
+[BEFORE] /usr/bin/dh_perl_openssl : 755
+[MISMATCH FILE] /usr/bin/dh_perl_openssl (755 != 644)
+[AFTER]  /usr/bin/dh_perl_openssl : 755
+----------------------------------------
+[BEFORE] /usr/bin/snapfuse : 755
+[MISMATCH FILE] /usr/bin/snapfuse (755 != 644)
+[AFTER]  /usr/bin/snapfuse : 755
+----------------------------------------
+[BEFORE] /usr/bin/funzip : 755
+[MISMATCH FILE] /usr/bin/funzip (755 != 644)
+[AFTER]  /usr/bin/funzip : 755
+----------------------------------------
+[BEFORE] /usr/bin/printer-profile : 755
+[MISMATCH FILE] /usr/bin/printer-profile (755 != 644)
+[AFTER]  /usr/bin/printer-profile : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-c++filt : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-c++filt (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-c++filt : 755
+----------------------------------------
+[BEFORE] /usr/bin/install-info : 755
+[MISMATCH FILE] /usr/bin/install-info (755 != 644)
+[AFTER]  /usr/bin/install-info : 755
+----------------------------------------
+[BEFORE] /usr/bin/whiptail : 755
+[MISMATCH FILE] /usr/bin/whiptail (755 != 644)
+[AFTER]  /usr/bin/whiptail : 755
+----------------------------------------
+[BEFORE] /usr/bin/wdctl : 755
+[MISMATCH FILE] /usr/bin/wdctl (755 != 644)
+[AFTER]  /usr/bin/wdctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/zjsdecode : 755
+[MISMATCH FILE] /usr/bin/zjsdecode (755 != 644)
+[AFTER]  /usr/bin/zjsdecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/gs : 755
+[MISMATCH FILE] /usr/bin/gs (755 != 644)
+[AFTER]  /usr/bin/gs : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsinitramfs : 755
+[MISMATCH FILE] /usr/bin/lsinitramfs (755 != 644)
+[AFTER]  /usr/bin/lsinitramfs : 755
+----------------------------------------
+[BEFORE] /usr/bin/pr : 755
+[MISMATCH FILE] /usr/bin/pr (755 != 644)
+[AFTER]  /usr/bin/pr : 755
+----------------------------------------
+[BEFORE] /usr/bin/mcheck : 755
+[MISMATCH FILE] /usr/bin/mcheck (755 != 644)
+[AFTER]  /usr/bin/mcheck : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdftoppm : 755
+[MISMATCH FILE] /usr/bin/pdftoppm (755 != 644)
+[AFTER]  /usr/bin/pdftoppm : 755
+----------------------------------------
+[BEFORE] /usr/bin/uname : 755
+[MISMATCH FILE] /usr/bin/uname (755 != 644)
+[AFTER]  /usr/bin/uname : 755
+----------------------------------------
+[BEFORE] /usr/bin/mkfifo : 755
+[MISMATCH FILE] /usr/bin/mkfifo (755 != 644)
+[AFTER]  /usr/bin/mkfifo : 755
+----------------------------------------
+[BEFORE] /usr/bin/ciptool : 755
+[MISMATCH FILE] /usr/bin/ciptool (755 != 644)
+[AFTER]  /usr/bin/ciptool : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mkimage : 755
+[MISMATCH FILE] /usr/bin/grub-mkimage (755 != 644)
+[AFTER]  /usr/bin/grub-mkimage : 755
+----------------------------------------
+[BEFORE] /usr/bin/lslogins : 755
+[MISMATCH FILE] /usr/bin/lslogins (755 != 644)
+[AFTER]  /usr/bin/lslogins : 755
+----------------------------------------
+[BEFORE] /usr/bin/listres : 755
+[MISMATCH FILE] /usr/bin/listres (755 != 644)
+[AFTER]  /usr/bin/listres : 755
+----------------------------------------
+[BEFORE] /usr/bin/zgrep : 755
+[MISMATCH FILE] /usr/bin/zgrep (755 != 644)
+[AFTER]  /usr/bin/zgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-key : 755
+[MISMATCH FILE] /usr/bin/apt-key (755 != 644)
+[AFTER]  /usr/bin/apt-key : 755
+----------------------------------------
+[BEFORE] /usr/bin/kbxutil : 755
+[MISMATCH FILE] /usr/bin/kbxutil (755 != 644)
+[AFTER]  /usr/bin/kbxutil : 755
+----------------------------------------
+[BEFORE] /usr/bin/aptdcon : 755
+[MISMATCH FILE] /usr/bin/aptdcon (755 != 644)
+[AFTER]  /usr/bin/aptdcon : 755
+----------------------------------------
+[BEFORE] /usr/bin/quota : 755
+[MISMATCH FILE] /usr/bin/quota (755 != 644)
+[AFTER]  /usr/bin/quota : 755
+----------------------------------------
+[BEFORE] /usr/bin/pkcon : 755
+[MISMATCH FILE] /usr/bin/pkcon (755 != 644)
+[AFTER]  /usr/bin/pkcon : 755
+----------------------------------------
+[BEFORE] /usr/bin/splitfont : 755
+[MISMATCH FILE] /usr/bin/splitfont (755 != 644)
+[AFTER]  /usr/bin/splitfont : 755
+----------------------------------------
+[BEFORE] /usr/bin/getfacl : 755
+[MISMATCH FILE] /usr/bin/getfacl (755 != 644)
+[AFTER]  /usr/bin/getfacl : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mkfont : 755
+[MISMATCH FILE] /usr/bin/grub-mkfont (755 != 644)
+[AFTER]  /usr/bin/grub-mkfont : 755
+----------------------------------------
+[BEFORE] /usr/bin/mtr : 755
+[MISMATCH FILE] /usr/bin/mtr (755 != 644)
+[AFTER]  /usr/bin/mtr : 755
+----------------------------------------
+[BEFORE] /usr/bin/dirsplit : 755
+[MISMATCH FILE] /usr/bin/dirsplit (755 != 644)
+[AFTER]  /usr/bin/dirsplit : 755
+----------------------------------------
+[BEFORE] /usr/bin/lpoptions : 755
+[MISMATCH FILE] /usr/bin/lpoptions (755 != 644)
+[AFTER]  /usr/bin/lpoptions : 755
+----------------------------------------
+[BEFORE] /usr/bin/esc-m : 755
+[MISMATCH FILE] /usr/bin/esc-m (755 != 644)
+[AFTER]  /usr/bin/esc-m : 755
+----------------------------------------
+[BEFORE] /usr/bin/ucf : 755
+[MISMATCH FILE] /usr/bin/ucf (755 != 644)
+[AFTER]  /usr/bin/ucf : 755
+----------------------------------------
+[BEFORE] /usr/bin/unsquashfs : 755
+[MISMATCH FILE] /usr/bin/unsquashfs (755 != 644)
+[AFTER]  /usr/bin/unsquashfs : 755
+----------------------------------------
+[BEFORE] /usr/bin/xfontsel : 755
+[MISMATCH FILE] /usr/bin/xfontsel (755 != 644)
+[AFTER]  /usr/bin/xfontsel : 755
+----------------------------------------
+[BEFORE] /usr/bin/perlthanks : 755
+[MISMATCH FILE] /usr/bin/perlthanks (755 != 644)
+[AFTER]  /usr/bin/perlthanks : 755
+----------------------------------------
+[BEFORE] /usr/bin/md5sum : 755
+[MISMATCH FILE] /usr/bin/md5sum (755 != 644)
+[AFTER]  /usr/bin/md5sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/totem : 755
+[MISMATCH FILE] /usr/bin/totem (755 != 644)
+[AFTER]  /usr/bin/totem : 755
+----------------------------------------
+[BEFORE] /usr/bin/tgz : 755
+[MISMATCH FILE] /usr/bin/tgz (755 != 644)
+[AFTER]  /usr/bin/tgz : 755
+----------------------------------------
+[BEFORE] /usr/bin/hexdump : 755
+[MISMATCH FILE] /usr/bin/hexdump (755 != 644)
+[AFTER]  /usr/bin/hexdump : 755
+----------------------------------------
+[BEFORE] /usr/bin/groups : 755
+[MISMATCH FILE] /usr/bin/groups (755 != 644)
+[AFTER]  /usr/bin/groups : 755
+----------------------------------------
+[BEFORE] /usr/bin/sdptool : 755
+[MISMATCH FILE] /usr/bin/sdptool (755 != 644)
+[AFTER]  /usr/bin/sdptool : 755
+----------------------------------------
+[BEFORE] /usr/bin/remmina-file-wrapper : 755
+[MISMATCH FILE] /usr/bin/remmina-file-wrapper (755 != 644)
+[AFTER]  /usr/bin/remmina-file-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsmem : 755
+[MISMATCH FILE] /usr/bin/lsmem (755 != 644)
+[AFTER]  /usr/bin/lsmem : 755
+----------------------------------------
+[BEFORE] /usr/bin/sbvarsign : 755
+[MISMATCH FILE] /usr/bin/sbvarsign (755 != 644)
+[AFTER]  /usr/bin/sbvarsign : 755
+----------------------------------------
+[BEFORE] /usr/bin/btmon : 755
+[MISMATCH FILE] /usr/bin/btmon (755 != 644)
+[AFTER]  /usr/bin/btmon : 755
+----------------------------------------
+[BEFORE] /usr/bin/lwp-download : 755
+[MISMATCH FILE] /usr/bin/lwp-download (755 != 644)
+[AFTER]  /usr/bin/lwp-download : 755
+----------------------------------------
+[BEFORE] /usr/bin/crontab : 2755
+[CRITICAL] SetGID detected : /usr/bin/crontab
+[MISMATCH FILE] /usr/bin/crontab (755 != 644)
+[AFTER]  /usr/bin/crontab : 2755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-session-quit : 755
+[MISMATCH FILE] /usr/bin/gnome-session-quit (755 != 644)
+[AFTER]  /usr/bin/gnome-session-quit : 755
+----------------------------------------
+[BEFORE] /usr/bin/pacat : 755
+[MISMATCH FILE] /usr/bin/pacat (755 != 644)
+[AFTER]  /usr/bin/pacat : 755
+----------------------------------------
+[BEFORE] /usr/bin/paperconf : 755
+[MISMATCH FILE] /usr/bin/paperconf (755 != 644)
+[AFTER]  /usr/bin/paperconf : 755
+----------------------------------------
+[BEFORE] /usr/bin/lastlog : 755
+[MISMATCH FILE] /usr/bin/lastlog (755 != 644)
+[AFTER]  /usr/bin/lastlog : 755
+----------------------------------------
+[BEFORE] /usr/bin/passwd : 4755
+[CRITICAL] SetUID detected : /usr/bin/passwd
+[MISMATCH FILE] /usr/bin/passwd (755 != 644)
+[AFTER]  /usr/bin/passwd : 4755
+----------------------------------------
+[BEFORE] /usr/bin/chown : 755
+[MISMATCH FILE] /usr/bin/chown (755 != 644)
+[AFTER]  /usr/bin/chown : 755
+----------------------------------------
+[BEFORE] /usr/bin/ss : 755
+[MISMATCH FILE] /usr/bin/ss (755 != 644)
+[AFTER]  /usr/bin/ss : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdftocairo : 755
+[MISMATCH FILE] /usr/bin/pdftocairo (755 != 644)
+[AFTER]  /usr/bin/pdftocairo : 755
+----------------------------------------
+[BEFORE] /usr/bin/bwrap : 755
+[MISMATCH FILE] /usr/bin/bwrap (755 != 644)
+[AFTER]  /usr/bin/bwrap : 755
+----------------------------------------
+[BEFORE] /usr/bin/ipptool : 755
+[MISMATCH FILE] /usr/bin/ipptool (755 != 644)
+[AFTER]  /usr/bin/ipptool : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdk-pixbuf-thumbnailer : 755
+[MISMATCH FILE] /usr/bin/gdk-pixbuf-thumbnailer (755 != 644)
+[AFTER]  /usr/bin/gdk-pixbuf-thumbnailer : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-buildflags : 755
+[MISMATCH FILE] /usr/bin/dpkg-buildflags (755 != 644)
+[AFTER]  /usr/bin/dpkg-buildflags : 755
+----------------------------------------
+[BEFORE] /usr/bin/netstat : 755
+[MISMATCH FILE] /usr/bin/netstat (755 != 644)
+[AFTER]  /usr/bin/netstat : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdfseparate : 755
+[MISMATCH FILE] /usr/bin/pdfseparate (755 != 644)
+[AFTER]  /usr/bin/pdfseparate : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdfdetach : 755
+[MISMATCH FILE] /usr/bin/pdfdetach (755 != 644)
+[AFTER]  /usr/bin/pdfdetach : 755
+----------------------------------------
+[BEFORE] /usr/bin/zipdetails : 755
+[MISMATCH FILE] /usr/bin/zipdetails (755 != 644)
+[AFTER]  /usr/bin/zipdetails : 755
+----------------------------------------
+[BEFORE] /usr/bin/zforce : 755
+[MISMATCH FILE] /usr/bin/zforce (755 != 644)
+[AFTER]  /usr/bin/zforce : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-cgls : 755
+[MISMATCH FILE] /usr/bin/systemd-cgls (755 != 644)
+[AFTER]  /usr/bin/systemd-cgls : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2pdf : 755
+[MISMATCH FILE] /usr/bin/ps2pdf (755 != 644)
+[AFTER]  /usr/bin/ps2pdf : 755
+----------------------------------------
+[BEFORE] /usr/bin/mimeopen : 755
+[MISMATCH FILE] /usr/bin/mimeopen (755 != 644)
+[AFTER]  /usr/bin/mimeopen : 755
+----------------------------------------
+[BEFORE] /usr/bin/pnm2ppa : 755
+[MISMATCH FILE] /usr/bin/pnm2ppa (755 != 644)
+[AFTER]  /usr/bin/pnm2ppa : 755
+----------------------------------------
+[BEFORE] /usr/bin/debian-distro-info : 755
+[MISMATCH FILE] /usr/bin/debian-distro-info (755 != 644)
+[AFTER]  /usr/bin/debian-distro-info : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-uuidgen : 755
+[MISMATCH FILE] /usr/bin/dbus-uuidgen (755 != 644)
+[AFTER]  /usr/bin/dbus-uuidgen : 755
+----------------------------------------
+[BEFORE] /usr/bin/setupcon : 755
+[MISMATCH FILE] /usr/bin/setupcon (755 != 644)
+[AFTER]  /usr/bin/setupcon : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-session-custom-session : 755
+[MISMATCH FILE] /usr/bin/gnome-session-custom-session (755 != 644)
+[AFTER]  /usr/bin/gnome-session-custom-session : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-notify : 755
+[MISMATCH FILE] /usr/bin/systemd-notify (755 != 644)
+[AFTER]  /usr/bin/systemd-notify : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-keyring-daemon : 755
+[MISMATCH FILE] /usr/bin/gnome-keyring-daemon (755 != 644)
+[AFTER]  /usr/bin/gnome-keyring-daemon : 755
+----------------------------------------
+[BEFORE] /usr/bin/update-manager : 755
+[MISMATCH FILE] /usr/bin/update-manager (755 != 644)
+[AFTER]  /usr/bin/update-manager : 755
+----------------------------------------
+[BEFORE] /usr/bin/fakeroot-tcp : 755
+[MISMATCH FILE] /usr/bin/fakeroot-tcp (755 != 644)
+[AFTER]  /usr/bin/fakeroot-tcp : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-terminal.wrapper : 755
+[MISMATCH FILE] /usr/bin/gnome-terminal.wrapper (755 != 644)
+[AFTER]  /usr/bin/gnome-terminal.wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/lp_solve : 755
+[MISMATCH FILE] /usr/bin/lp_solve (755 != 644)
+[AFTER]  /usr/bin/lp_solve : 755
+----------------------------------------
+[BEFORE] /usr/bin/ubuntu-advantage : 755
+[MISMATCH FILE] /usr/bin/ubuntu-advantage (755 != 644)
+[AFTER]  /usr/bin/ubuntu-advantage : 755
+----------------------------------------
+[BEFORE] /usr/bin/grog : 755
+[MISMATCH FILE] /usr/bin/grog (755 != 644)
+[AFTER]  /usr/bin/grog : 755
+----------------------------------------
+[BEFORE] /usr/bin/sum : 755
+[MISMATCH FILE] /usr/bin/sum (755 != 644)
+[AFTER]  /usr/bin/sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/syslinux : 755
+[MISMATCH FILE] /usr/bin/syslinux (755 != 644)
+[AFTER]  /usr/bin/syslinux : 755
+----------------------------------------
+[BEFORE] /usr/bin/xzdiff : 755
+[MISMATCH FILE] /usr/bin/xzdiff (755 != 644)
+[AFTER]  /usr/bin/xzdiff : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-ranlib : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-ranlib (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-ranlib : 755
+----------------------------------------
+[BEFORE] /usr/bin/wc : 755
+[MISMATCH FILE] /usr/bin/wc (755 != 644)
+[AFTER]  /usr/bin/wc : 755
+----------------------------------------
+[BEFORE] /usr/bin/rstart : 755
+[MISMATCH FILE] /usr/bin/rstart (755 != 644)
+[AFTER]  /usr/bin/rstart : 755
+----------------------------------------
+[BEFORE] /usr/bin/sudo : 4755
+[CRITICAL] SetUID detected : /usr/bin/sudo
+[MISMATCH FILE] /usr/bin/sudo (755 != 644)
+[AFTER]  /usr/bin/sudo : 4755
+----------------------------------------
+[BEFORE] /usr/bin/users : 755
+[MISMATCH FILE] /usr/bin/users (755 != 644)
+[AFTER]  /usr/bin/users : 755
+----------------------------------------
+[BEFORE] /usr/bin/dir : 755
+[MISMATCH FILE] /usr/bin/dir (755 != 644)
+[AFTER]  /usr/bin/dir : 755
+----------------------------------------
+[BEFORE] /usr/bin/nl : 755
+[MISMATCH FILE] /usr/bin/nl (755 != 644)
+[AFTER]  /usr/bin/nl : 755
+----------------------------------------
+[BEFORE] /usr/bin/ucfq : 755
+[MISMATCH FILE] /usr/bin/ucfq (755 != 644)
+[AFTER]  /usr/bin/ucfq : 755
+----------------------------------------
+[BEFORE] /usr/bin/linkicc : 755
+[MISMATCH FILE] /usr/bin/linkicc (755 != 644)
+[AFTER]  /usr/bin/linkicc : 755
+----------------------------------------
+[BEFORE] /usr/bin/yes : 755
+[MISMATCH FILE] /usr/bin/yes (755 != 644)
+[AFTER]  /usr/bin/yes : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-power-statistics : 755
+[MISMATCH FILE] /usr/bin/gnome-power-statistics (755 != 644)
+[AFTER]  /usr/bin/gnome-power-statistics : 755
+----------------------------------------
+[BEFORE] /usr/bin/xlsatoms : 755
+[MISMATCH FILE] /usr/bin/xlsatoms (755 != 644)
+[AFTER]  /usr/bin/xlsatoms : 755
+----------------------------------------
+[BEFORE] /usr/bin/perldoc : 755
+[MISMATCH FILE] /usr/bin/perldoc (755 != 644)
+[AFTER]  /usr/bin/perldoc : 755
+----------------------------------------
+[BEFORE] /usr/bin/kmodsign : 755
+[MISMATCH FILE] /usr/bin/kmodsign (755 != 644)
+[AFTER]  /usr/bin/kmodsign : 755
+----------------------------------------
+[BEFORE] /usr/bin/xqxdecode : 755
+[MISMATCH FILE] /usr/bin/xqxdecode (755 != 644)
+[AFTER]  /usr/bin/xqxdecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/script : 755
+[MISMATCH FILE] /usr/bin/script (755 != 644)
+[AFTER]  /usr/bin/script : 755
+----------------------------------------
+[BEFORE] /usr/bin/tbl : 755
+[MISMATCH FILE] /usr/bin/tbl (755 != 644)
+[AFTER]  /usr/bin/tbl : 755
+----------------------------------------
+[BEFORE] /usr/bin/spd-say : 755
+[MISMATCH FILE] /usr/bin/spd-say (755 != 644)
+[AFTER]  /usr/bin/spd-say : 755
+----------------------------------------
+[BEFORE] /usr/bin/logname : 755
+[MISMATCH FILE] /usr/bin/logname (755 != 644)
+[AFTER]  /usr/bin/logname : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfscat : 755
+[MISMATCH FILE] /usr/bin/ntfscat (755 != 644)
+[AFTER]  /usr/bin/ntfscat : 755
+----------------------------------------
+[BEFORE] /usr/bin/ispell-wrapper : 755
+[MISMATCH FILE] /usr/bin/ispell-wrapper (755 != 644)
+[AFTER]  /usr/bin/ispell-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-addr2line : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-addr2line (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-addr2line : 755
+----------------------------------------
+[BEFORE] /usr/bin/dircolors : 755
+[MISMATCH FILE] /usr/bin/dircolors (755 != 644)
+[AFTER]  /usr/bin/dircolors : 755
+----------------------------------------
+[BEFORE] /usr/bin/word-list-compress : 755
+[MISMATCH FILE] /usr/bin/word-list-compress (755 != 644)
+[AFTER]  /usr/bin/word-list-compress : 755
+----------------------------------------
+[BEFORE] /usr/bin/nproc : 755
+[MISMATCH FILE] /usr/bin/nproc (755 != 644)
+[AFTER]  /usr/bin/nproc : 755
+----------------------------------------
+[BEFORE] /usr/bin/debconf-show : 755
+[MISMATCH FILE] /usr/bin/debconf-show (755 != 644)
+[AFTER]  /usr/bin/debconf-show : 755
+----------------------------------------
+[BEFORE] /usr/bin/pinentry-gnome3 : 755
+[MISMATCH FILE] /usr/bin/pinentry-gnome3 (755 != 644)
+[AFTER]  /usr/bin/pinentry-gnome3 : 755
+----------------------------------------
+[BEFORE] /usr/bin/tail : 755
+[MISMATCH FILE] /usr/bin/tail (755 != 644)
+[AFTER]  /usr/bin/tail : 755
+----------------------------------------
+[BEFORE] /usr/bin/obexctl : 755
+[MISMATCH FILE] /usr/bin/obexctl (755 != 644)
+[AFTER]  /usr/bin/obexctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/zmore : 755
+[MISMATCH FILE] /usr/bin/zmore (755 != 644)
+[AFTER]  /usr/bin/zmore : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-query : 755
+[MISMATCH FILE] /usr/bin/dpkg-query (755 != 644)
+[AFTER]  /usr/bin/dpkg-query : 755
+----------------------------------------
+[BEFORE] /usr/bin/preconv : 755
+[MISMATCH FILE] /usr/bin/preconv (755 != 644)
+[AFTER]  /usr/bin/preconv : 755
+----------------------------------------
+[BEFORE] /usr/bin/lwp-request : 755
+[MISMATCH FILE] /usr/bin/lwp-request (755 != 644)
+[AFTER]  /usr/bin/lwp-request : 755
+----------------------------------------
+[BEFORE] /usr/bin/xhost : 755
+[MISMATCH FILE] /usr/bin/xhost (755 != 644)
+[AFTER]  /usr/bin/xhost : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt : 755
+[MISMATCH FILE] /usr/bin/apt (755 != 644)
+[AFTER]  /usr/bin/apt : 755
+----------------------------------------
+[BEFORE] /usr/bin/bzdiff : 755
+[MISMATCH FILE] /usr/bin/bzdiff (755 != 644)
+[AFTER]  /usr/bin/bzdiff : 755
+----------------------------------------
+[BEFORE] /usr/bin/ln : 755
+[MISMATCH FILE] /usr/bin/ln (755 != 644)
+[AFTER]  /usr/bin/ln : 755
+----------------------------------------
+[BEFORE] /usr/bin/eutp : 755
+[MISMATCH FILE] /usr/bin/eutp (755 != 644)
+[AFTER]  /usr/bin/eutp : 755
+----------------------------------------
+[BEFORE] /usr/bin/arecordmidi : 755
+[MISMATCH FILE] /usr/bin/arecordmidi (755 != 644)
+[AFTER]  /usr/bin/arecordmidi : 755
+----------------------------------------
+[BEFORE] /usr/bin/pl2pm : 755
+[MISMATCH FILE] /usr/bin/pl2pm (755 != 644)
+[AFTER]  /usr/bin/pl2pm : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-cgtop : 755
+[MISMATCH FILE] /usr/bin/systemd-cgtop (755 != 644)
+[AFTER]  /usr/bin/systemd-cgtop : 755
+----------------------------------------
+[BEFORE] /usr/bin/pmap : 755
+[MISMATCH FILE] /usr/bin/pmap (755 != 644)
+[AFTER]  /usr/bin/pmap : 755
+----------------------------------------
+[BEFORE] /usr/bin/ddstdecode : 755
+[MISMATCH FILE] /usr/bin/ddstdecode (755 != 644)
+[AFTER]  /usr/bin/ddstdecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mkstandalone : 755
+[MISMATCH FILE] /usr/bin/grub-mkstandalone (755 != 644)
+[AFTER]  /usr/bin/grub-mkstandalone : 755
+----------------------------------------
+[BEFORE] /usr/bin/xmodmap : 755
+[MISMATCH FILE] /usr/bin/xmodmap (755 != 644)
+[AFTER]  /usr/bin/xmodmap : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdfimages : 755
+[MISMATCH FILE] /usr/bin/pdfimages (755 != 644)
+[AFTER]  /usr/bin/pdfimages : 755
+----------------------------------------
+[BEFORE] /usr/bin/keyring : 755
+[MISMATCH FILE] /usr/bin/keyring (755 != 644)
+[AFTER]  /usr/bin/keyring : 755
+----------------------------------------
+[BEFORE] /usr/bin/who : 755
+[MISMATCH FILE] /usr/bin/who (755 != 644)
+[AFTER]  /usr/bin/who : 755
+----------------------------------------
+[BEFORE] /usr/bin/rev : 755
+[MISMATCH FILE] /usr/bin/rev (755 != 644)
+[AFTER]  /usr/bin/rev : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-delta : 755
+[MISMATCH FILE] /usr/bin/systemd-delta (755 != 644)
+[AFTER]  /usr/bin/systemd-delta : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-as : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-as (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-as : 755
+----------------------------------------
+[BEFORE] /usr/bin/update-notifier : 755
+[MISMATCH FILE] /usr/bin/update-notifier (755 != 644)
+[AFTER]  /usr/bin/update-notifier : 755
+----------------------------------------
+[BEFORE] /usr/bin/xsetpointer : 755
+[MISMATCH FILE] /usr/bin/xsetpointer (755 != 644)
+[AFTER]  /usr/bin/xsetpointer : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-id128 : 755
+[MISMATCH FILE] /usr/bin/systemd-id128 (755 != 644)
+[AFTER]  /usr/bin/systemd-id128 : 755
+----------------------------------------
+[BEFORE] /usr/bin/gjs-console : 755
+[MISMATCH FILE] /usr/bin/gjs-console (755 != 644)
+[AFTER]  /usr/bin/gjs-console : 755
+----------------------------------------
+[BEFORE] /usr/bin/fprintd-delete : 755
+[MISMATCH FILE] /usr/bin/fprintd-delete (755 != 644)
+[AFTER]  /usr/bin/fprintd-delete : 755
+----------------------------------------
+[BEFORE] /usr/bin/ppdmerge : 755
+[MISMATCH FILE] /usr/bin/ppdmerge (755 != 644)
+[AFTER]  /usr/bin/ppdmerge : 755
+----------------------------------------
+[BEFORE] /usr/bin/update-mime-database : 755
+[MISMATCH FILE] /usr/bin/update-mime-database (755 != 644)
+[AFTER]  /usr/bin/update-mime-database : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-cache : 755
+[MISMATCH FILE] /usr/bin/fc-cache (755 != 644)
+[AFTER]  /usr/bin/fc-cache : 755
+----------------------------------------
+[BEFORE] /usr/bin/cheese : 755
+[MISMATCH FILE] /usr/bin/cheese (755 != 644)
+[AFTER]  /usr/bin/cheese : 755
+----------------------------------------
+[BEFORE] /usr/bin/arch : 755
+[MISMATCH FILE] /usr/bin/arch (755 != 644)
+[AFTER]  /usr/bin/arch : 755
+----------------------------------------
+[BEFORE] /usr/bin/tac : 755
+[MISMATCH FILE] /usr/bin/tac (755 != 644)
+[AFTER]  /usr/bin/tac : 755
+----------------------------------------
+[BEFORE] /usr/bin/chrt : 755
+[MISMATCH FILE] /usr/bin/chrt (755 != 644)
+[AFTER]  /usr/bin/chrt : 755
+----------------------------------------
+[BEFORE] /usr/bin/select-editor : 755
+[MISMATCH FILE] /usr/bin/select-editor (755 != 644)
+[AFTER]  /usr/bin/select-editor : 755
+----------------------------------------
+[BEFORE] /usr/bin/sbsiglist : 755
+[MISMATCH FILE] /usr/bin/sbsiglist (755 != 644)
+[AFTER]  /usr/bin/sbsiglist : 755
+----------------------------------------
+[BEFORE] /usr/bin/addpart : 755
+[MISMATCH FILE] /usr/bin/addpart (755 != 644)
+[AFTER]  /usr/bin/addpart : 755
+----------------------------------------
+[BEFORE] /usr/bin/perl5.30.0 : 755
+[MISMATCH FILE] /usr/bin/perl5.30.0 (755 != 644)
+[AFTER]  /usr/bin/perl5.30.0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/ssh-agent : 2755
+[CRITICAL] SetGID detected : /usr/bin/ssh-agent
+[MISMATCH FILE] /usr/bin/ssh-agent (755 != 644)
+[AFTER]  /usr/bin/ssh-agent : 2755
+----------------------------------------
+[BEFORE] /usr/bin/pdfinfo : 755
+[MISMATCH FILE] /usr/bin/pdfinfo (755 != 644)
+[AFTER]  /usr/bin/pdfinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/id : 755
+[MISMATCH FILE] /usr/bin/id (755 != 644)
+[AFTER]  /usr/bin/id : 755
+----------------------------------------
+[BEFORE] /usr/bin/peekfd : 755
+[MISMATCH FILE] /usr/bin/peekfd (755 != 644)
+[AFTER]  /usr/bin/peekfd : 755
+----------------------------------------
+[BEFORE] /usr/bin/udisksctl : 755
+[MISMATCH FILE] /usr/bin/udisksctl (755 != 644)
+[AFTER]  /usr/bin/udisksctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-control-center : 755
+[MISMATCH FILE] /usr/bin/gnome-control-center (755 != 644)
+[AFTER]  /usr/bin/gnome-control-center : 755
+----------------------------------------
+[BEFORE] /usr/bin/geteltorito : 755
+[MISMATCH FILE] /usr/bin/geteltorito (755 != 644)
+[AFTER]  /usr/bin/geteltorito : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-monitor-dir : 755
+[MISMATCH FILE] /usr/bin/gvfs-monitor-dir (755 != 644)
+[AFTER]  /usr/bin/gvfs-monitor-dir : 755
+----------------------------------------
+[BEFORE] /usr/bin/last : 755
+[MISMATCH FILE] /usr/bin/last (755 != 644)
+[AFTER]  /usr/bin/last : 755
+----------------------------------------
+[BEFORE] /usr/bin/prove : 755
+[MISMATCH FILE] /usr/bin/prove (755 != 644)
+[AFTER]  /usr/bin/prove : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-todo : 755
+[MISMATCH FILE] /usr/bin/gnome-todo (755 != 644)
+[AFTER]  /usr/bin/gnome-todo : 755
+----------------------------------------
+[BEFORE] /usr/bin/evince : 755
+[MISMATCH FILE] /usr/bin/evince (755 != 644)
+[AFTER]  /usr/bin/evince : 755
+----------------------------------------
+[BEFORE] /usr/bin/xedit : 755
+[MISMATCH FILE] /usr/bin/xedit (755 != 644)
+[AFTER]  /usr/bin/xedit : 755
+----------------------------------------
+[BEFORE] /usr/bin/expand : 755
+[MISMATCH FILE] /usr/bin/expand (755 != 644)
+[AFTER]  /usr/bin/expand : 755
+----------------------------------------
+[BEFORE] /usr/bin/lpq : 755
+[MISMATCH FILE] /usr/bin/lpq (755 != 644)
+[AFTER]  /usr/bin/lpq : 755
+----------------------------------------
+[BEFORE] /usr/bin/deja-dup : 755
+[MISMATCH FILE] /usr/bin/deja-dup (755 != 644)
+[AFTER]  /usr/bin/deja-dup : 755
+----------------------------------------
+[BEFORE] /usr/bin/shuf : 755
+[MISMATCH FILE] /usr/bin/shuf (755 != 644)
+[AFTER]  /usr/bin/shuf : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-genbuildinfo : 755
+[MISMATCH FILE] /usr/bin/dpkg-genbuildinfo (755 != 644)
+[AFTER]  /usr/bin/dpkg-genbuildinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/run-with-aspell : 755
+[MISMATCH FILE] /usr/bin/run-with-aspell (755 != 644)
+[AFTER]  /usr/bin/run-with-aspell : 755
+----------------------------------------
+[BEFORE] /usr/bin/python3-pasteurize : 755
+[MISMATCH FILE] /usr/bin/python3-pasteurize (755 != 644)
+[AFTER]  /usr/bin/python3-pasteurize : 755
+----------------------------------------
+[BEFORE] /usr/bin/zip : 755
+[MISMATCH FILE] /usr/bin/zip (755 != 644)
+[AFTER]  /usr/bin/zip : 755
+----------------------------------------
+[BEFORE] /usr/bin/ubuntu-report : 755
+[MISMATCH FILE] /usr/bin/ubuntu-report (755 != 644)
+[AFTER]  /usr/bin/ubuntu-report : 755
+----------------------------------------
+[BEFORE] /usr/bin/enchant-lsmod-2 : 755
+[MISMATCH FILE] /usr/bin/enchant-lsmod-2 (755 != 644)
+[AFTER]  /usr/bin/enchant-lsmod-2 : 755
+----------------------------------------
+[BEFORE] /usr/bin/gkbd-keyboard-display : 755
+[MISMATCH FILE] /usr/bin/gkbd-keyboard-display (755 != 644)
+[AFTER]  /usr/bin/gkbd-keyboard-display : 755
+----------------------------------------
+[BEFORE] /usr/bin/cat : 755
+[MISMATCH FILE] /usr/bin/cat (755 != 644)
+[AFTER]  /usr/bin/cat : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-tree : 755
+[MISMATCH FILE] /usr/bin/gvfs-tree (755 != 644)
+[AFTER]  /usr/bin/gvfs-tree : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2oak-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2oak-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2oak-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/encguess : 755
+[MISMATCH FILE] /usr/bin/encguess (755 != 644)
+[AFTER]  /usr/bin/encguess : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2hbpl2-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2hbpl2-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2hbpl2-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/numfmt : 755
+[MISMATCH FILE] /usr/bin/numfmt (755 != 644)
+[AFTER]  /usr/bin/numfmt : 755
+----------------------------------------
+[BEFORE] /usr/bin/chvt : 755
+[MISMATCH FILE] /usr/bin/chvt (755 != 644)
+[AFTER]  /usr/bin/chvt : 755
+----------------------------------------
+[BEFORE] /usr/bin/xsetmode : 755
+[MISMATCH FILE] /usr/bin/xsetmode (755 != 644)
+[AFTER]  /usr/bin/xsetmode : 755
+----------------------------------------
+[BEFORE] /usr/bin/calibrate_ppa : 755
+[MISMATCH FILE] /usr/bin/calibrate_ppa (755 != 644)
+[AFTER]  /usr/bin/calibrate_ppa : 755
+----------------------------------------
+[BEFORE] /usr/bin/sync : 755
+[MISMATCH FILE] /usr/bin/sync (755 != 644)
+[AFTER]  /usr/bin/sync : 755
+----------------------------------------
+[BEFORE] /usr/bin/ucfr : 755
+[MISMATCH FILE] /usr/bin/ucfr (755 != 644)
+[AFTER]  /usr/bin/ucfr : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-ftparchive : 755
+[MISMATCH FILE] /usr/bin/apt-ftparchive (755 != 644)
+[AFTER]  /usr/bin/apt-ftparchive : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-language-selector : 755
+[MISMATCH FILE] /usr/bin/gnome-language-selector (755 != 644)
+[AFTER]  /usr/bin/gnome-language-selector : 755
+----------------------------------------
+[BEFORE] /usr/bin/pwd : 755
+[MISMATCH FILE] /usr/bin/pwd (755 != 644)
+[AFTER]  /usr/bin/pwd : 755
+----------------------------------------
+[BEFORE] /usr/bin/xsetwacom : 755
+[MISMATCH FILE] /usr/bin/xsetwacom (755 != 644)
+[AFTER]  /usr/bin/xsetwacom : 755
+----------------------------------------
+[BEFORE] /usr/bin/codepage : 755
+[MISMATCH FILE] /usr/bin/codepage (755 != 644)
+[AFTER]  /usr/bin/codepage : 755
+----------------------------------------
+[BEFORE] /usr/bin/inputattach : 755
+[MISMATCH FILE] /usr/bin/inputattach (755 != 644)
+[AFTER]  /usr/bin/inputattach : 755
+----------------------------------------
+[BEFORE] /usr/bin/fprintd-list : 755
+[MISMATCH FILE] /usr/bin/fprintd-list (755 != 644)
+[AFTER]  /usr/bin/fprintd-list : 755
+----------------------------------------
+[BEFORE] /usr/bin/qpdldecode : 755
+[MISMATCH FILE] /usr/bin/qpdldecode (755 != 644)
+[AFTER]  /usr/bin/qpdldecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-ld.bfd : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-ld.bfd (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-ld.bfd : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2zjs : 755
+[MISMATCH FILE] /usr/bin/foo2zjs (755 != 644)
+[AFTER]  /usr/bin/foo2zjs : 755
+----------------------------------------
+[BEFORE] /usr/bin/mapscrn : 755
+[MISMATCH FILE] /usr/bin/mapscrn (755 != 644)
+[AFTER]  /usr/bin/mapscrn : 755
+----------------------------------------
+[BEFORE] /usr/bin/clear : 755
+[MISMATCH FILE] /usr/bin/clear (755 != 644)
+[AFTER]  /usr/bin/clear : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2hbpl2 : 755
+[MISMATCH FILE] /usr/bin/foo2hbpl2 (755 != 644)
+[AFTER]  /usr/bin/foo2hbpl2 : 755
+----------------------------------------
+[BEFORE] /usr/bin/deallocvt : 755
+[MISMATCH FILE] /usr/bin/deallocvt (755 != 644)
+[AFTER]  /usr/bin/deallocvt : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsusb : 755
+[MISMATCH FILE] /usr/bin/lsusb (755 != 644)
+[AFTER]  /usr/bin/lsusb : 755
+----------------------------------------
+[BEFORE] /usr/bin/rpcgen : 755
+[MISMATCH FILE] /usr/bin/rpcgen (755 != 644)
+[AFTER]  /usr/bin/rpcgen : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-copy : 755
+[MISMATCH FILE] /usr/bin/gvfs-copy (755 != 644)
+[AFTER]  /usr/bin/gvfs-copy : 755
+----------------------------------------
+[BEFORE] /usr/bin/ngettext : 755
+[MISMATCH FILE] /usr/bin/ngettext (755 != 644)
+[AFTER]  /usr/bin/ngettext : 755
+----------------------------------------
+[BEFORE] /usr/bin/unzip : 755
+[MISMATCH FILE] /usr/bin/unzip (755 != 644)
+[AFTER]  /usr/bin/unzip : 755
+----------------------------------------
+[BEFORE] /usr/bin/rename.ul : 755
+[MISMATCH FILE] /usr/bin/rename.ul (755 != 644)
+[AFTER]  /usr/bin/rename.ul : 755
+----------------------------------------
+[BEFORE] /usr/bin/lodraw : 755
+[MISMATCH FILE] /usr/bin/lodraw (755 != 644)
+[AFTER]  /usr/bin/lodraw : 755
+----------------------------------------
+[BEFORE] /usr/bin/zipsplit : 755
+[MISMATCH FILE] /usr/bin/zipsplit (755 != 644)
+[AFTER]  /usr/bin/zipsplit : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2pdf14 : 755
+[MISMATCH FILE] /usr/bin/ps2pdf14 (755 != 644)
+[AFTER]  /usr/bin/ps2pdf14 : 755
+----------------------------------------
+[BEFORE] /usr/bin/zipinfo : 755
+[MISMATCH FILE] /usr/bin/zipinfo (755 != 644)
+[AFTER]  /usr/bin/zipinfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-tty-ask-password-agent : 755
+[MISMATCH FILE] /usr/bin/systemd-tty-ask-password-agent (755 != 644)
+[AFTER]  /usr/bin/systemd-tty-ask-password-agent : 755
+----------------------------------------
+[BEFORE] /usr/bin/fincore : 755
+[MISMATCH FILE] /usr/bin/fincore (755 != 644)
+[AFTER]  /usr/bin/fincore : 755
+----------------------------------------
+[BEFORE] /usr/bin/ibus-daemon : 755
+[MISMATCH FILE] /usr/bin/ibus-daemon (755 != 644)
+[AFTER]  /usr/bin/ibus-daemon : 755
+----------------------------------------
+[BEFORE] /usr/bin/transset : 755
+[MISMATCH FILE] /usr/bin/transset (755 != 644)
+[AFTER]  /usr/bin/transset : 755
+----------------------------------------
+[BEFORE] /usr/bin/hwe-support-status : 755
+[MISMATCH FILE] /usr/bin/hwe-support-status (755 != 644)
+[AFTER]  /usr/bin/hwe-support-status : 755
+----------------------------------------
+[BEFORE] /usr/bin/duplicity : 755
+[MISMATCH FILE] /usr/bin/duplicity (755 != 644)
+[AFTER]  /usr/bin/duplicity : 755
+----------------------------------------
+[BEFORE] /usr/bin/gtk-encode-symbolic-svg : 755
+[MISMATCH FILE] /usr/bin/gtk-encode-symbolic-svg (755 != 644)
+[AFTER]  /usr/bin/gtk-encode-symbolic-svg : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpasswd : 4755
+[CRITICAL] SetUID detected : /usr/bin/gpasswd
+[MISMATCH FILE] /usr/bin/gpasswd (755 != 644)
+[AFTER]  /usr/bin/gpasswd : 4755
+----------------------------------------
+[BEFORE] /usr/bin/sha1sum : 755
+[MISMATCH FILE] /usr/bin/sha1sum (755 != 644)
+[AFTER]  /usr/bin/sha1sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/mcomp : 755
+[MISMATCH FILE] /usr/bin/mcomp (755 != 644)
+[AFTER]  /usr/bin/mcomp : 755
+----------------------------------------
+[BEFORE] /usr/bin/ppdpo : 755
+[MISMATCH FILE] /usr/bin/ppdpo (755 != 644)
+[AFTER]  /usr/bin/ppdpo : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-daemon : 755
+[MISMATCH FILE] /usr/bin/dbus-daemon (755 != 644)
+[AFTER]  /usr/bin/dbus-daemon : 755
+----------------------------------------
+[BEFORE] /usr/bin/bunzip2 : 755
+[MISMATCH FILE] /usr/bin/bunzip2 (755 != 644)
+[AFTER]  /usr/bin/bunzip2 : 755
+----------------------------------------
+[BEFORE] /usr/bin/zless : 755
+[MISMATCH FILE] /usr/bin/zless (755 != 644)
+[AFTER]  /usr/bin/zless : 755
+----------------------------------------
+[BEFORE] /usr/bin/apport-cli : 755
+[MISMATCH FILE] /usr/bin/apport-cli (755 != 644)
+[AFTER]  /usr/bin/apport-cli : 755
+----------------------------------------
+[BEFORE] /usr/bin/cancel : 755
+[MISMATCH FILE] /usr/bin/cancel (755 != 644)
+[AFTER]  /usr/bin/cancel : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gcc-ranlib-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gcc-ranlib-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gcc-ranlib-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/mtr-packet : 755
+[MISMATCH FILE] /usr/bin/mtr-packet (755 != 644)
+[AFTER]  /usr/bin/mtr-packet : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-user-dir : 755
+[MISMATCH FILE] /usr/bin/xdg-user-dir (755 != 644)
+[AFTER]  /usr/bin/xdg-user-dir : 755
+----------------------------------------
+[BEFORE] /usr/bin/aseqdump : 755
+[MISMATCH FILE] /usr/bin/aseqdump (755 != 644)
+[AFTER]  /usr/bin/aseqdump : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-socket-activate : 755
+[MISMATCH FILE] /usr/bin/systemd-socket-activate (755 != 644)
+[AFTER]  /usr/bin/systemd-socket-activate : 755
+----------------------------------------
+[BEFORE] /usr/bin/eog : 755
+[MISMATCH FILE] /usr/bin/eog (755 != 644)
+[AFTER]  /usr/bin/eog : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-shell : 755
+[MISMATCH FILE] /usr/bin/gnome-shell (755 != 644)
+[AFTER]  /usr/bin/gnome-shell : 755
+----------------------------------------
+[BEFORE] /usr/bin/isdv4-serial-inputattach : 755
+[MISMATCH FILE] /usr/bin/isdv4-serial-inputattach (755 != 644)
+[AFTER]  /usr/bin/isdv4-serial-inputattach : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsfix : 755
+[MISMATCH FILE] /usr/bin/ntfsfix (755 != 644)
+[AFTER]  /usr/bin/ntfsfix : 755
+----------------------------------------
+[BEFORE] /usr/bin/cpio : 755
+[MISMATCH FILE] /usr/bin/cpio (755 != 644)
+[AFTER]  /usr/bin/cpio : 755
+----------------------------------------
+[BEFORE] /usr/bin/sdiff : 755
+[MISMATCH FILE] /usr/bin/sdiff (755 != 644)
+[AFTER]  /usr/bin/sdiff : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfscluster : 755
+[MISMATCH FILE] /usr/bin/ntfscluster (755 != 644)
+[AFTER]  /usr/bin/ntfscluster : 755
+----------------------------------------
+[BEFORE] /usr/bin/ncal : 755
+[MISMATCH FILE] /usr/bin/ncal (755 != 644)
+[AFTER]  /usr/bin/ncal : 755
+----------------------------------------
+[BEFORE] /usr/bin/ed : 755
+[MISMATCH FILE] /usr/bin/ed (755 != 644)
+[AFTER]  /usr/bin/ed : 755
+----------------------------------------
+[BEFORE] /usr/bin/cut : 755
+[MISMATCH FILE] /usr/bin/cut (755 != 644)
+[AFTER]  /usr/bin/cut : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsipc : 755
+[MISMATCH FILE] /usr/bin/lsipc (755 != 644)
+[AFTER]  /usr/bin/lsipc : 755
+----------------------------------------
+[BEFORE] /usr/bin/mawk : 755
+[MISMATCH FILE] /usr/bin/mawk (755 != 644)
+[AFTER]  /usr/bin/mawk : 755
+----------------------------------------
+[BEFORE] /usr/bin/networkd-dispatcher : 755
+[MISMATCH FILE] /usr/bin/networkd-dispatcher (755 != 644)
+[AFTER]  /usr/bin/networkd-dispatcher : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-editenv : 755
+[MISMATCH FILE] /usr/bin/grub-editenv (755 != 644)
+[AFTER]  /usr/bin/grub-editenv : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2zjs-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2zjs-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2zjs-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/partx : 755
+[MISMATCH FILE] /usr/bin/partx (755 != 644)
+[AFTER]  /usr/bin/partx : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-system-monitor : 755
+[MISMATCH FILE] /usr/bin/gnome-system-monitor (755 != 644)
+[AFTER]  /usr/bin/gnome-system-monitor : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdbserver : 755
+[MISMATCH FILE] /usr/bin/gdbserver (755 != 644)
+[AFTER]  /usr/bin/gdbserver : 755
+----------------------------------------
+[BEFORE] /usr/bin/isovfy : 755
+[MISMATCH FILE] /usr/bin/isovfy (755 != 644)
+[AFTER]  /usr/bin/isovfy : 755
+----------------------------------------
+[BEFORE] /usr/bin/xgc : 755
+[MISMATCH FILE] /usr/bin/xgc (755 != 644)
+[AFTER]  /usr/bin/xgc : 755
+----------------------------------------
+[BEFORE] /usr/bin/smproxy : 755
+[MISMATCH FILE] /usr/bin/smproxy (755 != 644)
+[AFTER]  /usr/bin/smproxy : 755
+----------------------------------------
+[BEFORE] /usr/bin/colormgr : 755
+[MISMATCH FILE] /usr/bin/colormgr (755 != 644)
+[AFTER]  /usr/bin/colormgr : 755
+----------------------------------------
+[BEFORE] /usr/bin/tty : 755
+[MISMATCH FILE] /usr/bin/tty (755 != 644)
+[AFTER]  /usr/bin/tty : 755
+----------------------------------------
+[BEFORE] /usr/bin/catman : 755
+[MISMATCH FILE] /usr/bin/catman (755 != 644)
+[AFTER]  /usr/bin/catman : 755
+----------------------------------------
+[BEFORE] /usr/bin/gunzip : 755
+[MISMATCH FILE] /usr/bin/gunzip (755 != 644)
+[AFTER]  /usr/bin/gunzip : 755
+----------------------------------------
+[BEFORE] /usr/bin/fwupdmgr : 755
+[MISMATCH FILE] /usr/bin/fwupdmgr (755 != 644)
+[AFTER]  /usr/bin/fwupdmgr : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkbcomp : 755
+[MISMATCH FILE] /usr/bin/xkbcomp (755 != 644)
+[AFTER]  /usr/bin/xkbcomp : 755
+----------------------------------------
+[BEFORE] /usr/bin/libwacom-list-local-devices : 755
+[MISMATCH FILE] /usr/bin/libwacom-list-local-devices (755 != 644)
+[AFTER]  /usr/bin/libwacom-list-local-devices : 755
+----------------------------------------
+[BEFORE] /usr/bin/zcmp : 755
+[MISMATCH FILE] /usr/bin/zcmp (755 != 644)
+[AFTER]  /usr/bin/zcmp : 755
+----------------------------------------
+[BEFORE] /usr/bin/p11-kit : 755
+[MISMATCH FILE] /usr/bin/p11-kit (755 != 644)
+[AFTER]  /usr/bin/p11-kit : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdb-add-index : 755
+[MISMATCH FILE] /usr/bin/gdb-add-index (755 != 644)
+[AFTER]  /usr/bin/gdb-add-index : 755
+----------------------------------------
+[BEFORE] /usr/bin/prezip : 755
+[MISMATCH FILE] /usr/bin/prezip (755 != 644)
+[AFTER]  /usr/bin/prezip : 755
+----------------------------------------
+[BEFORE] /usr/bin/padsp : 755
+[MISMATCH FILE] /usr/bin/padsp (755 != 644)
+[AFTER]  /usr/bin/padsp : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-logs : 755
+[MISMATCH FILE] /usr/bin/gnome-logs (755 != 644)
+[AFTER]  /usr/bin/gnome-logs : 755
+----------------------------------------
+[BEFORE] /usr/bin/catchsegv : 755
+[MISMATCH FILE] /usr/bin/catchsegv (755 != 644)
+[AFTER]  /usr/bin/catchsegv : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpgcompose : 755
+[MISMATCH FILE] /usr/bin/gpgcompose (755 != 644)
+[AFTER]  /usr/bin/gpgcompose : 755
+----------------------------------------
+[BEFORE] /usr/bin/ipcmk : 755
+[MISMATCH FILE] /usr/bin/ipcmk (755 != 644)
+[AFTER]  /usr/bin/ipcmk : 755
+----------------------------------------
+[BEFORE] /usr/bin/xwud : 755
+[MISMATCH FILE] /usr/bin/xwud (755 != 644)
+[AFTER]  /usr/bin/xwud : 755
+----------------------------------------
+[BEFORE] /usr/bin/expiry : 2755
+[CRITICAL] SetGID detected : /usr/bin/expiry
+[MISMATCH FILE] /usr/bin/expiry (755 != 644)
+[AFTER]  /usr/bin/expiry : 2755
+----------------------------------------
+[BEFORE] /usr/bin/sbkeysync : 755
+[MISMATCH FILE] /usr/bin/sbkeysync (755 != 644)
+[AFTER]  /usr/bin/sbkeysync : 755
+----------------------------------------
+[BEFORE] /usr/bin/axfer : 755
+[MISMATCH FILE] /usr/bin/axfer (755 != 644)
+[AFTER]  /usr/bin/axfer : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdf2dsc : 755
+[MISMATCH FILE] /usr/bin/pdf2dsc (755 != 644)
+[AFTER]  /usr/bin/pdf2dsc : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdfsig : 755
+[MISMATCH FILE] /usr/bin/pdfsig (755 != 644)
+[AFTER]  /usr/bin/pdfsig : 755
+----------------------------------------
+[BEFORE] /usr/bin/cd-it8 : 755
+[MISMATCH FILE] /usr/bin/cd-it8 (755 != 644)
+[AFTER]  /usr/bin/cd-it8 : 755
+----------------------------------------
+[BEFORE] /usr/bin/devdump : 755
+[MISMATCH FILE] /usr/bin/devdump (755 != 644)
+[AFTER]  /usr/bin/devdump : 755
+----------------------------------------
+[BEFORE] /usr/bin/l2test : 755
+[MISMATCH FILE] /usr/bin/l2test (755 != 644)
+[AFTER]  /usr/bin/l2test : 755
+----------------------------------------
+[BEFORE] /usr/bin/setarch : 755
+[MISMATCH FILE] /usr/bin/setarch (755 != 644)
+[AFTER]  /usr/bin/setarch : 755
+----------------------------------------
+[BEFORE] /usr/bin/lessecho : 755
+[MISMATCH FILE] /usr/bin/lessecho (755 != 644)
+[AFTER]  /usr/bin/lessecho : 755
+----------------------------------------
+[BEFORE] /usr/bin/monitor-sensor : 755
+[MISMATCH FILE] /usr/bin/monitor-sensor (755 != 644)
+[AFTER]  /usr/bin/monitor-sensor : 755
+----------------------------------------
+[BEFORE] /usr/bin/x11perfcomp : 755
+[MISMATCH FILE] /usr/bin/x11perfcomp (755 != 644)
+[AFTER]  /usr/bin/x11perfcomp : 755
+----------------------------------------
+[BEFORE] /usr/bin/btattach : 755
+[MISMATCH FILE] /usr/bin/btattach (755 != 644)
+[AFTER]  /usr/bin/btattach : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-pc-linux-gnu-pkg-config : 755
+[MISMATCH FILE] /usr/bin/x86_64-pc-linux-gnu-pkg-config (755 != 644)
+[AFTER]  /usr/bin/x86_64-pc-linux-gnu-pkg-config : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbxtool : 755
+[MISMATCH FILE] /usr/bin/dbxtool (755 != 644)
+[AFTER]  /usr/bin/dbxtool : 755
+----------------------------------------
+[BEFORE] /usr/bin/sprof : 755
+[MISMATCH FILE] /usr/bin/sprof (755 != 644)
+[AFTER]  /usr/bin/sprof : 755
+----------------------------------------
+[BEFORE] /usr/bin/lorder : 755
+[MISMATCH FILE] /usr/bin/lorder (755 != 644)
+[AFTER]  /usr/bin/lorder : 755
+----------------------------------------
+[BEFORE] /usr/bin/loimpress : 755
+[MISMATCH FILE] /usr/bin/loimpress (755 != 644)
+[AFTER]  /usr/bin/loimpress : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdk-pixbuf-pixdata : 755
+[MISMATCH FILE] /usr/bin/gdk-pixbuf-pixdata (755 != 644)
+[AFTER]  /usr/bin/gdk-pixbuf-pixdata : 755
+----------------------------------------
+[BEFORE] /usr/bin/ip : 755
+[MISMATCH FILE] /usr/bin/ip (755 != 644)
+[AFTER]  /usr/bin/ip : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2zjs-pstops : 755
+[MISMATCH FILE] /usr/bin/foo2zjs-pstops (755 != 644)
+[AFTER]  /usr/bin/foo2zjs-pstops : 755
+----------------------------------------
+[BEFORE] /usr/bin/gtf : 755
+[MISMATCH FILE] /usr/bin/gtf (755 != 644)
+[AFTER]  /usr/bin/gtf : 755
+----------------------------------------
+[BEFORE] /usr/bin/grotty : 755
+[MISMATCH FILE] /usr/bin/grotty (755 != 644)
+[AFTER]  /usr/bin/grotty : 755
+----------------------------------------
+[BEFORE] /usr/bin/xsubpp : 755
+[MISMATCH FILE] /usr/bin/xsubpp (755 != 644)
+[AFTER]  /usr/bin/xsubpp : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-move : 755
+[MISMATCH FILE] /usr/bin/gvfs-move (755 != 644)
+[AFTER]  /usr/bin/gvfs-move : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdffonts : 755
+[MISMATCH FILE] /usr/bin/pdffonts (755 != 644)
+[AFTER]  /usr/bin/pdffonts : 755
+----------------------------------------
+[BEFORE] /usr/bin/ppdhtml : 755
+[MISMATCH FILE] /usr/bin/ppdhtml (755 != 644)
+[AFTER]  /usr/bin/ppdhtml : 755
+----------------------------------------
+[BEFORE] /usr/bin/im-config : 755
+[MISMATCH FILE] /usr/bin/im-config (755 != 644)
+[AFTER]  /usr/bin/im-config : 755
+----------------------------------------
+[BEFORE] /usr/bin/manpath : 755
+[MISMATCH FILE] /usr/bin/manpath (755 != 644)
+[AFTER]  /usr/bin/manpath : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-keyring-3 : 755
+[MISMATCH FILE] /usr/bin/gnome-keyring-3 (755 != 644)
+[AFTER]  /usr/bin/gnome-keyring-3 : 755
+----------------------------------------
+[BEFORE] /usr/bin/gedit : 755
+[MISMATCH FILE] /usr/bin/gedit (755 != 644)
+[AFTER]  /usr/bin/gedit : 755
+----------------------------------------
+[BEFORE] /usr/bin/uncompress : 755
+[MISMATCH FILE] /usr/bin/uncompress (755 != 644)
+[AFTER]  /usr/bin/uncompress : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2lava-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2lava-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2lava-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/ijs_pxljr : 755
+[MISMATCH FILE] /usr/bin/ijs_pxljr (755 != 644)
+[AFTER]  /usr/bin/ijs_pxljr : 755
+----------------------------------------
+[BEFORE] /usr/bin/timedatectl : 755
+[MISMATCH FILE] /usr/bin/timedatectl (755 != 644)
+[AFTER]  /usr/bin/timedatectl : 755
+----------------------------------------
+[BEFORE] /usr/bin/dh_bash-completion : 755
+[MISMATCH FILE] /usr/bin/dh_bash-completion (755 != 644)
+[AFTER]  /usr/bin/dh_bash-completion : 755
+----------------------------------------
+[BEFORE] /usr/bin/tee : 755
+[MISMATCH FILE] /usr/bin/tee (755 != 644)
+[AFTER]  /usr/bin/tee : 755
+----------------------------------------
+[BEFORE] /usr/bin/which : 755
+[MISMATCH FILE] /usr/bin/which (755 != 644)
+[AFTER]  /usr/bin/which : 755
+----------------------------------------
+[BEFORE] /usr/bin/rdma : 755
+[MISMATCH FILE] /usr/bin/rdma (755 != 644)
+[AFTER]  /usr/bin/rdma : 755
+----------------------------------------
+[BEFORE] /usr/bin/xman : 755
+[MISMATCH FILE] /usr/bin/xman (755 != 644)
+[AFTER]  /usr/bin/xman : 755
+----------------------------------------
+[BEFORE] /usr/bin/scriptreplay : 755
+[MISMATCH FILE] /usr/bin/scriptreplay (755 != 644)
+[AFTER]  /usr/bin/scriptreplay : 755
+----------------------------------------
+[BEFORE] /usr/bin/xwininfo : 755
+[MISMATCH FILE] /usr/bin/xwininfo (755 != 644)
+[AFTER]  /usr/bin/xwininfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/setterm : 755
+[MISMATCH FILE] /usr/bin/setterm (755 != 644)
+[AFTER]  /usr/bin/setterm : 755
+----------------------------------------
+[BEFORE] /usr/bin/pgrep : 755
+[MISMATCH FILE] /usr/bin/pgrep (755 != 644)
+[AFTER]  /usr/bin/pgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/pyjwt3 : 755
+[MISMATCH FILE] /usr/bin/pyjwt3 (755 != 644)
+[AFTER]  /usr/bin/pyjwt3 : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsns : 755
+[MISMATCH FILE] /usr/bin/lsns (755 != 644)
+[AFTER]  /usr/bin/lsns : 755
+----------------------------------------
+[BEFORE] /usr/bin/aconnect : 755
+[MISMATCH FILE] /usr/bin/aconnect (755 != 644)
+[AFTER]  /usr/bin/aconnect : 755
+----------------------------------------
+[BEFORE] /usr/bin/xclipboard : 755
+[MISMATCH FILE] /usr/bin/xclipboard (755 != 644)
+[AFTER]  /usr/bin/xclipboard : 755
+----------------------------------------
+[BEFORE] /usr/bin/unlink : 755
+[MISMATCH FILE] /usr/bin/unlink (755 != 644)
+[AFTER]  /usr/bin/unlink : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2epsi : 755
+[MISMATCH FILE] /usr/bin/ps2epsi (755 != 644)
+[AFTER]  /usr/bin/ps2epsi : 755
+----------------------------------------
+[BEFORE] /usr/bin/splain : 755
+[MISMATCH FILE] /usr/bin/splain (755 != 644)
+[AFTER]  /usr/bin/splain : 755
+----------------------------------------
+[BEFORE] /usr/bin/showkey : 755
+[MISMATCH FILE] /usr/bin/showkey (755 != 644)
+[AFTER]  /usr/bin/showkey : 755
+----------------------------------------
+[BEFORE] /usr/bin/kmod : 755
+[MISMATCH FILE] /usr/bin/kmod (755 != 644)
+[AFTER]  /usr/bin/kmod : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpgv : 755
+[MISMATCH FILE] /usr/bin/gpgv (755 != 644)
+[AFTER]  /usr/bin/gpgv : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdm-screenshot : 755
+[MISMATCH FILE] /usr/bin/gdm-screenshot (755 != 644)
+[AFTER]  /usr/bin/gdm-screenshot : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-open : 755
+[MISMATCH FILE] /usr/bin/gvfs-open (755 != 644)
+[AFTER]  /usr/bin/gvfs-open : 755
+----------------------------------------
+[BEFORE] /usr/bin/bluemoon : 755
+[MISMATCH FILE] /usr/bin/bluemoon (755 != 644)
+[AFTER]  /usr/bin/bluemoon : 755
+----------------------------------------
+[BEFORE] /usr/bin/head : 755
+[MISMATCH FILE] /usr/bin/head (755 != 644)
+[AFTER]  /usr/bin/head : 755
+----------------------------------------
+[BEFORE] /usr/bin/install : 755
+[MISMATCH FILE] /usr/bin/install (755 != 644)
+[AFTER]  /usr/bin/install : 755
+----------------------------------------
+[BEFORE] /usr/bin/editres : 755
+[MISMATCH FILE] /usr/bin/editres (755 != 644)
+[AFTER]  /usr/bin/editres : 755
+----------------------------------------
+[BEFORE] /usr/bin/min12xxw : 755
+[MISMATCH FILE] /usr/bin/min12xxw (755 != 644)
+[AFTER]  /usr/bin/min12xxw : 755
+----------------------------------------
+[BEFORE] /usr/bin/nm-applet : 755
+[MISMATCH FILE] /usr/bin/nm-applet (755 != 644)
+[AFTER]  /usr/bin/nm-applet : 755
+----------------------------------------
+[BEFORE] /usr/bin/ptar : 755
+[MISMATCH FILE] /usr/bin/ptar (755 != 644)
+[AFTER]  /usr/bin/ptar : 755
+----------------------------------------
+[BEFORE] /usr/bin/telnet.netkit : 755
+[MISMATCH FILE] /usr/bin/telnet.netkit (755 != 644)
+[AFTER]  /usr/bin/telnet.netkit : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-path : 755
+[MISMATCH FILE] /usr/bin/systemd-path (755 != 644)
+[AFTER]  /usr/bin/systemd-path : 755
+----------------------------------------
+[BEFORE] /usr/bin/setxkbmap : 755
+[MISMATCH FILE] /usr/bin/setxkbmap (755 != 644)
+[AFTER]  /usr/bin/setxkbmap : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-escape : 755
+[MISMATCH FILE] /usr/bin/systemd-escape (755 != 644)
+[AFTER]  /usr/bin/systemd-escape : 755
+----------------------------------------
+[BEFORE] /usr/bin/killall : 755
+[MISMATCH FILE] /usr/bin/killall (755 != 644)
+[AFTER]  /usr/bin/killall : 755
+----------------------------------------
+[BEFORE] /usr/bin/python3.8 : 755
+[MISMATCH FILE] /usr/bin/python3.8 (755 != 644)
+[AFTER]  /usr/bin/python3.8 : 755
+----------------------------------------
+[BEFORE] /usr/bin/ibus-setup : 755
+[MISMATCH FILE] /usr/bin/ibus-setup (755 != 644)
+[AFTER]  /usr/bin/ibus-setup : 755
+----------------------------------------
+[BEFORE] /usr/bin/xrandr : 755
+[MISMATCH FILE] /usr/bin/xrandr (755 != 644)
+[AFTER]  /usr/bin/xrandr : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-stdio-bridge : 755
+[MISMATCH FILE] /usr/bin/systemd-stdio-bridge (755 != 644)
+[AFTER]  /usr/bin/systemd-stdio-bridge : 755
+----------------------------------------
+[BEFORE] /usr/bin/flock : 755
+[MISMATCH FILE] /usr/bin/flock (755 != 644)
+[AFTER]  /usr/bin/flock : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkbprint : 755
+[MISMATCH FILE] /usr/bin/xkbprint (755 != 644)
+[AFTER]  /usr/bin/xkbprint : 755
+----------------------------------------
+[BEFORE] /usr/bin/mesg : 755
+[MISMATCH FILE] /usr/bin/mesg (755 != 644)
+[AFTER]  /usr/bin/mesg : 755
+----------------------------------------
+[BEFORE] /usr/bin/pod2text : 755
+[MISMATCH FILE] /usr/bin/pod2text (755 != 644)
+[AFTER]  /usr/bin/pod2text : 755
+----------------------------------------
+[BEFORE] /usr/bin/gzexe : 755
+[MISMATCH FILE] /usr/bin/gzexe (755 != 644)
+[AFTER]  /usr/bin/gzexe : 755
+----------------------------------------
+[BEFORE] /usr/bin/ptardiff : 755
+[MISMATCH FILE] /usr/bin/ptardiff (755 != 644)
+[AFTER]  /usr/bin/ptardiff : 755
+----------------------------------------
+[BEFORE] /usr/bin/simple-scan : 755
+[MISMATCH FILE] /usr/bin/simple-scan (755 != 644)
+[AFTER]  /usr/bin/simple-scan : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2ps : 755
+[MISMATCH FILE] /usr/bin/ps2ps (755 != 644)
+[AFTER]  /usr/bin/ps2ps : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-mime : 755
+[MISMATCH FILE] /usr/bin/gvfs-mime (755 != 644)
+[AFTER]  /usr/bin/gvfs-mime : 755
+----------------------------------------
+[BEFORE] /usr/bin/nano : 755
+[MISMATCH FILE] /usr/bin/nano (755 != 644)
+[AFTER]  /usr/bin/nano : 755
+----------------------------------------
+[BEFORE] /usr/bin/startx : 755
+[MISMATCH FILE] /usr/bin/startx (755 != 644)
+[AFTER]  /usr/bin/startx : 755
+----------------------------------------
+[BEFORE] /usr/bin/sbattach : 755
+[MISMATCH FILE] /usr/bin/sbattach (755 != 644)
+[AFTER]  /usr/bin/sbattach : 755
+----------------------------------------
+[BEFORE] /usr/bin/zdiff : 755
+[MISMATCH FILE] /usr/bin/zdiff (755 != 644)
+[AFTER]  /usr/bin/zdiff : 755
+----------------------------------------
+[BEFORE] /usr/bin/sotruss : 755
+[MISMATCH FILE] /usr/bin/sotruss (755 != 644)
+[AFTER]  /usr/bin/sotruss : 755
+----------------------------------------
+[BEFORE] /usr/bin/software-properties-gtk : 755
+[MISMATCH FILE] /usr/bin/software-properties-gtk (755 != 644)
+[AFTER]  /usr/bin/software-properties-gtk : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemctl : 755
+[MISMATCH FILE] /usr/bin/systemctl (755 != 644)
+[AFTER]  /usr/bin/systemctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsls : 755
+[MISMATCH FILE] /usr/bin/ntfsls (755 != 644)
+[AFTER]  /usr/bin/ntfsls : 755
+----------------------------------------
+[BEFORE] /usr/bin/runcon : 755
+[MISMATCH FILE] /usr/bin/runcon (755 != 644)
+[AFTER]  /usr/bin/runcon : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdmflexiserver : 755
+[MISMATCH FILE] /usr/bin/gdmflexiserver (755 != 644)
+[AFTER]  /usr/bin/gdmflexiserver : 755
+----------------------------------------
+[BEFORE] /usr/bin/mandb : 755
+[MISMATCH FILE] /usr/bin/mandb (755 != 644)
+[AFTER]  /usr/bin/mandb : 755
+----------------------------------------
+[BEFORE] /usr/bin/setlogcons : 755
+[MISMATCH FILE] /usr/bin/setlogcons (755 != 644)
+[AFTER]  /usr/bin/setlogcons : 755
+----------------------------------------
+[BEFORE] /usr/bin/xlsfonts : 755
+[MISMATCH FILE] /usr/bin/xlsfonts (755 != 644)
+[AFTER]  /usr/bin/xlsfonts : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-conflist : 755
+[MISMATCH FILE] /usr/bin/fc-conflist (755 != 644)
+[AFTER]  /usr/bin/fc-conflist : 755
+----------------------------------------
+[BEFORE] /usr/bin/base32 : 755
+[MISMATCH FILE] /usr/bin/base32 (755 != 644)
+[AFTER]  /usr/bin/base32 : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-session-inhibit : 755
+[MISMATCH FILE] /usr/bin/gnome-session-inhibit (755 != 644)
+[AFTER]  /usr/bin/gnome-session-inhibit : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-user-dirs-update : 755
+[MISMATCH FILE] /usr/bin/xdg-user-dirs-update (755 != 644)
+[AFTER]  /usr/bin/xdg-user-dirs-update : 755
+----------------------------------------
+[BEFORE] /usr/bin/precat : 755
+[MISMATCH FILE] /usr/bin/precat (755 != 644)
+[AFTER]  /usr/bin/precat : 755
+----------------------------------------
+[BEFORE] /usr/bin/gcalccmd : 755
+[MISMATCH FILE] /usr/bin/gcalccmd (755 != 644)
+[AFTER]  /usr/bin/gcalccmd : 755
+----------------------------------------
+[BEFORE] /usr/bin/nstat : 755
+[MISMATCH FILE] /usr/bin/nstat (755 != 644)
+[AFTER]  /usr/bin/nstat : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdftotext : 755
+[MISMATCH FILE] /usr/bin/pdftotext (755 != 644)
+[AFTER]  /usr/bin/pdftotext : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-syslinux2cfg : 755
+[MISMATCH FILE] /usr/bin/grub-syslinux2cfg (755 != 644)
+[AFTER]  /usr/bin/grub-syslinux2cfg : 755
+----------------------------------------
+[BEFORE] /usr/bin/gettext.sh : 755
+[MISMATCH FILE] /usr/bin/gettext.sh (755 != 644)
+[AFTER]  /usr/bin/gettext.sh : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsmove : 755
+[MISMATCH FILE] /usr/bin/ntfsmove (755 != 644)
+[AFTER]  /usr/bin/ntfsmove : 755
+----------------------------------------
+[BEFORE] /usr/bin/faked-sysv : 755
+[MISMATCH FILE] /usr/bin/faked-sysv (755 != 644)
+[AFTER]  /usr/bin/faked-sysv : 755
+----------------------------------------
+[BEFORE] /usr/bin/lpstat : 755
+[MISMATCH FILE] /usr/bin/lpstat (755 != 644)
+[AFTER]  /usr/bin/lpstat : 755
+----------------------------------------
+[BEFORE] /usr/bin/colrm : 755
+[MISMATCH FILE] /usr/bin/colrm (755 != 644)
+[AFTER]  /usr/bin/colrm : 755
+----------------------------------------
+[BEFORE] /usr/bin/mousetweaks : 755
+[MISMATCH FILE] /usr/bin/mousetweaks (755 != 644)
+[AFTER]  /usr/bin/mousetweaks : 755
+----------------------------------------
+[BEFORE] /usr/bin/xmag : 755
+[MISMATCH FILE] /usr/bin/xmag (755 != 644)
+[AFTER]  /usr/bin/xmag : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-run : 755
+[MISMATCH FILE] /usr/bin/systemd-run (755 != 644)
+[AFTER]  /usr/bin/systemd-run : 755
+----------------------------------------
+[BEFORE] /usr/bin/stty : 755
+[MISMATCH FILE] /usr/bin/stty (755 != 644)
+[AFTER]  /usr/bin/stty : 755
+----------------------------------------
+[BEFORE] /usr/bin/factor : 755
+[MISMATCH FILE] /usr/bin/factor (755 != 644)
+[AFTER]  /usr/bin/factor : 755
+----------------------------------------
+[BEFORE] /usr/bin/tracepath : 755
+[MISMATCH FILE] /usr/bin/tracepath (755 != 644)
+[AFTER]  /usr/bin/tracepath : 755
+----------------------------------------
+[BEFORE] /usr/bin/alsabat : 755
+[MISMATCH FILE] /usr/bin/alsabat (755 != 644)
+[AFTER]  /usr/bin/alsabat : 755
+----------------------------------------
+[BEFORE] /usr/bin/b2sum : 755
+[MISMATCH FILE] /usr/bin/b2sum (755 != 644)
+[AFTER]  /usr/bin/b2sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/expr : 755
+[MISMATCH FILE] /usr/bin/expr (755 != 644)
+[AFTER]  /usr/bin/expr : 755
+----------------------------------------
+[BEFORE] /usr/bin/truncate : 755
+[MISMATCH FILE] /usr/bin/truncate (755 != 644)
+[AFTER]  /usr/bin/truncate : 755
+----------------------------------------
+[BEFORE] /usr/bin/prtstat : 755
+[MISMATCH FILE] /usr/bin/prtstat (755 != 644)
+[AFTER]  /usr/bin/prtstat : 755
+----------------------------------------
+[BEFORE] /usr/bin/pod2usage : 755
+[MISMATCH FILE] /usr/bin/pod2usage (755 != 644)
+[AFTER]  /usr/bin/pod2usage : 755
+----------------------------------------
+[BEFORE] /usr/bin/brltty-ctb : 755
+[MISMATCH FILE] /usr/bin/brltty-ctb (755 != 644)
+[AFTER]  /usr/bin/brltty-ctb : 755
+----------------------------------------
+[BEFORE] /usr/bin/ipcrm : 755
+[MISMATCH FILE] /usr/bin/ipcrm (755 != 644)
+[AFTER]  /usr/bin/ipcrm : 755
+----------------------------------------
+[BEFORE] /usr/bin/Xephyr : 755
+[MISMATCH FILE] /usr/bin/Xephyr (755 != 644)
+[AFTER]  /usr/bin/Xephyr : 755
+----------------------------------------
+[BEFORE] /usr/bin/routel : 755
+[MISMATCH FILE] /usr/bin/routel (755 != 644)
+[AFTER]  /usr/bin/routel : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsusermap : 755
+[MISMATCH FILE] /usr/bin/ntfsusermap (755 != 644)
+[AFTER]  /usr/bin/ntfsusermap : 755
+----------------------------------------
+[BEFORE] /usr/bin/pinentry-curses : 755
+[MISMATCH FILE] /usr/bin/pinentry-curses (755 != 644)
+[AFTER]  /usr/bin/pinentry-curses : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-open : 755
+[MISMATCH FILE] /usr/bin/xdg-open (755 != 644)
+[AFTER]  /usr/bin/xdg-open : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-divert : 755
+[MISMATCH FILE] /usr/bin/dpkg-divert (755 != 644)
+[AFTER]  /usr/bin/dpkg-divert : 755
+----------------------------------------
+[BEFORE] /usr/bin/corelist : 755
+[MISMATCH FILE] /usr/bin/corelist (755 != 644)
+[AFTER]  /usr/bin/corelist : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-monitor : 755
+[MISMATCH FILE] /usr/bin/dbus-monitor (755 != 644)
+[AFTER]  /usr/bin/dbus-monitor : 755
+----------------------------------------
+[BEFORE] /usr/bin/lnstat : 755
+[MISMATCH FILE] /usr/bin/lnstat (755 != 644)
+[AFTER]  /usr/bin/lnstat : 755
+----------------------------------------
+[BEFORE] /usr/bin/mktemp : 755
+[MISMATCH FILE] /usr/bin/mktemp (755 != 644)
+[AFTER]  /usr/bin/mktemp : 755
+----------------------------------------
+[BEFORE] /usr/bin/sed : 755
+[MISMATCH FILE] /usr/bin/sed (755 != 644)
+[AFTER]  /usr/bin/sed : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdb : 755
+[MISMATCH FILE] /usr/bin/gdb (755 != 644)
+[AFTER]  /usr/bin/gdb : 755
+----------------------------------------
+[BEFORE] /usr/bin/acpi_listen : 755
+[MISMATCH FILE] /usr/bin/acpi_listen (755 != 644)
+[AFTER]  /usr/bin/acpi_listen : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdialog : 755
+[MISMATCH FILE] /usr/bin/gdialog (755 != 644)
+[AFTER]  /usr/bin/gdialog : 755
+----------------------------------------
+[BEFORE] /usr/bin/su : 4755
+[CRITICAL] SetUID detected : /usr/bin/su
+[MISMATCH FILE] /usr/bin/su (755 != 644)
+[AFTER]  /usr/bin/su : 4755
+----------------------------------------
+[BEFORE] /usr/bin/lowntfs-3g : 755
+[MISMATCH FILE] /usr/bin/lowntfs-3g (755 != 644)
+[AFTER]  /usr/bin/lowntfs-3g : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-info : 755
+[MISMATCH FILE] /usr/bin/gvfs-info (755 != 644)
+[AFTER]  /usr/bin/gvfs-info : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpgconf : 755
+[MISMATCH FILE] /usr/bin/gpgconf (755 != 644)
+[AFTER]  /usr/bin/gpgconf : 755
+----------------------------------------
+[BEFORE] /usr/bin/routef : 755
+[MISMATCH FILE] /usr/bin/routef (755 != 644)
+[AFTER]  /usr/bin/routef : 755
+----------------------------------------
+[BEFORE] /usr/bin/nsupdate : 755
+[MISMATCH FILE] /usr/bin/nsupdate (755 != 644)
+[AFTER]  /usr/bin/nsupdate : 755
+----------------------------------------
+[BEFORE] /usr/bin/rm : 755
+[MISMATCH FILE] /usr/bin/rm (755 != 644)
+[AFTER]  /usr/bin/rm : 755
+----------------------------------------
+[BEFORE] /usr/bin/strace : 755
+[MISMATCH FILE] /usr/bin/strace (755 != 644)
+[AFTER]  /usr/bin/strace : 755
+----------------------------------------
+[BEFORE] /usr/bin/procan : 755
+[MISMATCH FILE] /usr/bin/procan (755 != 644)
+[AFTER]  /usr/bin/procan : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpgsm : 755
+[MISMATCH FILE] /usr/bin/gpgsm (755 != 644)
+[AFTER]  /usr/bin/gpgsm : 755
+----------------------------------------
+[BEFORE] /usr/bin/upower : 755
+[MISMATCH FILE] /usr/bin/upower (755 != 644)
+[AFTER]  /usr/bin/upower : 755
+----------------------------------------
+[BEFORE] /usr/bin/df : 755
+[MISMATCH FILE] /usr/bin/df (755 != 644)
+[AFTER]  /usr/bin/df : 755
+----------------------------------------
+[BEFORE] /usr/bin/pathchk : 755
+[MISMATCH FILE] /usr/bin/pathchk (755 != 644)
+[AFTER]  /usr/bin/pathchk : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-pattern : 755
+[MISMATCH FILE] /usr/bin/fc-pattern (755 != 644)
+[AFTER]  /usr/bin/fc-pattern : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-file : 755
+[MISMATCH FILE] /usr/bin/grub-file (755 != 644)
+[AFTER]  /usr/bin/grub-file : 755
+----------------------------------------
+[BEFORE] /usr/bin/fwupdate : 755
+[MISMATCH FILE] /usr/bin/fwupdate (755 != 644)
+[AFTER]  /usr/bin/fwupdate : 755
+----------------------------------------
+[BEFORE] /usr/bin/bmtoa : 755
+[MISMATCH FILE] /usr/bin/bmtoa (755 != 644)
+[AFTER]  /usr/bin/bmtoa : 755
+----------------------------------------
+[BEFORE] /usr/bin/skill : 755
+[MISMATCH FILE] /usr/bin/skill (755 != 644)
+[AFTER]  /usr/bin/skill : 755
+----------------------------------------
+[BEFORE] /usr/bin/mxtar : 755
+[MISMATCH FILE] /usr/bin/mxtar (755 != 644)
+[AFTER]  /usr/bin/mxtar : 755
+----------------------------------------
+[BEFORE] /usr/bin/bsd-write : 755
+[MISMATCH FILE] /usr/bin/bsd-write (755 != 644)
+[AFTER]  /usr/bin/bsd-write : 755
+----------------------------------------
+[BEFORE] /usr/bin/busybox : 755
+[MISMATCH FILE] /usr/bin/busybox (755 != 644)
+[AFTER]  /usr/bin/busybox : 755
+----------------------------------------
+[BEFORE] /usr/bin/scanimage : 755
+[MISMATCH FILE] /usr/bin/scanimage (755 != 644)
+[AFTER]  /usr/bin/scanimage : 755
+----------------------------------------
+[BEFORE] /usr/bin/savelog : 755
+[MISMATCH FILE] /usr/bin/savelog (755 != 644)
+[AFTER]  /usr/bin/savelog : 755
+----------------------------------------
+[BEFORE] /usr/bin/lofromtemplate : 755
+[MISMATCH FILE] /usr/bin/lofromtemplate (755 != 644)
+[AFTER]  /usr/bin/lofromtemplate : 755
+----------------------------------------
+[BEFORE] /usr/bin/quotasync : 755
+[MISMATCH FILE] /usr/bin/quotasync (755 != 644)
+[AFTER]  /usr/bin/quotasync : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2ps2 : 755
+[MISMATCH FILE] /usr/bin/ps2ps2 (755 != 644)
+[AFTER]  /usr/bin/ps2ps2 : 755
+----------------------------------------
+[BEFORE] /usr/bin/ibus : 755
+[MISMATCH FILE] /usr/bin/ibus (755 != 644)
+[AFTER]  /usr/bin/ibus : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-disks : 755
+[MISMATCH FILE] /usr/bin/gnome-disks (755 != 644)
+[AFTER]  /usr/bin/gnome-disks : 755
+----------------------------------------
+[BEFORE] /usr/bin/gsdj500 : 755
+[MISMATCH FILE] /usr/bin/gsdj500 (755 != 644)
+[AFTER]  /usr/bin/gsdj500 : 755
+----------------------------------------
+[BEFORE] /usr/bin/pphs : 755
+[MISMATCH FILE] /usr/bin/pphs (755 != 644)
+[AFTER]  /usr/bin/pphs : 755
+----------------------------------------
+[BEFORE] /usr/bin/file2brl : 755
+[MISMATCH FILE] /usr/bin/file2brl (755 != 644)
+[AFTER]  /usr/bin/file2brl : 755
+----------------------------------------
+[BEFORE] /usr/bin/dfu-tool : 755
+[MISMATCH FILE] /usr/bin/dfu-tool (755 != 644)
+[AFTER]  /usr/bin/dfu-tool : 755
+----------------------------------------
+[BEFORE] /usr/bin/update-desktop-database : 755
+[MISMATCH FILE] /usr/bin/update-desktop-database (755 != 644)
+[AFTER]  /usr/bin/update-desktop-database : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2qpdl : 755
+[MISMATCH FILE] /usr/bin/foo2qpdl (755 != 644)
+[AFTER]  /usr/bin/foo2qpdl : 755
+----------------------------------------
+[BEFORE] /usr/bin/h2ph : 755
+[MISMATCH FILE] /usr/bin/h2ph (755 != 644)
+[AFTER]  /usr/bin/h2ph : 755
+----------------------------------------
+[BEFORE] /usr/bin/hex2hcd : 755
+[MISMATCH FILE] /usr/bin/hex2hcd (755 != 644)
+[AFTER]  /usr/bin/hex2hcd : 755
+----------------------------------------
+[BEFORE] /usr/bin/watch : 755
+[MISMATCH FILE] /usr/bin/watch (755 != 644)
+[AFTER]  /usr/bin/watch : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-statoverride : 755
+[MISMATCH FILE] /usr/bin/dpkg-statoverride (755 != 644)
+[AFTER]  /usr/bin/dpkg-statoverride : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-split : 755
+[MISMATCH FILE] /usr/bin/dpkg-split (755 != 644)
+[AFTER]  /usr/bin/dpkg-split : 755
+----------------------------------------
+[BEFORE] /usr/bin/nvidia-detector : 755
+[MISMATCH FILE] /usr/bin/nvidia-detector (755 != 644)
+[AFTER]  /usr/bin/nvidia-detector : 755
+----------------------------------------
+[BEFORE] /usr/bin/oem-getlogs : 755
+[MISMATCH FILE] /usr/bin/oem-getlogs (755 != 644)
+[AFTER]  /usr/bin/oem-getlogs : 755
+----------------------------------------
+[BEFORE] /usr/bin/bashbug : 755
+[MISMATCH FILE] /usr/bin/bashbug (755 != 644)
+[AFTER]  /usr/bin/bashbug : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfscmp : 755
+[MISMATCH FILE] /usr/bin/ntfscmp (755 != 644)
+[AFTER]  /usr/bin/ntfscmp : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-architecture : 755
+[MISMATCH FILE] /usr/bin/dpkg-architecture (755 != 644)
+[AFTER]  /usr/bin/dpkg-architecture : 755
+----------------------------------------
+[BEFORE] /usr/bin/start-pulseaudio-x11 : 755
+[MISMATCH FILE] /usr/bin/start-pulseaudio-x11 (755 != 644)
+[AFTER]  /usr/bin/start-pulseaudio-x11 : 755
+----------------------------------------
+[BEFORE] /usr/bin/w.procps : 755
+[MISMATCH FILE] /usr/bin/w.procps (755 != 644)
+[AFTER]  /usr/bin/w.procps : 755
+----------------------------------------
+[BEFORE] /usr/bin/loweb : 755
+[MISMATCH FILE] /usr/bin/loweb (755 != 644)
+[AFTER]  /usr/bin/loweb : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-desktop-icon : 755
+[MISMATCH FILE] /usr/bin/xdg-desktop-icon (755 != 644)
+[AFTER]  /usr/bin/xdg-desktop-icon : 755
+----------------------------------------
+[BEFORE] /usr/bin/lscpu : 755
+[MISMATCH FILE] /usr/bin/lscpu (755 != 644)
+[AFTER]  /usr/bin/lscpu : 755
+----------------------------------------
+[BEFORE] /usr/bin/gtk-update-icon-cache : 755
+[MISMATCH FILE] /usr/bin/gtk-update-icon-cache (755 != 644)
+[AFTER]  /usr/bin/gtk-update-icon-cache : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkeystone : 755
+[MISMATCH FILE] /usr/bin/xkeystone (755 != 644)
+[AFTER]  /usr/bin/xkeystone : 755
+----------------------------------------
+[BEFORE] /usr/bin/ssh : 755
+[MISMATCH FILE] /usr/bin/ssh (755 != 644)
+[AFTER]  /usr/bin/ssh : 755
+----------------------------------------
+[BEFORE] /usr/bin/sensible-browser : 755
+[MISMATCH FILE] /usr/bin/sensible-browser (755 != 644)
+[AFTER]  /usr/bin/sensible-browser : 755
+----------------------------------------
+[BEFORE] /usr/bin/whatis : 755
+[MISMATCH FILE] /usr/bin/whatis (755 != 644)
+[AFTER]  /usr/bin/whatis : 755
+----------------------------------------
+[BEFORE] /usr/bin/locale-check : 755
+[MISMATCH FILE] /usr/bin/locale-check (755 != 644)
+[AFTER]  /usr/bin/locale-check : 755
+----------------------------------------
+[BEFORE] /usr/bin/man : 755
+[MISMATCH FILE] /usr/bin/man (755 != 644)
+[AFTER]  /usr/bin/man : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-glue-efi : 755
+[MISMATCH FILE] /usr/bin/grub-glue-efi (755 != 644)
+[AFTER]  /usr/bin/grub-glue-efi : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2pdf13 : 755
+[MISMATCH FILE] /usr/bin/ps2pdf13 (755 != 644)
+[AFTER]  /usr/bin/ps2pdf13 : 755
+----------------------------------------
+[BEFORE] /usr/bin/unattended-upgrade : 755
+[MISMATCH FILE] /usr/bin/unattended-upgrade (755 != 644)
+[AFTER]  /usr/bin/unattended-upgrade : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-settings : 755
+[MISMATCH FILE] /usr/bin/xdg-settings (755 != 644)
+[AFTER]  /usr/bin/xdg-settings : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mkrelpath : 755
+[MISMATCH FILE] /usr/bin/grub-mkrelpath (755 != 644)
+[AFTER]  /usr/bin/grub-mkrelpath : 755
+----------------------------------------
+[BEFORE] /usr/bin/avahi-set-host-name : 755
+[MISMATCH FILE] /usr/bin/avahi-set-host-name (755 != 644)
+[AFTER]  /usr/bin/avahi-set-host-name : 755
+----------------------------------------
+[BEFORE] /usr/bin/uz : 755
+[MISMATCH FILE] /usr/bin/uz (755 != 644)
+[AFTER]  /usr/bin/uz : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-ld.gold : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-ld.gold (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-ld.gold : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-scansources : 755
+[MISMATCH FILE] /usr/bin/dpkg-scansources (755 != 644)
+[AFTER]  /usr/bin/dpkg-scansources : 755
+----------------------------------------
+[BEFORE] /usr/bin/zcat : 755
+[MISMATCH FILE] /usr/bin/zcat (755 != 644)
+[AFTER]  /usr/bin/zcat : 755
+----------------------------------------
+[BEFORE] /usr/bin/appstreamcli : 755
+[MISMATCH FILE] /usr/bin/appstreamcli (755 != 644)
+[AFTER]  /usr/bin/appstreamcli : 755
+----------------------------------------
+[BEFORE] /usr/bin/oclock : 755
+[MISMATCH FILE] /usr/bin/oclock (755 != 644)
+[AFTER]  /usr/bin/oclock : 755
+----------------------------------------
+[BEFORE] /usr/bin/ltrace : 755
+[MISMATCH FILE] /usr/bin/ltrace (755 != 644)
+[AFTER]  /usr/bin/ltrace : 755
+----------------------------------------
+[BEFORE] /usr/bin/utmpdump : 755
+[MISMATCH FILE] /usr/bin/utmpdump (755 != 644)
+[AFTER]  /usr/bin/utmpdump : 755
+----------------------------------------
+[BEFORE] /usr/bin/setpci : 755
+[MISMATCH FILE] /usr/bin/setpci (755 != 644)
+[AFTER]  /usr/bin/setpci : 755
+----------------------------------------
+[BEFORE] /usr/bin/quirks-handler : 755
+[MISMATCH FILE] /usr/bin/quirks-handler (755 != 644)
+[AFTER]  /usr/bin/quirks-handler : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-kbdcomp : 755
+[MISMATCH FILE] /usr/bin/grub-kbdcomp (755 != 644)
+[AFTER]  /usr/bin/grub-kbdcomp : 755
+----------------------------------------
+[BEFORE] /usr/bin/xrefresh : 755
+[MISMATCH FILE] /usr/bin/xrefresh (755 != 644)
+[AFTER]  /usr/bin/xrefresh : 755
+----------------------------------------
+[BEFORE] /usr/bin/toe : 755
+[MISMATCH FILE] /usr/bin/toe (755 != 644)
+[AFTER]  /usr/bin/toe : 755
+----------------------------------------
+[BEFORE] /usr/bin/json_pp : 755
+[MISMATCH FILE] /usr/bin/json_pp (755 != 644)
+[AFTER]  /usr/bin/json_pp : 755
+----------------------------------------
+[BEFORE] /usr/bin/ionice : 755
+[MISMATCH FILE] /usr/bin/ionice (755 != 644)
+[AFTER]  /usr/bin/ionice : 755
+----------------------------------------
+[BEFORE] /usr/bin/py3compile : 755
+[MISMATCH FILE] /usr/bin/py3compile (755 != 644)
+[AFTER]  /usr/bin/py3compile : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gcc-ar-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gcc-ar-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gcc-ar-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/chage : 2755
+[CRITICAL] SetGID detected : /usr/bin/chage
+[MISMATCH FILE] /usr/bin/chage (755 != 644)
+[AFTER]  /usr/bin/chage : 2755
+----------------------------------------
+[BEFORE] /usr/bin/sbverify : 755
+[MISMATCH FILE] /usr/bin/sbverify (755 != 644)
+[AFTER]  /usr/bin/sbverify : 755
+----------------------------------------
+[BEFORE] /usr/bin/ippfind : 755
+[MISMATCH FILE] /usr/bin/ippfind (755 != 644)
+[AFTER]  /usr/bin/ippfind : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-maintscript-helper : 755
+[MISMATCH FILE] /usr/bin/dpkg-maintscript-helper (755 != 644)
+[AFTER]  /usr/bin/dpkg-maintscript-helper : 755
+----------------------------------------
+[BEFORE] /usr/bin/debconf : 755
+[MISMATCH FILE] /usr/bin/debconf (755 != 644)
+[AFTER]  /usr/bin/debconf : 755
+----------------------------------------
+[BEFORE] /usr/bin/fold : 755
+[MISMATCH FILE] /usr/bin/fold (755 != 644)
+[AFTER]  /usr/bin/fold : 755
+----------------------------------------
+[BEFORE] /usr/bin/aplaymidi : 755
+[MISMATCH FILE] /usr/bin/aplaymidi (755 != 644)
+[AFTER]  /usr/bin/aplaymidi : 755
+----------------------------------------
+[BEFORE] /usr/bin/gst-typefind-1.0 : 755
+[MISMATCH FILE] /usr/bin/gst-typefind-1.0 (755 != 644)
+[AFTER]  /usr/bin/gst-typefind-1.0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-hwdb : 755
+[MISMATCH FILE] /usr/bin/systemd-hwdb (755 != 644)
+[AFTER]  /usr/bin/systemd-hwdb : 755
+----------------------------------------
+[BEFORE] /usr/bin/aspell : 755
+[MISMATCH FILE] /usr/bin/aspell (755 != 644)
+[AFTER]  /usr/bin/aspell : 755
+----------------------------------------
+[BEFORE] /usr/bin/fusermount : 4755
+[CRITICAL] SetUID detected : /usr/bin/fusermount
+[MISMATCH FILE] /usr/bin/fusermount (755 != 644)
+[AFTER]  /usr/bin/fusermount : 4755
+----------------------------------------
+[BEFORE] /usr/bin/pygettext3.8 : 755
+[MISMATCH FILE] /usr/bin/pygettext3.8 (755 != 644)
+[AFTER]  /usr/bin/pygettext3.8 : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-distaddfile : 755
+[MISMATCH FILE] /usr/bin/dpkg-distaddfile (755 != 644)
+[AFTER]  /usr/bin/dpkg-distaddfile : 755
+----------------------------------------
+[BEFORE] /usr/bin/zipgrep : 755
+[MISMATCH FILE] /usr/bin/zipgrep (755 != 644)
+[AFTER]  /usr/bin/zipgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/xlogo : 755
+[MISMATCH FILE] /usr/bin/xlogo (755 != 644)
+[AFTER]  /usr/bin/xlogo : 755
+----------------------------------------
+[BEFORE] /usr/bin/tload : 755
+[MISMATCH FILE] /usr/bin/tload (755 != 644)
+[AFTER]  /usr/bin/tload : 755
+----------------------------------------
+[BEFORE] /usr/bin/shasum : 755
+[MISMATCH FILE] /usr/bin/shasum (755 != 644)
+[AFTER]  /usr/bin/shasum : 755
+----------------------------------------
+[BEFORE] /usr/bin/mknod : 755
+[MISMATCH FILE] /usr/bin/mknod (755 != 644)
+[AFTER]  /usr/bin/mknod : 755
+----------------------------------------
+[BEFORE] /usr/bin/faillog : 755
+[MISMATCH FILE] /usr/bin/faillog (755 != 644)
+[AFTER]  /usr/bin/faillog : 755
+----------------------------------------
+[BEFORE] /usr/bin/linux-version : 755
+[MISMATCH FILE] /usr/bin/linux-version (755 != 644)
+[AFTER]  /usr/bin/linux-version : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-render-label : 755
+[MISMATCH FILE] /usr/bin/grub-render-label (755 != 644)
+[AFTER]  /usr/bin/grub-render-label : 755
+----------------------------------------
+[BEFORE] /usr/bin/mcookie : 755
+[MISMATCH FILE] /usr/bin/mcookie (755 != 644)
+[AFTER]  /usr/bin/mcookie : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-fstest : 755
+[MISMATCH FILE] /usr/bin/grub-fstest (755 != 644)
+[AFTER]  /usr/bin/grub-fstest : 755
+----------------------------------------
+[BEFORE] /usr/bin/xeyes : 755
+[MISMATCH FILE] /usr/bin/xeyes (755 != 644)
+[AFTER]  /usr/bin/xeyes : 755
+----------------------------------------
+[BEFORE] /usr/bin/ico : 755
+[MISMATCH FILE] /usr/bin/ico (755 != 644)
+[AFTER]  /usr/bin/ico : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfsrecover : 755
+[MISMATCH FILE] /usr/bin/ntfsrecover (755 != 644)
+[AFTER]  /usr/bin/ntfsrecover : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-user-dirs-gtk-update : 755
+[MISMATCH FILE] /usr/bin/xdg-user-dirs-gtk-update (755 != 644)
+[AFTER]  /usr/bin/xdg-user-dirs-gtk-update : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdk-pixbuf-csource : 755
+[MISMATCH FILE] /usr/bin/gdk-pixbuf-csource (755 != 644)
+[AFTER]  /usr/bin/gdk-pixbuf-csource : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfssecaudit : 755
+[MISMATCH FILE] /usr/bin/ntfssecaudit (755 != 644)
+[AFTER]  /usr/bin/ntfssecaudit : 755
+----------------------------------------
+[BEFORE] /usr/bin/bdftopcf : 755
+[MISMATCH FILE] /usr/bin/bdftopcf (755 != 644)
+[AFTER]  /usr/bin/bdftopcf : 755
+----------------------------------------
+[BEFORE] /usr/bin/rendercheck : 755
+[MISMATCH FILE] /usr/bin/rendercheck (755 != 644)
+[AFTER]  /usr/bin/rendercheck : 755
+----------------------------------------
+[BEFORE] /usr/bin/unexpand : 755
+[MISMATCH FILE] /usr/bin/unexpand (755 != 644)
+[AFTER]  /usr/bin/unexpand : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2xqx : 755
+[MISMATCH FILE] /usr/bin/foo2xqx (755 != 644)
+[AFTER]  /usr/bin/foo2xqx : 755
+----------------------------------------
+[BEFORE] /usr/bin/gettext : 755
+[MISMATCH FILE] /usr/bin/gettext (755 != 644)
+[AFTER]  /usr/bin/gettext : 755
+----------------------------------------
+[BEFORE] /usr/bin/xgamma : 755
+[MISMATCH FILE] /usr/bin/xgamma (755 != 644)
+[AFTER]  /usr/bin/xgamma : 755
+----------------------------------------
+[BEFORE] /usr/bin/egrep : 755
+[MISMATCH FILE] /usr/bin/egrep (755 != 644)
+[AFTER]  /usr/bin/egrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2ascii : 755
+[MISMATCH FILE] /usr/bin/ps2ascii (755 != 644)
+[AFTER]  /usr/bin/ps2ascii : 755
+----------------------------------------
+[BEFORE] /usr/bin/newgrp : 4755
+[CRITICAL] SetUID detected : /usr/bin/newgrp
+[MISMATCH FILE] /usr/bin/newgrp (755 != 644)
+[AFTER]  /usr/bin/newgrp : 4755
+----------------------------------------
+[BEFORE] /usr/bin/mkfontdir : 755
+[MISMATCH FILE] /usr/bin/mkfontdir (755 != 644)
+[AFTER]  /usr/bin/mkfontdir : 755
+----------------------------------------
+[BEFORE] /usr/bin/sane-find-scanner : 755
+[MISMATCH FILE] /usr/bin/sane-find-scanner (755 != 644)
+[AFTER]  /usr/bin/sane-find-scanner : 755
+----------------------------------------
+[BEFORE] /usr/bin/unmkinitramfs : 755
+[MISMATCH FILE] /usr/bin/unmkinitramfs (755 != 644)
+[AFTER]  /usr/bin/unmkinitramfs : 755
+----------------------------------------
+[BEFORE] /usr/bin/stat : 755
+[MISMATCH FILE] /usr/bin/stat (755 != 644)
+[AFTER]  /usr/bin/stat : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsblk : 755
+[MISMATCH FILE] /usr/bin/lsblk (755 != 644)
+[AFTER]  /usr/bin/lsblk : 755
+----------------------------------------
+[BEFORE] /usr/bin/delpart : 755
+[MISMATCH FILE] /usr/bin/delpart (755 != 644)
+[AFTER]  /usr/bin/delpart : 755
+----------------------------------------
+[BEFORE] /usr/bin/desktop-file-install : 755
+[MISMATCH FILE] /usr/bin/desktop-file-install (755 != 644)
+[AFTER]  /usr/bin/desktop-file-install : 755
+----------------------------------------
+[BEFORE] /usr/bin/gsettings : 755
+[MISMATCH FILE] /usr/bin/gsettings (755 != 644)
+[AFTER]  /usr/bin/gsettings : 755
+----------------------------------------
+[BEFORE] /usr/bin/chacl : 755
+[MISMATCH FILE] /usr/bin/chacl (755 != 644)
+[AFTER]  /usr/bin/chacl : 755
+----------------------------------------
+[BEFORE] /usr/bin/faked-tcp : 755
+[MISMATCH FILE] /usr/bin/faked-tcp (755 != 644)
+[AFTER]  /usr/bin/faked-tcp : 755
+----------------------------------------
+[BEFORE] /usr/bin/loadunimap : 755
+[MISMATCH FILE] /usr/bin/loadunimap (755 != 644)
+[AFTER]  /usr/bin/loadunimap : 755
+----------------------------------------
+[BEFORE] /usr/bin/fgrep : 755
+[MISMATCH FILE] /usr/bin/fgrep (755 != 644)
+[AFTER]  /usr/bin/fgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/chardetect3 : 755
+[MISMATCH FILE] /usr/bin/chardetect3 (755 != 644)
+[AFTER]  /usr/bin/chardetect3 : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-cat : 755
+[MISMATCH FILE] /usr/bin/gvfs-cat (755 != 644)
+[AFTER]  /usr/bin/gvfs-cat : 755
+----------------------------------------
+[BEFORE] /usr/bin/dc : 755
+[MISMATCH FILE] /usr/bin/dc (755 != 644)
+[AFTER]  /usr/bin/dc : 755
+----------------------------------------
+[BEFORE] /usr/bin/mkmanifest : 755
+[MISMATCH FILE] /usr/bin/mkmanifest (755 != 644)
+[AFTER]  /usr/bin/mkmanifest : 755
+----------------------------------------
+[BEFORE] /usr/bin/psfxtable : 755
+[MISMATCH FILE] /usr/bin/psfxtable (755 != 644)
+[AFTER]  /usr/bin/psfxtable : 755
+----------------------------------------
+[BEFORE] /usr/bin/znew : 755
+[MISMATCH FILE] /usr/bin/znew (755 != 644)
+[AFTER]  /usr/bin/znew : 755
+----------------------------------------
+[BEFORE] /usr/bin/ttfread : 755
+[MISMATCH FILE] /usr/bin/ttfread (755 != 644)
+[AFTER]  /usr/bin/ttfread : 755
+----------------------------------------
+[BEFORE] /usr/bin/soelim : 755
+[MISMATCH FILE] /usr/bin/soelim (755 != 644)
+[AFTER]  /usr/bin/soelim : 755
+----------------------------------------
+[BEFORE] /usr/bin/lspgpot : 755
+[MISMATCH FILE] /usr/bin/lspgpot (755 != 644)
+[AFTER]  /usr/bin/lspgpot : 755
+----------------------------------------
+[BEFORE] /usr/bin/sha224sum : 755
+[MISMATCH FILE] /usr/bin/sha224sum (755 != 644)
+[AFTER]  /usr/bin/sha224sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/debconf-copydb : 755
+[MISMATCH FILE] /usr/bin/debconf-copydb (755 != 644)
+[AFTER]  /usr/bin/debconf-copydb : 755
+----------------------------------------
+[BEFORE] /usr/bin/nm-connection-editor : 755
+[MISMATCH FILE] /usr/bin/nm-connection-editor (755 != 644)
+[AFTER]  /usr/bin/nm-connection-editor : 755
+----------------------------------------
+[BEFORE] /usr/bin/whoopsie : 755
+[MISMATCH FILE] /usr/bin/whoopsie (755 != 644)
+[AFTER]  /usr/bin/whoopsie : 755
+----------------------------------------
+[BEFORE] /usr/bin/echo : 755
+[MISMATCH FILE] /usr/bin/echo (755 != 644)
+[AFTER]  /usr/bin/echo : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkbevd : 755
+[MISMATCH FILE] /usr/bin/xkbevd (755 != 644)
+[AFTER]  /usr/bin/xkbevd : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-session-properties : 755
+[MISMATCH FILE] /usr/bin/gnome-session-properties (755 != 644)
+[AFTER]  /usr/bin/gnome-session-properties : 755
+----------------------------------------
+[BEFORE] /usr/bin/chsh : 4755
+[CRITICAL] SetUID detected : /usr/bin/chsh
+[MISMATCH FILE] /usr/bin/chsh (755 != 644)
+[AFTER]  /usr/bin/chsh : 4755
+----------------------------------------
+[BEFORE] /usr/bin/orca-dm-wrapper : 755
+[MISMATCH FILE] /usr/bin/orca-dm-wrapper (755 != 644)
+[AFTER]  /usr/bin/orca-dm-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/nc.openbsd : 755
+[MISMATCH FILE] /usr/bin/nc.openbsd (755 != 644)
+[AFTER]  /usr/bin/nc.openbsd : 755
+----------------------------------------
+[BEFORE] /usr/bin/hbpldecode : 755
+[MISMATCH FILE] /usr/bin/hbpldecode (755 != 644)
+[AFTER]  /usr/bin/hbpldecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/psicc : 755
+[MISMATCH FILE] /usr/bin/psicc (755 != 644)
+[AFTER]  /usr/bin/psicc : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-elfedit : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-elfedit (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-elfedit : 755
+----------------------------------------
+[BEFORE] /usr/bin/alsatplg : 755
+[MISMATCH FILE] /usr/bin/alsatplg (755 != 644)
+[AFTER]  /usr/bin/alsatplg : 755
+----------------------------------------
+[BEFORE] /usr/bin/hipercdecode : 755
+[MISMATCH FILE] /usr/bin/hipercdecode (755 != 644)
+[AFTER]  /usr/bin/hipercdecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/red : 755
+[MISMATCH FILE] /usr/bin/red (755 != 644)
+[AFTER]  /usr/bin/red : 755
+----------------------------------------
+[BEFORE] /usr/bin/setpriv : 755
+[MISMATCH FILE] /usr/bin/setpriv (755 != 644)
+[AFTER]  /usr/bin/setpriv : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-disk-image-mounter : 755
+[MISMATCH FILE] /usr/bin/gnome-disk-image-mounter (755 != 644)
+[AFTER]  /usr/bin/gnome-disk-image-mounter : 755
+----------------------------------------
+[BEFORE] /usr/bin/whereis : 755
+[MISMATCH FILE] /usr/bin/whereis (755 != 644)
+[AFTER]  /usr/bin/whereis : 755
+----------------------------------------
+[BEFORE] /usr/bin/usb-creator-gtk : 755
+[MISMATCH FILE] /usr/bin/usb-creator-gtk (755 != 644)
+[AFTER]  /usr/bin/usb-creator-gtk : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gcc-nm-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gcc-nm-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gcc-nm-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/libnetcfg : 755
+[MISMATCH FILE] /usr/bin/libnetcfg (755 != 644)
+[AFTER]  /usr/bin/libnetcfg : 755
+----------------------------------------
+[BEFORE] /usr/bin/symcryptrun : 755
+[MISMATCH FILE] /usr/bin/symcryptrun (755 != 644)
+[AFTER]  /usr/bin/symcryptrun : 755
+----------------------------------------
+[BEFORE] /usr/bin/xsm : 755
+[MISMATCH FILE] /usr/bin/xsm (755 != 644)
+[AFTER]  /usr/bin/xsm : 755
+----------------------------------------
+[BEFORE] /usr/bin/speaker-test : 755
+[MISMATCH FILE] /usr/bin/speaker-test (755 != 644)
+[AFTER]  /usr/bin/speaker-test : 755
+----------------------------------------
+[BEFORE] /usr/bin/gcr-viewer : 755
+[MISMATCH FILE] /usr/bin/gcr-viewer (755 != 644)
+[AFTER]  /usr/bin/gcr-viewer : 755
+----------------------------------------
+[BEFORE] /usr/bin/vdir : 755
+[MISMATCH FILE] /usr/bin/vdir (755 != 644)
+[AFTER]  /usr/bin/vdir : 755
+----------------------------------------
+[BEFORE] /usr/bin/mako-render : 755
+[MISMATCH FILE] /usr/bin/mako-render (755 != 644)
+[AFTER]  /usr/bin/mako-render : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gcc-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gcc-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gcc-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/tsort : 755
+[MISMATCH FILE] /usr/bin/tsort (755 != 644)
+[AFTER]  /usr/bin/tsort : 755
+----------------------------------------
+[BEFORE] /usr/bin/poff : 755
+[MISMATCH FILE] /usr/bin/poff (755 != 644)
+[AFTER]  /usr/bin/poff : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-gencontrol : 755
+[MISMATCH FILE] /usr/bin/dpkg-gencontrol (755 != 644)
+[AFTER]  /usr/bin/dpkg-gencontrol : 755
+----------------------------------------
+[BEFORE] /usr/bin/gtk-launch : 755
+[MISMATCH FILE] /usr/bin/gtk-launch (755 != 644)
+[AFTER]  /usr/bin/gtk-launch : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-objcopy : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-objcopy (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-objcopy : 755
+----------------------------------------
+[BEFORE] /usr/bin/base64 : 755
+[MISMATCH FILE] /usr/bin/base64 (755 != 644)
+[AFTER]  /usr/bin/base64 : 755
+----------------------------------------
+[BEFORE] /usr/bin/host : 755
+[MISMATCH FILE] /usr/bin/host (755 != 644)
+[AFTER]  /usr/bin/host : 755
+----------------------------------------
+[BEFORE] /usr/bin/eject : 755
+[MISMATCH FILE] /usr/bin/eject (755 != 644)
+[AFTER]  /usr/bin/eject : 755
+----------------------------------------
+[BEFORE] /usr/bin/less : 755
+[MISMATCH FILE] /usr/bin/less (755 != 644)
+[AFTER]  /usr/bin/less : 755
+----------------------------------------
+[BEFORE] /usr/bin/chgrp : 755
+[MISMATCH FILE] /usr/bin/chgrp (755 != 644)
+[AFTER]  /usr/bin/chgrp : 755
+----------------------------------------
+[BEFORE] /usr/bin/loffice : 755
+[MISMATCH FILE] /usr/bin/loffice (755 != 644)
+[AFTER]  /usr/bin/loffice : 755
+----------------------------------------
+[BEFORE] /usr/bin/gst-device-monitor-1.0 : 755
+[MISMATCH FILE] /usr/bin/gst-device-monitor-1.0 (755 != 644)
+[AFTER]  /usr/bin/gst-device-monitor-1.0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/bitmap : 755
+[MISMATCH FILE] /usr/bin/bitmap (755 != 644)
+[AFTER]  /usr/bin/bitmap : 755
+----------------------------------------
+[BEFORE] /usr/bin/linux-update-symlinks : 755
+[MISMATCH FILE] /usr/bin/linux-update-symlinks (755 != 644)
+[AFTER]  /usr/bin/linux-update-symlinks : 755
+----------------------------------------
+[BEFORE] /usr/bin/ptx : 755
+[MISMATCH FILE] /usr/bin/ptx (755 != 644)
+[AFTER]  /usr/bin/ptx : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-validate : 755
+[MISMATCH FILE] /usr/bin/fc-validate (755 != 644)
+[AFTER]  /usr/bin/fc-validate : 755
+----------------------------------------
+[BEFORE] /usr/bin/prezip-bin : 755
+[MISMATCH FILE] /usr/bin/prezip-bin (755 != 644)
+[AFTER]  /usr/bin/prezip-bin : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-list : 755
+[MISMATCH FILE] /usr/bin/fc-list (755 != 644)
+[AFTER]  /usr/bin/fc-list : 755
+----------------------------------------
+[BEFORE] /usr/bin/gdbus : 755
+[MISMATCH FILE] /usr/bin/gdbus (755 != 644)
+[AFTER]  /usr/bin/gdbus : 755
+----------------------------------------
+[BEFORE] /usr/bin/loadkeys : 755
+[MISMATCH FILE] /usr/bin/loadkeys (755 != 644)
+[AFTER]  /usr/bin/loadkeys : 755
+----------------------------------------
+[BEFORE] /usr/bin/amuFormat.sh : 755
+[MISMATCH FILE] /usr/bin/amuFormat.sh (755 != 644)
+[AFTER]  /usr/bin/amuFormat.sh : 755
+----------------------------------------
+[BEFORE] /usr/bin/lspci : 755
+[MISMATCH FILE] /usr/bin/lspci (755 != 644)
+[AFTER]  /usr/bin/lspci : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-rm : 755
+[MISMATCH FILE] /usr/bin/gvfs-rm (755 != 644)
+[AFTER]  /usr/bin/gvfs-rm : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsb_release : 755
+[MISMATCH FILE] /usr/bin/lsb_release (755 != 644)
+[AFTER]  /usr/bin/lsb_release : 755
+----------------------------------------
+[BEFORE] /usr/bin/dmesg : 755
+[MISMATCH FILE] /usr/bin/dmesg (755 != 644)
+[AFTER]  /usr/bin/dmesg : 755
+----------------------------------------
+[BEFORE] /usr/bin/wpa_passphrase : 755
+[MISMATCH FILE] /usr/bin/wpa_passphrase (755 != 644)
+[AFTER]  /usr/bin/wpa_passphrase : 755
+----------------------------------------
+[BEFORE] /usr/bin/split : 755
+[MISMATCH FILE] /usr/bin/split (755 != 644)
+[AFTER]  /usr/bin/split : 755
+----------------------------------------
+[BEFORE] /usr/bin/gresource : 755
+[MISMATCH FILE] /usr/bin/gresource (755 != 644)
+[AFTER]  /usr/bin/gresource : 755
+----------------------------------------
+[BEFORE] /usr/bin/cd-fix-profile : 755
+[MISMATCH FILE] /usr/bin/cd-fix-profile (755 != 644)
+[AFTER]  /usr/bin/cd-fix-profile : 755
+----------------------------------------
+[BEFORE] /usr/bin/time : 755
+[MISMATCH FILE] /usr/bin/time (755 != 644)
+[AFTER]  /usr/bin/time : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps : 755
+[MISMATCH FILE] /usr/bin/ps (755 != 644)
+[AFTER]  /usr/bin/ps : 755
+----------------------------------------
+[BEFORE] /usr/bin/im-launch : 755
+[MISMATCH FILE] /usr/bin/im-launch (755 != 644)
+[AFTER]  /usr/bin/im-launch : 755
+----------------------------------------
+[BEFORE] /usr/bin/sha512sum : 755
+[MISMATCH FILE] /usr/bin/sha512sum (755 != 644)
+[AFTER]  /usr/bin/sha512sum : 755
+----------------------------------------
+[BEFORE] /usr/bin/od : 755
+[MISMATCH FILE] /usr/bin/od (755 != 644)
+[AFTER]  /usr/bin/od : 755
+----------------------------------------
+[BEFORE] /usr/bin/volname : 755
+[MISMATCH FILE] /usr/bin/volname (755 != 644)
+[AFTER]  /usr/bin/volname : 755
+----------------------------------------
+[BEFORE] /usr/bin/ssh-keygen : 755
+[MISMATCH FILE] /usr/bin/ssh-keygen (755 != 644)
+[AFTER]  /usr/bin/ssh-keygen : 755
+----------------------------------------
+[BEFORE] /usr/bin/join-dctrl : 755
+[MISMATCH FILE] /usr/bin/join-dctrl (755 != 644)
+[AFTER]  /usr/bin/join-dctrl : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-inhibit : 755
+[MISMATCH FILE] /usr/bin/systemd-inhibit (755 != 644)
+[AFTER]  /usr/bin/systemd-inhibit : 755
+----------------------------------------
+[BEFORE] /usr/bin/c_rehash : 755
+[MISMATCH FILE] /usr/bin/c_rehash (755 != 644)
+[AFTER]  /usr/bin/c_rehash : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2xqx-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2xqx-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2xqx-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/kill : 755
+[MISMATCH FILE] /usr/bin/kill (755 != 644)
+[AFTER]  /usr/bin/kill : 755
+----------------------------------------
+[BEFORE] /usr/bin/jpgicc : 755
+[MISMATCH FILE] /usr/bin/jpgicc (755 != 644)
+[AFTER]  /usr/bin/jpgicc : 755
+----------------------------------------
+[BEFORE] /usr/bin/kerneloops-submit : 755
+[MISMATCH FILE] /usr/bin/kerneloops-submit (755 != 644)
+[AFTER]  /usr/bin/kerneloops-submit : 755
+----------------------------------------
+[BEFORE] /usr/bin/false : 755
+[MISMATCH FILE] /usr/bin/false (755 != 644)
+[AFTER]  /usr/bin/false : 755
+----------------------------------------
+[BEFORE] /usr/bin/fc-scan : 755
+[MISMATCH FILE] /usr/bin/fc-scan (755 != 644)
+[AFTER]  /usr/bin/fc-scan : 755
+----------------------------------------
+[BEFORE] /usr/bin/xrdb : 755
+[MISMATCH FILE] /usr/bin/xrdb (755 != 644)
+[AFTER]  /usr/bin/xrdb : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-parsechangelog : 755
+[MISMATCH FILE] /usr/bin/dpkg-parsechangelog (755 != 644)
+[AFTER]  /usr/bin/dpkg-parsechangelog : 755
+----------------------------------------
+[BEFORE] /usr/bin/apturl-gtk : 755
+[MISMATCH FILE] /usr/bin/apturl-gtk (755 != 644)
+[AFTER]  /usr/bin/apturl-gtk : 755
+----------------------------------------
+[BEFORE] /usr/bin/setleds : 755
+[MISMATCH FILE] /usr/bin/setleds (755 != 644)
+[AFTER]  /usr/bin/setleds : 755
+----------------------------------------
+[BEFORE] /usr/bin/git : 755
+[MISMATCH FILE] /usr/bin/git (755 != 644)
+[AFTER]  /usr/bin/git : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-icon-resource : 755
+[MISMATCH FILE] /usr/bin/xdg-icon-resource (755 != 644)
+[AFTER]  /usr/bin/xdg-icon-resource : 755
+----------------------------------------
+[BEFORE] /usr/bin/boltctl : 755
+[MISMATCH FILE] /usr/bin/boltctl (755 != 644)
+[AFTER]  /usr/bin/boltctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/rctest : 755
+[MISMATCH FILE] /usr/bin/rctest (755 != 644)
+[AFTER]  /usr/bin/rctest : 755
+----------------------------------------
+[BEFORE] /usr/bin/aseqnet : 755
+[MISMATCH FILE] /usr/bin/aseqnet (755 != 644)
+[AFTER]  /usr/bin/aseqnet : 755
+----------------------------------------
+[BEFORE] /usr/bin/comm : 755
+[MISMATCH FILE] /usr/bin/comm (755 != 644)
+[AFTER]  /usr/bin/comm : 755
+----------------------------------------
+[BEFORE] /usr/bin/vim.tiny : 755
+[MISMATCH FILE] /usr/bin/vim.tiny (755 != 644)
+[AFTER]  /usr/bin/vim.tiny : 755
+----------------------------------------
+[BEFORE] /usr/bin/msexpand : 755
+[MISMATCH FILE] /usr/bin/msexpand (755 != 644)
+[AFTER]  /usr/bin/msexpand : 755
+----------------------------------------
+[BEFORE] /usr/bin/rdiffdir : 755
+[MISMATCH FILE] /usr/bin/rdiffdir (755 != 644)
+[AFTER]  /usr/bin/rdiffdir : 755
+----------------------------------------
+[BEFORE] /usr/bin/logger : 755
+[MISMATCH FILE] /usr/bin/logger (755 != 644)
+[AFTER]  /usr/bin/logger : 755
+----------------------------------------
+[BEFORE] /usr/bin/iconv : 755
+[MISMATCH FILE] /usr/bin/iconv (755 != 644)
+[AFTER]  /usr/bin/iconv : 755
+----------------------------------------
+[BEFORE] /usr/bin/eqn : 755
+[MISMATCH FILE] /usr/bin/eqn (755 != 644)
+[AFTER]  /usr/bin/eqn : 755
+----------------------------------------
+[BEFORE] /usr/bin/xcutsel : 755
+[MISMATCH FILE] /usr/bin/xcutsel (755 != 644)
+[AFTER]  /usr/bin/xcutsel : 755
+----------------------------------------
+[BEFORE] /usr/bin/evince-thumbnailer : 755
+[MISMATCH FILE] /usr/bin/evince-thumbnailer (755 != 644)
+[AFTER]  /usr/bin/evince-thumbnailer : 755
+----------------------------------------
+[BEFORE] /usr/bin/wget : 755
+[MISMATCH FILE] /usr/bin/wget (755 != 644)
+[AFTER]  /usr/bin/wget : 755
+----------------------------------------
+[BEFORE] /usr/bin/ibus-table-createdb : 755
+[MISMATCH FILE] /usr/bin/ibus-table-createdb (755 != 644)
+[AFTER]  /usr/bin/ibus-table-createdb : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2hiperc-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2hiperc-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2hiperc-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/gatttool : 755
+[MISMATCH FILE] /usr/bin/gatttool (755 != 644)
+[AFTER]  /usr/bin/gatttool : 755
+----------------------------------------
+[BEFORE] /usr/bin/fgconsole : 755
+[MISMATCH FILE] /usr/bin/fgconsole (755 != 644)
+[AFTER]  /usr/bin/fgconsole : 755
+----------------------------------------
+[BEFORE] /usr/bin/man-recode : 755
+[MISMATCH FILE] /usr/bin/man-recode (755 != 644)
+[AFTER]  /usr/bin/man-recode : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-sortpkgs : 755
+[MISMATCH FILE] /usr/bin/apt-sortpkgs (755 != 644)
+[AFTER]  /usr/bin/apt-sortpkgs : 755
+----------------------------------------
+[BEFORE] /usr/bin/gst-discoverer-1.0 : 755
+[MISMATCH FILE] /usr/bin/gst-discoverer-1.0 (755 != 644)
+[AFTER]  /usr/bin/gst-discoverer-1.0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/chmod : 755
+[MISMATCH FILE] /usr/bin/chmod (755 != 644)
+[AFTER]  /usr/bin/chmod : 755
+----------------------------------------
+[BEFORE] /usr/bin/pkexec : 4755
+[CRITICAL] SetUID detected : /usr/bin/pkexec
+[MISMATCH FILE] /usr/bin/pkexec (755 != 644)
+[AFTER]  /usr/bin/pkexec : 4755
+----------------------------------------
+[BEFORE] /usr/bin/zfgrep : 755
+[MISMATCH FILE] /usr/bin/zfgrep (755 != 644)
+[AFTER]  /usr/bin/zfgrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-update-activation-environment : 755
+[MISMATCH FILE] /usr/bin/dbus-update-activation-environment (755 != 644)
+[AFTER]  /usr/bin/dbus-update-activation-environment : 755
+----------------------------------------
+[BEFORE] /usr/bin/pkaction : 755
+[MISMATCH FILE] /usr/bin/pkaction (755 != 644)
+[AFTER]  /usr/bin/pkaction : 755
+----------------------------------------
+[BEFORE] /usr/bin/xload : 755
+[MISMATCH FILE] /usr/bin/xload (755 != 644)
+[AFTER]  /usr/bin/xload : 755
+----------------------------------------
+[BEFORE] /usr/bin/xargs : 755
+[MISMATCH FILE] /usr/bin/xargs (755 != 644)
+[AFTER]  /usr/bin/xargs : 755
+----------------------------------------
+[BEFORE] /usr/bin/canberra-gtk-play : 755
+[MISMATCH FILE] /usr/bin/canberra-gtk-play (755 != 644)
+[AFTER]  /usr/bin/canberra-gtk-play : 755
+----------------------------------------
+[BEFORE] /usr/bin/resolvectl : 755
+[MISMATCH FILE] /usr/bin/resolvectl (755 != 644)
+[AFTER]  /usr/bin/resolvectl : 755
+----------------------------------------
+[BEFORE] /usr/bin/dvipdf : 755
+[MISMATCH FILE] /usr/bin/dvipdf (755 != 644)
+[AFTER]  /usr/bin/dvipdf : 755
+----------------------------------------
+[BEFORE] /usr/bin/gpgparsemail : 755
+[MISMATCH FILE] /usr/bin/gpgparsemail (755 != 644)
+[AFTER]  /usr/bin/gpgparsemail : 755
+----------------------------------------
+[BEFORE] /usr/bin/gsbj : 755
+[MISMATCH FILE] /usr/bin/gsbj (755 != 644)
+[AFTER]  /usr/bin/gsbj : 755
+----------------------------------------
+[BEFORE] /usr/bin/nohup : 755
+[MISMATCH FILE] /usr/bin/nohup (755 != 644)
+[AFTER]  /usr/bin/nohup : 755
+----------------------------------------
+[BEFORE] /usr/bin/taskset : 755
+[MISMATCH FILE] /usr/bin/taskset (755 != 644)
+[AFTER]  /usr/bin/taskset : 755
+----------------------------------------
+[BEFORE] /usr/bin/gsdj : 755
+[MISMATCH FILE] /usr/bin/gsdj (755 != 644)
+[AFTER]  /usr/bin/gsdj : 755
+----------------------------------------
+[BEFORE] /usr/bin/rhythmbox-client : 755
+[MISMATCH FILE] /usr/bin/rhythmbox-client (755 != 644)
+[AFTER]  /usr/bin/rhythmbox-client : 755
+----------------------------------------
+[BEFORE] /usr/bin/openssl : 755
+[MISMATCH FILE] /usr/bin/openssl (755 != 644)
+[AFTER]  /usr/bin/openssl : 755
+----------------------------------------
+[BEFORE] /usr/bin/xdg-screensaver : 755
+[MISMATCH FILE] /usr/bin/xdg-screensaver (755 != 644)
+[AFTER]  /usr/bin/xdg-screensaver : 755
+----------------------------------------
+[BEFORE] /usr/bin/uuidgen : 755
+[MISMATCH FILE] /usr/bin/uuidgen (755 != 644)
+[AFTER]  /usr/bin/uuidgen : 755
+----------------------------------------
+[BEFORE] /usr/bin/localc : 755
+[MISMATCH FILE] /usr/bin/localc (755 != 644)
+[AFTER]  /usr/bin/localc : 755
+----------------------------------------
+[BEFORE] /usr/bin/sort-dctrl : 755
+[MISMATCH FILE] /usr/bin/sort-dctrl (755 != 644)
+[AFTER]  /usr/bin/sort-dctrl : 755
+----------------------------------------
+[BEFORE] /usr/bin/prlimit : 755
+[MISMATCH FILE] /usr/bin/prlimit (755 != 644)
+[AFTER]  /usr/bin/prlimit : 755
+----------------------------------------
+[BEFORE] /usr/bin/nice : 755
+[MISMATCH FILE] /usr/bin/nice (755 != 644)
+[AFTER]  /usr/bin/nice : 755
+----------------------------------------
+[BEFORE] /usr/bin/isdv4-serial-debugger : 755
+[MISMATCH FILE] /usr/bin/isdv4-serial-debugger (755 != 644)
+[AFTER]  /usr/bin/isdv4-serial-debugger : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-save : 755
+[MISMATCH FILE] /usr/bin/gvfs-save (755 != 644)
+[AFTER]  /usr/bin/gvfs-save : 755
+----------------------------------------
+[BEFORE] /usr/bin/aa-enabled : 755
+[MISMATCH FILE] /usr/bin/aa-enabled (755 != 644)
+[AFTER]  /usr/bin/aa-enabled : 755
+----------------------------------------
+[BEFORE] /usr/bin/mesa-overlay-control.py : 755
+[MISMATCH FILE] /usr/bin/mesa-overlay-control.py (755 != 644)
+[AFTER]  /usr/bin/mesa-overlay-control.py : 755
+----------------------------------------
+[BEFORE] /usr/bin/mutter : 755
+[MISMATCH FILE] /usr/bin/mutter (755 != 644)
+[AFTER]  /usr/bin/mutter : 755
+----------------------------------------
+[BEFORE] /usr/bin/getkeycodes : 755
+[MISMATCH FILE] /usr/bin/getkeycodes (755 != 644)
+[AFTER]  /usr/bin/getkeycodes : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2slx-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2slx-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2slx-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/fakeroot-sysv : 755
+[MISMATCH FILE] /usr/bin/fakeroot-sysv (755 != 644)
+[AFTER]  /usr/bin/fakeroot-sysv : 755
+----------------------------------------
+[BEFORE] /usr/bin/lavadecode : 755
+[MISMATCH FILE] /usr/bin/lavadecode (755 != 644)
+[AFTER]  /usr/bin/lavadecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/sftp : 755
+[MISMATCH FILE] /usr/bin/sftp (755 != 644)
+[AFTER]  /usr/bin/sftp : 755
+----------------------------------------
+[BEFORE] /usr/bin/pinky : 755
+[MISMATCH FILE] /usr/bin/pinky (755 != 644)
+[AFTER]  /usr/bin/pinky : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-thumbnail-font : 755
+[MISMATCH FILE] /usr/bin/gnome-thumbnail-font (755 != 644)
+[AFTER]  /usr/bin/gnome-thumbnail-font : 755
+----------------------------------------
+[BEFORE] /usr/bin/true : 755
+[MISMATCH FILE] /usr/bin/true (755 != 644)
+[AFTER]  /usr/bin/true : 755
+----------------------------------------
+[BEFORE] /usr/bin/ucs2any : 755
+[MISMATCH FILE] /usr/bin/ucs2any (755 != 644)
+[AFTER]  /usr/bin/ucs2any : 755
+----------------------------------------
+[BEFORE] /usr/bin/zegrep : 755
+[MISMATCH FILE] /usr/bin/zegrep (755 != 644)
+[AFTER]  /usr/bin/zegrep : 755
+----------------------------------------
+[BEFORE] /usr/bin/fprintd-verify : 755
+[MISMATCH FILE] /usr/bin/fprintd-verify (755 != 644)
+[AFTER]  /usr/bin/fprintd-verify : 755
+----------------------------------------
+[BEFORE] /usr/bin/select-default-iwrap : 755
+[MISMATCH FILE] /usr/bin/select-default-iwrap (755 != 644)
+[AFTER]  /usr/bin/select-default-iwrap : 755
+----------------------------------------
+[BEFORE] /usr/bin/slabtop : 755
+[MISMATCH FILE] /usr/bin/slabtop (755 != 644)
+[AFTER]  /usr/bin/slabtop : 755
+----------------------------------------
+[BEFORE] /usr/bin/find : 755
+[MISMATCH FILE] /usr/bin/find (755 != 644)
+[AFTER]  /usr/bin/find : 755
+----------------------------------------
+[BEFORE] /usr/bin/filan : 755
+[MISMATCH FILE] /usr/bin/filan (755 != 644)
+[AFTER]  /usr/bin/filan : 755
+----------------------------------------
+[BEFORE] /usr/bin/getopt : 755
+[MISMATCH FILE] /usr/bin/getopt (755 != 644)
+[AFTER]  /usr/bin/getopt : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2slx : 755
+[MISMATCH FILE] /usr/bin/foo2slx (755 != 644)
+[AFTER]  /usr/bin/foo2slx : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-shell-perf-tool : 755
+[MISMATCH FILE] /usr/bin/gnome-shell-perf-tool (755 != 644)
+[AFTER]  /usr/bin/gnome-shell-perf-tool : 755
+----------------------------------------
+[BEFORE] /usr/bin/strace-log-merge : 755
+[MISMATCH FILE] /usr/bin/strace-log-merge (755 != 644)
+[AFTER]  /usr/bin/strace-log-merge : 755
+----------------------------------------
+[BEFORE] /usr/bin/evince-previewer : 755
+[MISMATCH FILE] /usr/bin/evince-previewer (755 != 644)
+[AFTER]  /usr/bin/evince-previewer : 755
+----------------------------------------
+[BEFORE] /usr/bin/grops : 755
+[MISMATCH FILE] /usr/bin/grops (755 != 644)
+[AFTER]  /usr/bin/grops : 755
+----------------------------------------
+[BEFORE] /usr/bin/bluetooth-sendto : 755
+[MISMATCH FILE] /usr/bin/bluetooth-sendto (755 != 644)
+[AFTER]  /usr/bin/bluetooth-sendto : 755
+----------------------------------------
+[BEFORE] /usr/bin/ls : 755
+[MISMATCH FILE] /usr/bin/ls (755 != 644)
+[AFTER]  /usr/bin/ls : 755
+----------------------------------------
+[BEFORE] /usr/bin/pkmon : 755
+[MISMATCH FILE] /usr/bin/pkmon (755 != 644)
+[AFTER]  /usr/bin/pkmon : 755
+----------------------------------------
+[BEFORE] /usr/bin/lsof : 755
+[MISMATCH FILE] /usr/bin/lsof (755 != 644)
+[AFTER]  /usr/bin/lsof : 755
+----------------------------------------
+[BEFORE] /usr/bin/pdftohtml : 755
+[MISMATCH FILE] /usr/bin/pdftohtml (755 != 644)
+[AFTER]  /usr/bin/pdftohtml : 755
+----------------------------------------
+[BEFORE] /usr/bin/foo2qpdl-wrapper : 755
+[MISMATCH FILE] /usr/bin/foo2qpdl-wrapper (755 != 644)
+[AFTER]  /usr/bin/foo2qpdl-wrapper : 755
+----------------------------------------
+[BEFORE] /usr/bin/brltty-trtxt : 755
+[MISMATCH FILE] /usr/bin/brltty-trtxt (755 != 644)
+[AFTER]  /usr/bin/brltty-trtxt : 755
+----------------------------------------
+[BEFORE] /usr/bin/orca : 755
+[MISMATCH FILE] /usr/bin/orca (755 != 644)
+[AFTER]  /usr/bin/orca : 755
+----------------------------------------
+[BEFORE] /usr/bin/ssh-add : 755
+[MISMATCH FILE] /usr/bin/ssh-add (755 != 644)
+[AFTER]  /usr/bin/ssh-add : 755
+----------------------------------------
+[BEFORE] /usr/bin/ps2pdf12 : 755
+[MISMATCH FILE] /usr/bin/ps2pdf12 (755 != 644)
+[AFTER]  /usr/bin/ps2pdf12 : 755
+----------------------------------------
+[BEFORE] /usr/bin/viewres : 755
+[MISMATCH FILE] /usr/bin/viewres (755 != 644)
+[AFTER]  /usr/bin/viewres : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-trigger : 755
+[MISMATCH FILE] /usr/bin/dpkg-trigger (755 != 644)
+[AFTER]  /usr/bin/dpkg-trigger : 755
+----------------------------------------
+[BEFORE] /usr/bin/gst-launch-1.0 : 755
+[MISMATCH FILE] /usr/bin/gst-launch-1.0 (755 != 644)
+[AFTER]  /usr/bin/gst-launch-1.0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/zipcloak : 755
+[MISMATCH FILE] /usr/bin/zipcloak (755 != 644)
+[AFTER]  /usr/bin/zipcloak : 755
+----------------------------------------
+[BEFORE] /usr/bin/chcon : 755
+[MISMATCH FILE] /usr/bin/chcon (755 != 644)
+[AFTER]  /usr/bin/chcon : 755
+----------------------------------------
+[BEFORE] /usr/bin/mksquashfs : 755
+[MISMATCH FILE] /usr/bin/mksquashfs (755 != 644)
+[AFTER]  /usr/bin/mksquashfs : 755
+----------------------------------------
+[BEFORE] /usr/bin/appres : 755
+[MISMATCH FILE] /usr/bin/appres (755 != 644)
+[AFTER]  /usr/bin/appres : 755
+----------------------------------------
+[BEFORE] /usr/bin/deb-systemd-invoke : 755
+[MISMATCH FILE] /usr/bin/deb-systemd-invoke (755 != 644)
+[AFTER]  /usr/bin/deb-systemd-invoke : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-size : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-size (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-size : 755
+----------------------------------------
+[BEFORE] /usr/bin/xinit : 755
+[MISMATCH FILE] /usr/bin/xinit (755 != 644)
+[AFTER]  /usr/bin/xinit : 755
+----------------------------------------
+[BEFORE] /usr/bin/envsubst : 755
+[MISMATCH FILE] /usr/bin/envsubst (755 != 644)
+[AFTER]  /usr/bin/envsubst : 755
+----------------------------------------
+[BEFORE] /usr/bin/xditview : 755
+[MISMATCH FILE] /usr/bin/xditview (755 != 644)
+[AFTER]  /usr/bin/xditview : 755
+----------------------------------------
+[BEFORE] /usr/bin/nmtui : 755
+[MISMATCH FILE] /usr/bin/nmtui (755 != 644)
+[AFTER]  /usr/bin/nmtui : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-gcov-tool-9 : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-gcov-tool-9 (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-gcov-tool-9 : 755
+----------------------------------------
+[BEFORE] /usr/bin/jq : 755
+[MISMATCH FILE] /usr/bin/jq (755 != 644)
+[AFTER]  /usr/bin/jq : 755
+----------------------------------------
+[BEFORE] /usr/bin/xstdcmap : 755
+[MISMATCH FILE] /usr/bin/xstdcmap (755 != 644)
+[AFTER]  /usr/bin/xstdcmap : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-less : 755
+[MISMATCH FILE] /usr/bin/gvfs-less (755 != 644)
+[AFTER]  /usr/bin/gvfs-less : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-cache : 755
+[MISMATCH FILE] /usr/bin/apt-cache (755 != 644)
+[AFTER]  /usr/bin/apt-cache : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-shlibdeps : 755
+[MISMATCH FILE] /usr/bin/dpkg-shlibdeps (755 != 644)
+[AFTER]  /usr/bin/dpkg-shlibdeps : 755
+----------------------------------------
+[BEFORE] /usr/bin/dbus-launch : 755
+[MISMATCH FILE] /usr/bin/dbus-launch (755 != 644)
+[AFTER]  /usr/bin/dbus-launch : 755
+----------------------------------------
+[BEFORE] /usr/bin/pon : 755
+[MISMATCH FILE] /usr/bin/pon (755 != 644)
+[AFTER]  /usr/bin/pon : 755
+----------------------------------------
+[BEFORE] /usr/bin/systemd-ask-password : 755
+[MISMATCH FILE] /usr/bin/systemd-ask-password (755 != 644)
+[AFTER]  /usr/bin/systemd-ask-password : 755
+----------------------------------------
+[BEFORE] /usr/bin/piconv : 755
+[MISMATCH FILE] /usr/bin/piconv (755 != 644)
+[AFTER]  /usr/bin/piconv : 755
+----------------------------------------
+[BEFORE] /usr/bin/sessreg : 755
+[MISMATCH FILE] /usr/bin/sessreg (755 != 644)
+[AFTER]  /usr/bin/sessreg : 755
+----------------------------------------
+[BEFORE] /usr/bin/column : 755
+[MISMATCH FILE] /usr/bin/column (755 != 644)
+[AFTER]  /usr/bin/column : 755
+----------------------------------------
+[BEFORE] /usr/bin/cd-iccdump : 755
+[MISMATCH FILE] /usr/bin/cd-iccdump (755 != 644)
+[AFTER]  /usr/bin/cd-iccdump : 755
+----------------------------------------
+[BEFORE] /usr/bin/laptop-detect : 755
+[MISMATCH FILE] /usr/bin/laptop-detect (755 != 644)
+[AFTER]  /usr/bin/laptop-detect : 755
+----------------------------------------
+[BEFORE] /usr/bin/x86_64-linux-gnu-dwp : 755
+[MISMATCH FILE] /usr/bin/x86_64-linux-gnu-dwp (755 != 644)
+[AFTER]  /usr/bin/x86_64-linux-gnu-dwp : 755
+----------------------------------------
+[BEFORE] /usr/bin/printenv : 755
+[MISMATCH FILE] /usr/bin/printenv (755 != 644)
+[AFTER]  /usr/bin/printenv : 755
+----------------------------------------
+[BEFORE] /usr/bin/xkbwatch : 755
+[MISMATCH FILE] /usr/bin/xkbwatch (755 != 644)
+[AFTER]  /usr/bin/xkbwatch : 755
+----------------------------------------
+[BEFORE] /usr/bin/lesspipe : 755
+[MISMATCH FILE] /usr/bin/lesspipe (755 != 644)
+[AFTER]  /usr/bin/lesspipe : 755
+----------------------------------------
+[BEFORE] /usr/bin/plymouth : 755
+[MISMATCH FILE] /usr/bin/plymouth (755 != 644)
+[AFTER]  /usr/bin/plymouth : 755
+----------------------------------------
+[BEFORE] /usr/bin/hp-plugin-ubuntu : 755
+[MISMATCH FILE] /usr/bin/hp-plugin-ubuntu (755 != 644)
+[AFTER]  /usr/bin/hp-plugin-ubuntu : 755
+----------------------------------------
+[BEFORE] /usr/bin/c99-gcc : 755
+[MISMATCH FILE] /usr/bin/c99-gcc (755 != 644)
+[AFTER]  /usr/bin/c99-gcc : 755
+----------------------------------------
+[BEFORE] /usr/bin/rsync : 755
+[MISMATCH FILE] /usr/bin/rsync (755 != 644)
+[AFTER]  /usr/bin/rsync : 755
+----------------------------------------
+[BEFORE] /usr/bin/locale : 755
+[MISMATCH FILE] /usr/bin/locale (755 != 644)
+[AFTER]  /usr/bin/locale : 755
+----------------------------------------
+[BEFORE] /usr/bin/gtk-builder-tool : 755
+[MISMATCH FILE] /usr/bin/gtk-builder-tool (755 != 644)
+[AFTER]  /usr/bin/gtk-builder-tool : 755
+----------------------------------------
+[BEFORE] /usr/bin/gvfs-set-attribute : 755
+[MISMATCH FILE] /usr/bin/gvfs-set-attribute (755 != 644)
+[AFTER]  /usr/bin/gvfs-set-attribute : 755
+----------------------------------------
+[BEFORE] /usr/bin/py3clean : 755
+[MISMATCH FILE] /usr/bin/py3clean (755 != 644)
+[AFTER]  /usr/bin/py3clean : 755
+----------------------------------------
+[BEFORE] /usr/bin/tempfile : 755
+[MISMATCH FILE] /usr/bin/tempfile (755 != 644)
+[AFTER]  /usr/bin/tempfile : 755
+----------------------------------------
+[BEFORE] /usr/bin/podchecker : 755
+[MISMATCH FILE] /usr/bin/podchecker (755 != 644)
+[AFTER]  /usr/bin/podchecker : 755
+----------------------------------------
+[BEFORE] /usr/bin/preunzip : 755
+[MISMATCH FILE] /usr/bin/preunzip (755 != 644)
+[AFTER]  /usr/bin/preunzip : 755
+----------------------------------------
+[BEFORE] /usr/bin/grub-mklayout : 755
+[MISMATCH FILE] /usr/bin/grub-mklayout (755 != 644)
+[AFTER]  /usr/bin/grub-mklayout : 755
+----------------------------------------
+[BEFORE] /usr/bin/xcalc : 755
+[MISMATCH FILE] /usr/bin/xcalc (755 != 644)
+[AFTER]  /usr/bin/xcalc : 755
+----------------------------------------
+[BEFORE] /usr/bin/unity-scope-loader : 755
+[MISMATCH FILE] /usr/bin/unity-scope-loader (755 != 644)
+[AFTER]  /usr/bin/unity-scope-loader : 755
+----------------------------------------
+[BEFORE] /usr/bin/lexgrog : 755
+[MISMATCH FILE] /usr/bin/lexgrog (755 != 644)
+[AFTER]  /usr/bin/lexgrog : 755
+----------------------------------------
+[BEFORE] /usr/bin/gst-inspect-1.0 : 755
+[MISMATCH FILE] /usr/bin/gst-inspect-1.0 (755 != 644)
+[AFTER]  /usr/bin/gst-inspect-1.0 : 755
+----------------------------------------
+[BEFORE] /usr/bin/fwupdtool : 755
+[MISMATCH FILE] /usr/bin/fwupdtool (755 != 644)
+[AFTER]  /usr/bin/fwupdtool : 755
+----------------------------------------
+[BEFORE] /usr/bin/file : 755
+[MISMATCH FILE] /usr/bin/file (755 != 644)
+[AFTER]  /usr/bin/file : 755
+----------------------------------------
+[BEFORE] /usr/bin/fmt : 755
+[MISMATCH FILE] /usr/bin/fmt (755 != 644)
+[AFTER]  /usr/bin/fmt : 755
+----------------------------------------
+[BEFORE] /usr/bin/gsnd : 755
+[MISMATCH FILE] /usr/bin/gsnd (755 != 644)
+[AFTER]  /usr/bin/gsnd : 755
+----------------------------------------
+[BEFORE] /usr/bin/xconsole : 755
+[MISMATCH FILE] /usr/bin/xconsole (755 != 644)
+[AFTER]  /usr/bin/xconsole : 755
+----------------------------------------
+[BEFORE] /usr/bin/slxdecode : 755
+[MISMATCH FILE] /usr/bin/slxdecode (755 != 644)
+[AFTER]  /usr/bin/slxdecode : 755
+----------------------------------------
+[BEFORE] /usr/bin/ipod-read-sysinfo-extended : 755
+[MISMATCH FILE] /usr/bin/ipod-read-sysinfo-extended (755 != 644)
+[AFTER]  /usr/bin/ipod-read-sysinfo-extended : 755
+----------------------------------------
+[BEFORE] /usr/bin/lprm : 755
+[MISMATCH FILE] /usr/bin/lprm (755 != 644)
+[AFTER]  /usr/bin/lprm : 755
+----------------------------------------
+[BEFORE] /usr/bin/rfcomm : 755
+[MISMATCH FILE] /usr/bin/rfcomm (755 != 644)
+[AFTER]  /usr/bin/rfcomm : 755
+----------------------------------------
+[BEFORE] /usr/bin/localedef : 755
+[MISMATCH FILE] /usr/bin/localedef (755 != 644)
+[AFTER]  /usr/bin/localedef : 755
+----------------------------------------
+[BEFORE] /usr/bin/tabs : 755
+[MISMATCH FILE] /usr/bin/tabs (755 != 644)
+[AFTER]  /usr/bin/tabs : 755
+----------------------------------------
+[BEFORE] /usr/bin/cpan : 755
+[MISMATCH FILE] /usr/bin/cpan (755 != 644)
+[AFTER]  /usr/bin/cpan : 755
+----------------------------------------
+[BEFORE] /usr/bin/ischroot : 755
+[MISMATCH FILE] /usr/bin/ischroot (755 != 644)
+[AFTER]  /usr/bin/ischroot : 755
+----------------------------------------
+[BEFORE] /usr/bin/printafm : 755
+[MISMATCH FILE] /usr/bin/printafm (755 != 644)
+[AFTER]  /usr/bin/printafm : 755
+----------------------------------------
+[BEFORE] /usr/bin/ipcs : 755
+[MISMATCH FILE] /usr/bin/ipcs (755 != 644)
+[AFTER]  /usr/bin/ipcs : 755
+----------------------------------------
+[BEFORE] /usr/bin/lzmainfo : 755
+[MISMATCH FILE] /usr/bin/lzmainfo (755 != 644)
+[AFTER]  /usr/bin/lzmainfo : 755
+----------------------------------------
+[BEFORE] /usr/bin/isodump : 755
+[MISMATCH FILE] /usr/bin/isodump (755 != 644)
+[AFTER]  /usr/bin/isodump : 755
+----------------------------------------
+[BEFORE] /usr/bin/apt-extracttemplates : 755
+[MISMATCH FILE] /usr/bin/apt-extracttemplates (755 != 644)
+[AFTER]  /usr/bin/apt-extracttemplates : 755
+----------------------------------------
+[BEFORE] /usr/bin/ubuntu-security-status : 755
+[MISMATCH FILE] /usr/bin/ubuntu-security-status (755 != 644)
+[AFTER]  /usr/bin/ubuntu-security-status : 755
+----------------------------------------
+[BEFORE] /usr/bin/gnome-calculator : 755
+[MISMATCH FILE] /usr/bin/gnome-calculator (755 != 644)
+[AFTER]  /usr/bin/gnome-calculator : 755
+----------------------------------------
+[BEFORE] /usr/bin/ntfstruncate : 755
+[MISMATCH FILE] /usr/bin/ntfstruncate (755 != 644)
+[AFTER]  /usr/bin/ntfstruncate : 755
+----------------------------------------
+[BEFORE] /usr/bin/join : 755
+[MISMATCH FILE] /usr/bin/join (755 != 644)
+[AFTER]  /usr/bin/join : 755
+----------------------------------------
+[BEFORE] /usr/bin/ldd : 755
+[MISMATCH FILE] /usr/bin/ldd (755 != 644)
+[AFTER]  /usr/bin/ldd : 755
+----------------------------------------
+[BEFORE] /usr/bin/du : 755
+[MISMATCH FILE] /usr/bin/du (755 != 644)
+[AFTER]  /usr/bin/du : 755
+----------------------------------------
+[BEFORE] /usr/bin/netkit-ftp : 755
+[MISMATCH FILE] /usr/bin/netkit-ftp (755 != 644)
+[AFTER]  /usr/bin/netkit-ftp : 755
+----------------------------------------
+[BEFORE] /usr/bin/colcrt : 755
+[MISMATCH FILE] /usr/bin/colcrt (755 != 644)
+[AFTER]  /usr/bin/colcrt : 755
+----------------------------------------
+[BEFORE] /usr/bin/bootctl : 755
+[MISMATCH FILE] /usr/bin/bootctl (755 != 644)
+[AFTER]  /usr/bin/bootctl : 755
+----------------------------------------
+[BEFORE] /usr/bin/dpkg-mergechangelogs : 755
+[MISMATCH FILE] /usr/bin/dpkg-mergechangelogs (755 != 644)
+[AFTER]  /usr/bin/dpkg-mergechangelogs : 755
+----------------------------------------
+[BEFORE] /usr/bin/alsaucm : 755
+[MISMATCH FILE] /usr/bin/alsaucm (755 != 644)
+[AFTER]  /usr/bin/alsaucm : 755
+----------------------------------------
+[BEFORE] /usr/bin/whoami : 755
+[MISMATCH FILE] /usr/bin/whoami (755 != 644)
+[AFTER]  /usr/bin/whoami : 755
+----------------------------------------
+===== SECURITY ANALYSIS =====
+Risk Score : 100
+Risk Level : CRITICAL
+Critical Issues : 15
+SetUID Files : 11
+SetGID Files : 4
+===== SUMMARY =====
+Total scanned : 1222
+Files with issues : 1221
+Issues found : 1236
+Fixes applied : 0
+===== SCAN END Fri 15 May 2026 08:02:56 PM EDT =====

@@ -1,0 +1,32 @@
+===== SCAN START Fri 15 May 2026 03:57:33 PM EDT =====
+[BEFORE] ./test : 755
+[AFTER]  ./test : 755
+----------------------------------------
+[BEFORE] ./test/badfile2 : 644
+[AFTER]  ./test/badfile2 : 644
+----------------------------------------
+[BEFORE] ./test/baddir : 755
+[AFTER]  ./test/baddir : 755
+----------------------------------------
+[BEFORE] ./test/badfile : 755
+[MISMATCH FILE] ./test/badfile (755 != 644)
+[AFTER]  ./test/badfile : 755
+----------------------------------------
+[BEFORE] ./test/suidfile : 755
+[MISMATCH FILE] ./test/suidfile (755 != 644)
+[AFTER]  ./test/suidfile : 755
+----------------------------------------
+[BEFORE] ./test/sgidfile : 755
+[MISMATCH FILE] ./test/sgidfile (755 != 644)
+[AFTER]  ./test/sgidfile : 755
+----------------------------------------
+===== SECURITY ANALYSIS =====
+Risk Score : 15
+Risk Level : LOW
+Critical Issues : 0
+===== SUMMARY =====
+Total scanned : 6
+Files with issues : 3
+Issues found : 3
+Fixes applied : 3
+===== SCAN END Fri 15 May 2026 03:57:34 PM EDT =====

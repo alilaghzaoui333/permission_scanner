@@ -1,0 +1,10 @@
+[15:51:46] [FIX] Executable permission fixed: ./test/badfile
+[15:51:46] [FIX] Executable permission fixed: ./test/suidfile
+[15:51:46] [FIX] Executable permission fixed: ./test/sgidfile
+[15:51:46] [FIX] File permission fixed: ./.scanner.sh.swp
+[15:51:56] [FIX] Directory permission fixed: ./modules
+[15:51:56] [FIX] Executable permission fixed: ./modules/logging_module.sh
+[15:51:56] [FIX] Executable permission fixed: ./modules/scanner_module.sh
+[15:51:56] [FIX] Executable permission fixed: ./modules/scoring_module.sh
+[15:51:56] [FIX] Executable permission fixed: ./modules/utils_module.sh
+[15:51:56] [FIX] Executable permission fixed: ./modules/dashboard_module.sh

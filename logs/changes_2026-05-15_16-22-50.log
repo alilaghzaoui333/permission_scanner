@@ -1,0 +1,3 @@
+[16:25:21] [FIX] Executable permission fixed: /home/ali/permission_scanner/test/badfile
+[16:25:21] [FIX] Executable permission fixed: /home/ali/permission_scanner/test/suidfile
+[16:25:21] [FIX] Executable permission fixed: /home/ali/permission_scanner/test/sgidfile

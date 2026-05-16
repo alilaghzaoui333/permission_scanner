@@ -1,0 +1,3576 @@
+===== SCAN START Fri 15 May 2026 06:40:23 PM EDT =====
+[BEFORE] /etc : 755
+[AFTER]  /etc : 755
+----------------------------------------
+[BEFORE] /etc/issue.net : 644
+[AFTER]  /etc/issue.net : 644
+----------------------------------------
+[BEFORE] /etc/ethertypes : 644
+[AFTER]  /etc/ethertypes : 644
+----------------------------------------
+[BEFORE] /etc/papersize : 664
+[MISMATCH FILE] /etc/papersize (664 != 644)
+[AFTER]  /etc/papersize : 644
+----------------------------------------
+[BEFORE] /etc/snmp : 755
+[AFTER]  /etc/snmp : 755
+----------------------------------------
+[BEFORE] /etc/snmp/snmp.conf : 644
+[AFTER]  /etc/snmp/snmp.conf : 644
+----------------------------------------
+[BEFORE] /etc/locale.alias : 644
+[AFTER]  /etc/locale.alias : 644
+----------------------------------------
+[BEFORE] /etc/update-motd.d : 755
+[AFTER]  /etc/update-motd.d : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/10-help-text : 755
+[MISMATCH FILE] /etc/update-motd.d/10-help-text (755 != 644)
+[AFTER]  /etc/update-motd.d/10-help-text : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/92-unattended-upgrades : 755
+[MISMATCH FILE] /etc/update-motd.d/92-unattended-upgrades (755 != 644)
+[AFTER]  /etc/update-motd.d/92-unattended-upgrades : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/85-fwupd : 755
+[MISMATCH FILE] /etc/update-motd.d/85-fwupd (755 != 644)
+[AFTER]  /etc/update-motd.d/85-fwupd : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/98-fsck-at-reboot : 755
+[MISMATCH FILE] /etc/update-motd.d/98-fsck-at-reboot (755 != 644)
+[AFTER]  /etc/update-motd.d/98-fsck-at-reboot : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/90-updates-available : 755
+[MISMATCH FILE] /etc/update-motd.d/90-updates-available (755 != 644)
+[AFTER]  /etc/update-motd.d/90-updates-available : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/00-header : 755
+[MISMATCH FILE] /etc/update-motd.d/00-header (755 != 644)
+[AFTER]  /etc/update-motd.d/00-header : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/98-reboot-required : 755
+[MISMATCH FILE] /etc/update-motd.d/98-reboot-required (755 != 644)
+[AFTER]  /etc/update-motd.d/98-reboot-required : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/91-contract-ua-esm-status : 755
+[MISMATCH FILE] /etc/update-motd.d/91-contract-ua-esm-status (755 != 644)
+[AFTER]  /etc/update-motd.d/91-contract-ua-esm-status : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/91-release-upgrade : 755
+[MISMATCH FILE] /etc/update-motd.d/91-release-upgrade (755 != 644)
+[AFTER]  /etc/update-motd.d/91-release-upgrade : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/50-motd-news : 755
+[MISMATCH FILE] /etc/update-motd.d/50-motd-news (755 != 644)
+[AFTER]  /etc/update-motd.d/50-motd-news : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/88-esm-announce : 755
+[MISMATCH FILE] /etc/update-motd.d/88-esm-announce (755 != 644)
+[AFTER]  /etc/update-motd.d/88-esm-announce : 755
+----------------------------------------
+[BEFORE] /etc/update-motd.d/95-hwe-eol : 755
+[MISMATCH FILE] /etc/update-motd.d/95-hwe-eol (755 != 644)
+[AFTER]  /etc/update-motd.d/95-hwe-eol : 755
+----------------------------------------
+[BEFORE] /etc/dpkg : 755
+[AFTER]  /etc/dpkg : 755
+----------------------------------------
+[BEFORE] /etc/dpkg/origins : 755
+[AFTER]  /etc/dpkg/origins : 755
+----------------------------------------
+[BEFORE] /etc/dpkg/origins/default : 777
+[ALERT] World-writable detected : /etc/dpkg/origins/default
+[MISMATCH FILE] /etc/dpkg/origins/default (777 != 644)
+[AFTER]  /etc/dpkg/origins/default : 777
+----------------------------------------
+[BEFORE] /etc/dpkg/origins/debian : 644
+[AFTER]  /etc/dpkg/origins/debian : 644
+----------------------------------------
+[BEFORE] /etc/dpkg/origins/ubuntu : 644
+[AFTER]  /etc/dpkg/origins/ubuntu : 644
+----------------------------------------
+[BEFORE] /etc/dpkg/shlibs.override : 644
+[AFTER]  /etc/dpkg/shlibs.override : 644
+----------------------------------------
+[BEFORE] /etc/dpkg/dpkg.cfg.d : 755
+[AFTER]  /etc/dpkg/dpkg.cfg.d : 755
+----------------------------------------
+[BEFORE] /etc/dpkg/dpkg.cfg.d/pkg-config-hook-config : 644
+[AFTER]  /etc/dpkg/dpkg.cfg.d/pkg-config-hook-config : 644
+----------------------------------------
+[BEFORE] /etc/dpkg/shlibs.default : 644
+[AFTER]  /etc/dpkg/shlibs.default : 644
+----------------------------------------
+[BEFORE] /etc/dpkg/dpkg.cfg : 644
+[AFTER]  /etc/dpkg/dpkg.cfg : 644
+----------------------------------------
+[BEFORE] /etc/nsswitch.conf : 644
+[AFTER]  /etc/nsswitch.conf : 644
+----------------------------------------
+[BEFORE] /etc/tmpfiles.d : 755
+[AFTER]  /etc/tmpfiles.d : 755
+----------------------------------------
+[BEFORE] /etc/brltty : 755
+[AFTER]  /etc/brltty : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input : 755
+[AFTER]  /etc/brltty/Input : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/at : 755
+[AFTER]  /etc/brltty/Input/at : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/at/all.ktb : 644
+[AFTER]  /etc/brltty/Input/at/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm : 755
+[AFTER]  /etc/brltty/Input/hm : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/left.kti : 644
+[AFTER]  /etc/brltty/Input/hm/left.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/letters.kti : 644
+[AFTER]  /etc/brltty/Input/hm/letters.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/sync.ktb : 644
+[AFTER]  /etc/brltty/Input/hm/sync.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/contexts.kti : 644
+[AFTER]  /etc/brltty/Input/hm/contexts.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/pan.kti : 644
+[AFTER]  /etc/brltty/Input/hm/pan.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/scroll.ktb : 644
+[AFTER]  /etc/brltty/Input/hm/scroll.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/fnkey.kti : 644
+[AFTER]  /etc/brltty/Input/hm/fnkey.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/braille.kti : 644
+[AFTER]  /etc/brltty/Input/hm/braille.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/f18.kti : 644
+[AFTER]  /etc/brltty/Input/hm/f18.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/pan.ktb : 644
+[AFTER]  /etc/brltty/Input/hm/pan.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/beetle.ktb : 644
+[AFTER]  /etc/brltty/Input/hm/beetle.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/qwerty.kti : 644
+[AFTER]  /etc/brltty/Input/hm/qwerty.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/edge.ktb : 644
+[AFTER]  /etc/brltty/Input/hm/edge.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/qwerty.ktb : 644
+[AFTER]  /etc/brltty/Input/hm/qwerty.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/f14.kti : 644
+[AFTER]  /etc/brltty/Input/hm/f14.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/scroll.kti : 644
+[AFTER]  /etc/brltty/Input/hm/scroll.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/common.kti : 644
+[AFTER]  /etc/brltty/Input/hm/common.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hm/right.kti : 644
+[AFTER]  /etc/brltty/Input/hm/right.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/xw : 755
+[AFTER]  /etc/brltty/Input/xw : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bl : 755
+[AFTER]  /etc/brltty/Input/bl : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bl/40_m20_m40.txt : 644
+[AFTER]  /etc/brltty/Input/bl/40_m20_m40.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bl/18.txt : 644
+[AFTER]  /etc/brltty/Input/bl/18.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu : 755
+[AFTER]  /etc/brltty/Input/eu : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/clio.ktb : 644
+[AFTER]  /etc/brltty/Input/eu/clio.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/sw12.kti : 644
+[AFTER]  /etc/brltty/Input/eu/sw12.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/esys_large.ktb : 644
+[AFTER]  /etc/brltty/Input/eu/esys_large.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/esys_small.ktb : 644
+[AFTER]  /etc/brltty/Input/eu/esys_small.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/esys_medium.ktb : 644
+[AFTER]  /etc/brltty/Input/eu/esys_medium.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/iris.ktb : 644
+[AFTER]  /etc/brltty/Input/eu/iris.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/all.txt : 644
+[AFTER]  /etc/brltty/Input/eu/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/braille.kti : 644
+[AFTER]  /etc/brltty/Input/eu/braille.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/joysticks.kti : 644
+[AFTER]  /etc/brltty/Input/eu/joysticks.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/esytime.ktb : 644
+[AFTER]  /etc/brltty/Input/eu/esytime.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/routing.kti : 644
+[AFTER]  /etc/brltty/Input/eu/routing.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/sw34.kti : 644
+[AFTER]  /etc/brltty/Input/eu/sw34.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/sw56.kti : 644
+[AFTER]  /etc/brltty/Input/eu/sw56.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/eu/common.kti : 644
+[AFTER]  /etc/brltty/Input/eu/common.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ce : 755
+[AFTER]  /etc/brltty/Input/ce : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ce/all.ktb : 644
+[AFTER]  /etc/brltty/Input/ce/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ce/novem.ktb : 644
+[AFTER]  /etc/brltty/Input/ce/novem.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ir : 755
+[AFTER]  /etc/brltty/Input/ir : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ir/brl.ktb : 644
+[AFTER]  /etc/brltty/Input/ir/brl.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ir/pc.ktb : 644
+[AFTER]  /etc/brltty/Input/ir/pc.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ir/all.kti : 644
+[AFTER]  /etc/brltty/Input/ir/all.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mn : 755
+[AFTER]  /etc/brltty/Input/mn : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mn/all.txt : 644
+[AFTER]  /etc/brltty/Input/mn/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vo : 755
+[AFTER]  /etc/brltty/Input/vo : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vo/bp.ktb : 644
+[AFTER]  /etc/brltty/Input/vo/bp.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vo/all.ktb : 644
+[AFTER]  /etc/brltty/Input/vo/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vo/all.kti : 644
+[AFTER]  /etc/brltty/Input/vo/all.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md : 755
+[AFTER]  /etc/brltty/Input/md : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/status.kti : 644
+[AFTER]  /etc/brltty/Input/md/status.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/fk_s.ktb : 644
+[AFTER]  /etc/brltty/Input/md/fk_s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/default.ktb : 644
+[AFTER]  /etc/brltty/Input/md/default.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/kbd.ktb : 644
+[AFTER]  /etc/brltty/Input/md/kbd.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/fkeys.kti : 644
+[AFTER]  /etc/brltty/Input/md/fkeys.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/fk.ktb : 644
+[AFTER]  /etc/brltty/Input/md/fk.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/keyboard.kti : 644
+[AFTER]  /etc/brltty/Input/md/keyboard.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/md/common.kti : 644
+[AFTER]  /etc/brltty/Input/md/common.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm : 755
+[AFTER]  /etc/brltty/Input/pm : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/status2.kti : 644
+[AFTER]  /etc/brltty/Input/pm/status2.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el_80.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el_80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/elb_tr_32.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/elb_tr_32.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/front9.kti : 644
+[AFTER]  /etc/brltty/Input/pm/front9.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/2d_l.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/2d_l.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/c.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/c.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/status13.kti : 644
+[AFTER]  /etc/brltty/Input/pm/status13.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el_40_p.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el_40_p.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/switches.kti : 644
+[AFTER]  /etc/brltty/Input/pm/switches.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el40c.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el40c.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el2d_80s.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el2d_80s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/front13.kti : 644
+[AFTER]  /etc/brltty/Input/pm/front13.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el40s.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el40s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el80_ii.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el80_ii.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/elba_20.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/elba_20.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/status0.kti : 644
+[AFTER]  /etc/brltty/Input/pm/status0.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/status22.kti : 644
+[AFTER]  /etc/brltty/Input/pm/status22.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/elb_tr_20.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/elb_tr_20.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el80c.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el80c.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el70s.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el70s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el80s.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el80s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el60c.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el60c.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/live.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/live.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/ib_80.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/ib_80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/elba_32.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/elba_32.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el66s.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el66s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/status20.kti : 644
+[AFTER]  /etc/brltty/Input/pm/status20.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/keyboard.kti : 644
+[AFTER]  /etc/brltty/Input/pm/keyboard.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/routing.kti : 644
+[AFTER]  /etc/brltty/Input/pm/routing.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el_2d_40.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el_2d_40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/c_486.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/c_486.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/2d_s.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/2d_s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/status4.kti : 644
+[AFTER]  /etc/brltty/Input/pm/status4.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el_2d_80.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el_2d_80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/keys.kti : 644
+[AFTER]  /etc/brltty/Input/pm/keys.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/bar.kti : 644
+[AFTER]  /etc/brltty/Input/pm/bar.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/trio.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/trio.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pm/el_2d_66.ktb : 644
+[AFTER]  /etc/brltty/Input/pm/el_2d_66.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt : 755
+[AFTER]  /etc/brltty/Input/mt : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/status.kti : 644
+[AFTER]  /etc/brltty/Input/mt/status.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/bd1_6.kti : 644
+[AFTER]  /etc/brltty/Input/mt/bd1_6.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/bd2.ktb : 644
+[AFTER]  /etc/brltty/Input/mt/bd2.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/bd1_6.ktb : 644
+[AFTER]  /etc/brltty/Input/mt/bd1_6.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/bd1_3.ktb : 644
+[AFTER]  /etc/brltty/Input/mt/bd1_3.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/bd1_3s.ktb : 644
+[AFTER]  /etc/brltty/Input/mt/bd1_3s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/bd1_6s.ktb : 644
+[AFTER]  /etc/brltty/Input/mt/bd1_6s.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mt/bd1_3.kti : 644
+[AFTER]  /etc/brltty/Input/mt/bd1_3.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/toggle.kti : 644
+[AFTER]  /etc/brltty/Input/toggle.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/chords.kti : 644
+[AFTER]  /etc/brltty/Input/chords.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/tt : 755
+[AFTER]  /etc/brltty/Input/tt : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/tt/all.txt : 644
+[AFTER]  /etc/brltty/Input/tt/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/lt : 755
+[AFTER]  /etc/brltty/Input/lt : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/lt/all.txt : 644
+[AFTER]  /etc/brltty/Input/lt/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mm : 755
+[AFTER]  /etc/brltty/Input/mm : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mm/pocket.ktb : 644
+[AFTER]  /etc/brltty/Input/mm/pocket.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mm/smart.ktb : 644
+[AFTER]  /etc/brltty/Input/mm/smart.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mm/common.kti : 644
+[AFTER]  /etc/brltty/Input/mm/common.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bd : 755
+[AFTER]  /etc/brltty/Input/bd : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bd/all.txt : 644
+[AFTER]  /etc/brltty/Input/bd/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vd : 755
+[AFTER]  /etc/brltty/Input/vd : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vd/all.txt : 644
+[AFTER]  /etc/brltty/Input/vd/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/cb : 755
+[AFTER]  /etc/brltty/Input/cb : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/cb/all.ktb : 644
+[AFTER]  /etc/brltty/Input/cb/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ec : 755
+[AFTER]  /etc/brltty/Input/ec : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ec/all.txt : 644
+[AFTER]  /etc/brltty/Input/ec/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ec/spanish.txt : 644
+[AFTER]  /etc/brltty/Input/ec/spanish.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm : 755
+[AFTER]  /etc/brltty/Input/bm : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/sv.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/sv.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/conny.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/conny.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/inka.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/inka.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/status.kti : 644
+[AFTER]  /etc/brltty/Input/bm/status.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/ultra.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/ultra.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/b2g.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/b2g.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/vk.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/vk.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/b9b11b10.kti : 644
+[AFTER]  /etc/brltty/Input/bm/b9b11b10.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/front6.kti : 644
+[AFTER]  /etc/brltty/Input/bm/front6.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/orbit.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/orbit.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/display7.kti : 644
+[AFTER]  /etc/brltty/Input/bm/display7.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/horizontal.kti : 644
+[AFTER]  /etc/brltty/Input/bm/horizontal.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/routing6.kti : 644
+[AFTER]  /etc/brltty/Input/bm/routing6.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/display6.kti : 644
+[AFTER]  /etc/brltty/Input/bm/display6.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/default.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/default.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/dm80p.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/dm80p.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/front10.kti : 644
+[AFTER]  /etc/brltty/Input/bm/front10.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/b9b10.kti : 644
+[AFTER]  /etc/brltty/Input/bm/b9b10.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/pronto.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/pronto.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/v40.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/v40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/rb.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/rb.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/pro.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/pro.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/pv.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/pv.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/vertical.kti : 644
+[AFTER]  /etc/brltty/Input/bm/vertical.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/keyboard.kti : 644
+[AFTER]  /etc/brltty/Input/bm/keyboard.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/routing.kti : 644
+[AFTER]  /etc/brltty/Input/bm/routing.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/command.kti : 644
+[AFTER]  /etc/brltty/Input/bm/command.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/connect.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/connect.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/routing7.kti : 644
+[AFTER]  /etc/brltty/Input/bm/routing7.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/d6.kti : 644
+[AFTER]  /etc/brltty/Input/bm/d6.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/v80.ktb : 644
+[AFTER]  /etc/brltty/Input/bm/v80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bm/wheels.kti : 644
+[AFTER]  /etc/brltty/Input/bm/wheels.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/tn : 755
+[AFTER]  /etc/brltty/Input/tn : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/tn/all.txt : 644
+[AFTER]  /etc/brltty/Input/tn/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vs : 755
+[AFTER]  /etc/brltty/Input/vs : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vs/all.txt : 644
+[AFTER]  /etc/brltty/Input/vs/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bp : 755
+[AFTER]  /etc/brltty/Input/bp : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bp/all.kti : 644
+[AFTER]  /etc/brltty/Input/bp/all.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mb : 755
+[AFTER]  /etc/brltty/Input/mb : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/mb/all.txt : 644
+[AFTER]  /etc/brltty/Input/mb/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/lb : 755
+[AFTER]  /etc/brltty/Input/lb : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/lb/all.txt : 644
+[AFTER]  /etc/brltty/Input/lb/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al : 755
+[AFTER]  /etc/brltty/Input/al : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/bc-smartpad.kti : 644
+[AFTER]  /etc/brltty/Input/al/bc-smartpad.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/abt_small.ktb : 644
+[AFTER]  /etc/brltty/Input/al/abt_small.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/abt_large.ktb : 644
+[AFTER]  /etc/brltty/Input/al/abt_large.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/abt_extra.kti : 644
+[AFTER]  /etc/brltty/Input/al/abt_extra.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/abt_basic.kti : 644
+[AFTER]  /etc/brltty/Input/al/abt_basic.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/sat_large.ktb : 644
+[AFTER]  /etc/brltty/Input/al/sat_large.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/el.ktb : 644
+[AFTER]  /etc/brltty/Input/al/el.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/bc-thumb.kti : 644
+[AFTER]  /etc/brltty/Input/al/bc-thumb.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/voyager.ktb : 644
+[AFTER]  /etc/brltty/Input/al/voyager.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/bc640.ktb : 644
+[AFTER]  /etc/brltty/Input/al/bc640.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/bc-etouch.kti : 644
+[AFTER]  /etc/brltty/Input/al/bc-etouch.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/bc680.ktb : 644
+[AFTER]  /etc/brltty/Input/al/bc680.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/sat_small.ktb : 644
+[AFTER]  /etc/brltty/Input/al/sat_small.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/sat_basic.kti : 644
+[AFTER]  /etc/brltty/Input/al/sat_basic.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/bc.kti : 644
+[AFTER]  /etc/brltty/Input/al/bc.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/al/sat_extra.kti : 644
+[AFTER]  /etc/brltty/Input/al/sat_extra.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pg : 755
+[AFTER]  /etc/brltty/Input/pg : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/pg/all.ktb : 644
+[AFTER]  /etc/brltty/Input/pg/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vr : 755
+[AFTER]  /etc/brltty/Input/vr : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/vr/all.txt : 644
+[AFTER]  /etc/brltty/Input/vr/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw : 755
+[AFTER]  /etc/brltty/Input/hw : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/joystick.kti : 644
+[AFTER]  /etc/brltty/Input/hw/joystick.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/BI14.ktb : 644
+[AFTER]  /etc/brltty/Input/hw/BI14.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/BI40.ktb : 644
+[AFTER]  /etc/brltty/Input/hw/BI40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/touch.ktb : 644
+[AFTER]  /etc/brltty/Input/hw/touch.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/braille.kti : 644
+[AFTER]  /etc/brltty/Input/hw/braille.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/thumb.kti : 644
+[AFTER]  /etc/brltty/Input/hw/thumb.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/B80.ktb : 644
+[AFTER]  /etc/brltty/Input/hw/B80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/command.kti : 644
+[AFTER]  /etc/brltty/Input/hw/command.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hw/BI32.ktb : 644
+[AFTER]  /etc/brltty/Input/hw/BI32.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hd : 755
+[AFTER]  /etc/brltty/Input/hd : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hd/pfl.ktb : 644
+[AFTER]  /etc/brltty/Input/hd/pfl.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/hd/mbl.ktb : 644
+[AFTER]  /etc/brltty/Input/hd/mbl.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/np : 755
+[AFTER]  /etc/brltty/Input/np : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/np/all.ktb : 644
+[AFTER]  /etc/brltty/Input/np/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs : 755
+[AFTER]  /etc/brltty/Input/fs : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/focus_large.ktb : 644
+[AFTER]  /etc/brltty/Input/fs/focus_large.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/focus_basic.kti : 644
+[AFTER]  /etc/brltty/Input/fs/focus_basic.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/focus_small.ktb : 644
+[AFTER]  /etc/brltty/Input/fs/focus_small.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/rockers.kti : 644
+[AFTER]  /etc/brltty/Input/fs/rockers.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/common.kti : 644
+[AFTER]  /etc/brltty/Input/fs/common.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/focus_basic.ktb : 644
+[AFTER]  /etc/brltty/Input/fs/focus_basic.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/bumpers.kti : 644
+[AFTER]  /etc/brltty/Input/fs/bumpers.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/fs/pacmate.ktb : 644
+[AFTER]  /etc/brltty/Input/fs/pacmate.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bn : 755
+[AFTER]  /etc/brltty/Input/bn : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bn/input.kti : 644
+[AFTER]  /etc/brltty/Input/bn/input.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bn/all.ktb : 644
+[AFTER]  /etc/brltty/Input/bn/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts : 755
+[AFTER]  /etc/brltty/Input/ts : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/pb80.ktb : 644
+[AFTER]  /etc/brltty/Input/ts/pb80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/nav_large.kti : 644
+[AFTER]  /etc/brltty/Input/ts/nav_large.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/pb_large.kti : 644
+[AFTER]  /etc/brltty/Input/ts/pb_large.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/nav20.ktb : 644
+[AFTER]  /etc/brltty/Input/ts/nav20.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/nav80.ktb : 644
+[AFTER]  /etc/brltty/Input/ts/nav80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/pb65.ktb : 644
+[AFTER]  /etc/brltty/Input/ts/pb65.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/nav_small.kti : 644
+[AFTER]  /etc/brltty/Input/ts/nav_small.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/routing.kti : 644
+[AFTER]  /etc/brltty/Input/ts/routing.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/nav40.ktb : 644
+[AFTER]  /etc/brltty/Input/ts/nav40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/pb_small.kti : 644
+[AFTER]  /etc/brltty/Input/ts/pb_small.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/nav.kti : 644
+[AFTER]  /etc/brltty/Input/ts/nav.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/pb.kti : 644
+[AFTER]  /etc/brltty/Input/ts/pb.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ts/pb40.ktb : 644
+[AFTER]  /etc/brltty/Input/ts/pb40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/sk : 755
+[AFTER]  /etc/brltty/Input/sk : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/sk/bdp.ktb : 644
+[AFTER]  /etc/brltty/Input/sk/bdp.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/sk/ntk.ktb : 644
+[AFTER]  /etc/brltty/Input/sk/ntk.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ba : 755
+[AFTER]  /etc/brltty/Input/ba : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ba/all.txt : 644
+[AFTER]  /etc/brltty/Input/ba/all.txt : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ic : 755
+[AFTER]  /etc/brltty/Input/ic : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ic/all.ktb : 644
+[AFTER]  /etc/brltty/Input/ic/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht : 755
+[AFTER]  /etc/brltty/Input/ht : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/mdlr.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/mdlr.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/bs.kti : 644
+[AFTER]  /etc/brltty/Input/ht/bs.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/bs80.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/bs80.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/joystick.kti : 644
+[AFTER]  /etc/brltty/Input/ht/joystick.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/bkwm.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/bkwm.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/input.kti : 644
+[AFTER]  /etc/brltty/Input/ht/input.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/wave.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/wave.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/mc88.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/mc88.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/cb40.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/cb40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/me88.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/me88.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/me64.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/me64.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/brln.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/brln.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/as40.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/as40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/easy.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/easy.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/keypad.kti : 644
+[AFTER]  /etc/brltty/Input/ht/keypad.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/me.kti : 644
+[AFTER]  /etc/brltty/Input/ht/me.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/dots.kti : 644
+[AFTER]  /etc/brltty/Input/ht/dots.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/ab40.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/ab40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/alo.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/alo.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/bb.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/bb.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/rockers.kti : 644
+[AFTER]  /etc/brltty/Input/ht/rockers.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/bs40.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/bs40.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/ht/ac4.ktb : 644
+[AFTER]  /etc/brltty/Input/ht/ac4.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/menu.kti : 644
+[AFTER]  /etc/brltty/Input/menu.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bg : 755
+[AFTER]  /etc/brltty/Input/bg : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Input/bg/all.ktb : 644
+[AFTER]  /etc/brltty/Input/bg/all.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Attributes : 755
+[AFTER]  /etc/brltty/Attributes : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Attributes/left_right.atb : 644
+[AFTER]  /etc/brltty/Attributes/left_right.atb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Attributes/upper_lower.atb : 644
+[AFTER]  /etc/brltty/Attributes/upper_lower.atb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Attributes/invleft_right.atb : 644
+[AFTER]  /etc/brltty/Attributes/invleft_right.atb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard : 755
+[AFTER]  /etc/brltty/Keyboard : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/braille.ktb : 644
+[AFTER]  /etc/brltty/Keyboard/braille.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/sun_type6.ktb : 644
+[AFTER]  /etc/brltty/Keyboard/sun_type6.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/kp_say.kti : 644
+[AFTER]  /etc/brltty/Keyboard/kp_say.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/kp_speak.kti : 644
+[AFTER]  /etc/brltty/Keyboard/kp_speak.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/braille.kti : 644
+[AFTER]  /etc/brltty/Keyboard/braille.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/desktop.kti : 644
+[AFTER]  /etc/brltty/Keyboard/desktop.kti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/laptop.ktb : 644
+[AFTER]  /etc/brltty/Keyboard/laptop.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/keypad.ktb : 644
+[AFTER]  /etc/brltty/Keyboard/keypad.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Keyboard/desktop.ktb : 644
+[AFTER]  /etc/brltty/Keyboard/desktop.ktb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction : 755
+[AFTER]  /etc/brltty/Contraction : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/de-vollschrift.ctb : 644
+[AFTER]  /etc/brltty/Contraction/de-vollschrift.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/zh-tw.ctb : 644
+[AFTER]  /etc/brltty/Contraction/zh-tw.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/pt.ctb : 644
+[AFTER]  /etc/brltty/Contraction/pt.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/mg.ctb : 644
+[AFTER]  /etc/brltty/Contraction/mg.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/am.ctb : 644
+[AFTER]  /etc/brltty/Contraction/am.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/zh-tw-ucb.ctb : 644
+[AFTER]  /etc/brltty/Contraction/zh-tw-ucb.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/countries.cti : 644
+[AFTER]  /etc/brltty/Contraction/countries.cti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/ko.ctb : 644
+[AFTER]  /etc/brltty/Contraction/ko.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/sw.ctb : 644
+[AFTER]  /etc/brltty/Contraction/sw.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/fr-abrege.ctb : 644
+[AFTER]  /etc/brltty/Contraction/fr-abrege.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/nabcc.cti : 644
+[AFTER]  /etc/brltty/Contraction/nabcc.cti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/ha.ctb : 644
+[AFTER]  /etc/brltty/Contraction/ha.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/th.ctb : 644
+[AFTER]  /etc/brltty/Contraction/th.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/letters-latin.cti : 644
+[AFTER]  /etc/brltty/Contraction/letters-latin.cti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/zu.ctb : 644
+[AFTER]  /etc/brltty/Contraction/zu.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/id.ctb : 644
+[AFTER]  /etc/brltty/Contraction/id.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/spaces.cti : 644
+[AFTER]  /etc/brltty/Contraction/spaces.cti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/ko-g1.ctb : 644
+[AFTER]  /etc/brltty/Contraction/ko-g1.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/af.ctb : 644
+[AFTER]  /etc/brltty/Contraction/af.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/si.ctb : 644
+[AFTER]  /etc/brltty/Contraction/si.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/mun.ctb : 644
+[AFTER]  /etc/brltty/Contraction/mun.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/latex-access.ctb : 755
+[MISMATCH FILE] /etc/brltty/Contraction/latex-access.ctb (755 != 644)
+[AFTER]  /etc/brltty/Contraction/latex-access.ctb : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/ko-g2.ctb : 644
+[AFTER]  /etc/brltty/Contraction/ko-g2.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/de-kurzschrift-1998.ctb : 644
+[AFTER]  /etc/brltty/Contraction/de-kurzschrift-1998.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/nl.ctb : 644
+[AFTER]  /etc/brltty/Contraction/nl.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/ja.ctb : 644
+[AFTER]  /etc/brltty/Contraction/ja.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/en-us-g2.ctb : 644
+[AFTER]  /etc/brltty/Contraction/en-us-g2.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/de-kurzschrift-wort.cti : 644
+[AFTER]  /etc/brltty/Contraction/de-kurzschrift-wort.cti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/lt.ctb : 644
+[AFTER]  /etc/brltty/Contraction/lt.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/ipa.ctb : 644
+[AFTER]  /etc/brltty/Contraction/ipa.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/fr-integral.ctb : 644
+[AFTER]  /etc/brltty/Contraction/fr-integral.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/de-kurzschrift.ctb : 644
+[AFTER]  /etc/brltty/Contraction/de-kurzschrift.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/de-basis.ctb : 644
+[AFTER]  /etc/brltty/Contraction/de-basis.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/ny.ctb : 644
+[AFTER]  /etc/brltty/Contraction/ny.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/es.ctb : 644
+[AFTER]  /etc/brltty/Contraction/es.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/de-kurzschrift-2015.ctb : 644
+[AFTER]  /etc/brltty/Contraction/de-kurzschrift-2015.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Contraction/en-ueb-g2.ctb : 644
+[AFTER]  /etc/brltty/Contraction/en-ueb-g2.ctb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text : 755
+[AFTER]  /etc/brltty/Text : 755
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sv-1996.ttb : 644
+[AFTER]  /etc/brltty/Text/sv-1996.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/mni.ttb : 644
+[AFTER]  /etc/brltty/Text/mni.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/gd.ttb : 644
+[AFTER]  /etc/brltty/Text/gd.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/kok.ttb : 644
+[AFTER]  /etc/brltty/Text/kok.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/cs.ttb : 644
+[AFTER]  /etc/brltty/Text/cs.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/nl_BE.ttb : 644
+[AFTER]  /etc/brltty/Text/nl_BE.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/pt.ttb : 644
+[AFTER]  /etc/brltty/Text/pt.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/bn.ttb : 644
+[AFTER]  /etc/brltty/Text/bn.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/boxes.tti : 644
+[AFTER]  /etc/brltty/Text/boxes.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/telugu.tti : 644
+[AFTER]  /etc/brltty/Text/telugu.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/en_CA.ttb : 644
+[AFTER]  /etc/brltty/Text/en_CA.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/fr-cbifs.ttb : 644
+[AFTER]  /etc/brltty/Text/fr-cbifs.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/se.ttb : 644
+[AFTER]  /etc/brltty/Text/se.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ltr-latin.tti : 644
+[AFTER]  /etc/brltty/Text/ltr-latin.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/malayalam.tti : 644
+[AFTER]  /etc/brltty/Text/malayalam.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/win-1252.tti : 644
+[AFTER]  /etc/brltty/Text/win-1252.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/as.ttb : 644
+[AFTER]  /etc/brltty/Text/as.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/hu.ttb : 644
+[AFTER]  /etc/brltty/Text/hu.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/gon.ttb : 644
+[AFTER]  /etc/brltty/Text/gon.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/en.ttb : 644
+[AFTER]  /etc/brltty/Text/en.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ctl-latin.tti : 644
+[AFTER]  /etc/brltty/Text/ctl-latin.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/nl_NL.ttb : 644
+[AFTER]  /etc/brltty/Text/nl_NL.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/hr.ttb : 644
+[AFTER]  /etc/brltty/Text/hr.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/oriya.tti : 644
+[AFTER]  /etc/brltty/Text/oriya.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ltr-dot8.tti : 644
+[AFTER]  /etc/brltty/Text/ltr-dot8.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/punc-basic.tti : 644
+[AFTER]  /etc/brltty/Text/punc-basic.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/fr.ttb : 644
+[AFTER]  /etc/brltty/Text/fr.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/te.ttb : 644
+[AFTER]  /etc/brltty/Text/te.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/he.ttb : 644
+[AFTER]  /etc/brltty/Text/he.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ar.ttb : 644
+[AFTER]  /etc/brltty/Text/ar.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/da-1252.ttb : 644
+[AFTER]  /etc/brltty/Text/da-1252.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/en-chess.tti : 644
+[AFTER]  /etc/brltty/Text/en-chess.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/no-generic.ttb : 644
+[AFTER]  /etc/brltty/Text/no-generic.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/tr.ttb : 644
+[AFTER]  /etc/brltty/Text/tr.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ltr-tibetan.tti : 644
+[AFTER]  /etc/brltty/Text/ltr-tibetan.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/mg.ttb : 644
+[AFTER]  /etc/brltty/Text/mg.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ltr-alias.tti : 644
+[AFTER]  /etc/brltty/Text/ltr-alias.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/fr-vs.ttb : 644
+[AFTER]  /etc/brltty/Text/fr-vs.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/num-nemeth.tti : 644
+[AFTER]  /etc/brltty/Text/num-nemeth.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/dra.ttb : 644
+[AFTER]  /etc/brltty/Text/dra.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ascii-basic.tti : 644
+[AFTER]  /etc/brltty/Text/ascii-basic.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/gujarati.tti : 644
+[AFTER]  /etc/brltty/Text/gujarati.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ltr-cyrillic.tti : 644
+[AFTER]  /etc/brltty/Text/ltr-cyrillic.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/fr_CA.ttb : 644
+[AFTER]  /etc/brltty/Text/fr_CA.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/et.ttb : 644
+[AFTER]  /etc/brltty/Text/et.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/is.ttb : 644
+[AFTER]  /etc/brltty/Text/is.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/num-nemd8.tti : 644
+[AFTER]  /etc/brltty/Text/num-nemd8.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/num-dot6.tti : 644
+[AFTER]  /etc/brltty/Text/num-dot6.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/num-dot8.tti : 644
+[AFTER]  /etc/brltty/Text/num-dot8.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sat.ttb : 644
+[AFTER]  /etc/brltty/Text/sat.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/kha.ttb : 644
+[AFTER]  /etc/brltty/Text/kha.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/fr_FR.ttb : 644
+[AFTER]  /etc/brltty/Text/fr_FR.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sv.ttb : 644
+[AFTER]  /etc/brltty/Text/sv.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/brf.ttb : 644
+[AFTER]  /etc/brltty/Text/brf.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sa.ttb : 644
+[AFTER]  /etc/brltty/Text/sa.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/bo.ttb : 644
+[AFTER]  /etc/brltty/Text/bo.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/bra.ttb : 644
+[AFTER]  /etc/brltty/Text/bra.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ta.ttb : 644
+[AFTER]  /etc/brltty/Text/ta.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/greek.tti : 644
+[AFTER]  /etc/brltty/Text/greek.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/mwr.ttb : 644
+[AFTER]  /etc/brltty/Text/mwr.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/mi.ttb : 644
+[AFTER]  /etc/brltty/Text/mi.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ro.ttb : 644
+[AFTER]  /etc/brltty/Text/ro.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/mr.ttb : 644
+[AFTER]  /etc/brltty/Text/mr.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/es.ttb : 644
+[AFTER]  /etc/brltty/Text/es.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/no.ttb : 644
+[AFTER]  /etc/brltty/Text/no.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/fr-2007.ttb : 644
+[AFTER]  /etc/brltty/Text/fr-2007.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/punc-alternate.tti : 644
+[AFTER]  /etc/brltty/Text/punc-alternate.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/cy.ttb : 644
+[AFTER]  /etc/brltty/Text/cy.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/bh.ttb : 644
+[AFTER]  /etc/brltty/Text/bh.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/de-chess.tti : 644
+[AFTER]  /etc/brltty/Text/de-chess.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/bengali.tti : 644
+[AFTER]  /etc/brltty/Text/bengali.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ru.ttb : 644
+[AFTER]  /etc/brltty/Text/ru.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sv-1989.ttb : 644
+[AFTER]  /etc/brltty/Text/sv-1989.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/uk.ttb : 644
+[AFTER]  /etc/brltty/Text/uk.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/it.ttb : 644
+[AFTER]  /etc/brltty/Text/it.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/el.ttb : 644
+[AFTER]  /etc/brltty/Text/el.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/mun.ttb : 644
+[AFTER]  /etc/brltty/Text/mun.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/pa.ttb : 644
+[AFTER]  /etc/brltty/Text/pa.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/kn.ttb : 644
+[AFTER]  /etc/brltty/Text/kn.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/da.ttb : 644
+[AFTER]  /etc/brltty/Text/da.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ne.ttb : 644
+[AFTER]  /etc/brltty/Text/ne.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/common.tti : 644
+[AFTER]  /etc/brltty/Text/common.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/new.ttb : 644
+[AFTER]  /etc/brltty/Text/new.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/kannada.tti : 644
+[AFTER]  /etc/brltty/Text/kannada.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/devanagari.tti : 644
+[AFTER]  /etc/brltty/Text/devanagari.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/en-na-ascii.tti : 644
+[AFTER]  /etc/brltty/Text/en-na-ascii.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/vi.ttb : 644
+[AFTER]  /etc/brltty/Text/vi.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/nl.ttb : 644
+[AFTER]  /etc/brltty/Text/nl.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sl.ttb : 644
+[AFTER]  /etc/brltty/Text/sl.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/or.ttb : 644
+[AFTER]  /etc/brltty/Text/or.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/nwc.ttb : 644
+[AFTER]  /etc/brltty/Text/nwc.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/mt.ttb : 644
+[AFTER]  /etc/brltty/Text/mt.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/alias.tti : 644
+[AFTER]  /etc/brltty/Text/alias.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/de.ttb : 644
+[AFTER]  /etc/brltty/Text/de.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/da-lt.ttb : 644
+[AFTER]  /etc/brltty/Text/da-lt.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/blocks.tti : 644
+[AFTER]  /etc/brltty/Text/blocks.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sw.ttb : 644
+[AFTER]  /etc/brltty/Text/sw.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/tamil.tti : 644
+[AFTER]  /etc/brltty/Text/tamil.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sd.ttb : 644
+[AFTER]  /etc/brltty/Text/sd.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/pi.ttb : 644
+[AFTER]  /etc/brltty/Text/pi.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/bg.ttb : 644
+[AFTER]  /etc/brltty/Text/bg.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/eo.ttb : 644
+[AFTER]  /etc/brltty/Text/eo.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/en-nabcc.ttb : 644
+[AFTER]  /etc/brltty/Text/en-nabcc.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/en_GB.ttb : 644
+[AFTER]  /etc/brltty/Text/en_GB.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/punc-tibetan.tti : 644
+[AFTER]  /etc/brltty/Text/punc-tibetan.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/no-oup.ttb : 644
+[AFTER]  /etc/brltty/Text/no-oup.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/hy.ttb : 644
+[AFTER]  /etc/brltty/Text/hy.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/kru.ttb : 644
+[AFTER]  /etc/brltty/Text/kru.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/num-french.tti : 644
+[AFTER]  /etc/brltty/Text/num-french.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/hi.ttb : 644
+[AFTER]  /etc/brltty/Text/hi.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/awa.ttb : 644
+[AFTER]  /etc/brltty/Text/awa.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/fi.ttb : 644
+[AFTER]  /etc/brltty/Text/fi.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ga.ttb : 644
+[AFTER]  /etc/brltty/Text/ga.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/gurmukhi.tti : 644
+[AFTER]  /etc/brltty/Text/gurmukhi.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/sk.ttb : 644
+[AFTER]  /etc/brltty/Text/sk.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/lv.ttb : 644
+[AFTER]  /etc/brltty/Text/lv.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/lt.ttb : 644
+[AFTER]  /etc/brltty/Text/lt.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/en_US.ttb : 644
+[AFTER]  /etc/brltty/Text/en_US.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/num-alias.tti : 644
+[AFTER]  /etc/brltty/Text/num-alias.tti : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/gu.ttb : 644
+[AFTER]  /etc/brltty/Text/gu.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/ml.ttb : 644
+[AFTER]  /etc/brltty/Text/ml.ttb : 644
+----------------------------------------
+[BEFORE] /etc/brltty/Text/pl.ttb : 644
+[AFTER]  /etc/brltty/Text/pl.ttb : 644
+----------------------------------------
+[BEFORE] /etc/host.conf : 644
+[AFTER]  /etc/host.conf : 644
+----------------------------------------
+[BEFORE] /etc/vim : 755
+[AFTER]  /etc/vim : 755
+----------------------------------------
+[BEFORE] /etc/vim/vimrc.tiny : 644
+[AFTER]  /etc/vim/vimrc.tiny : 644
+----------------------------------------
+[BEFORE] /etc/vim/vimrc : 644
+[AFTER]  /etc/vim/vimrc : 644
+----------------------------------------
+[BEFORE] /etc/libnl-3 : 755
+[AFTER]  /etc/libnl-3 : 755
+----------------------------------------
+[BEFORE] /etc/libnl-3/classid : 644
+[AFTER]  /etc/libnl-3/classid : 644
+----------------------------------------
+[BEFORE] /etc/libnl-3/pktloc : 644
+[AFTER]  /etc/libnl-3/pktloc : 644
+----------------------------------------
+[BEFORE] /etc/e2scrub.conf : 644
+[AFTER]  /etc/e2scrub.conf : 644
+----------------------------------------
+[BEFORE] /etc/printcap : 777
+[ALERT] World-writable detected : /etc/printcap
+[MISMATCH FILE] /etc/printcap (777 != 644)
+[AFTER]  /etc/printcap : 777
+----------------------------------------
+[BEFORE] /etc/default : 755
+[AFTER]  /etc/default : 755
+----------------------------------------
+[BEFORE] /etc/default/acpi-support : 644
+[AFTER]  /etc/default/acpi-support : 644
+----------------------------------------
+[BEFORE] /etc/default/bsdmainutils : 644
+[AFTER]  /etc/default/bsdmainutils : 644
+----------------------------------------
+[BEFORE] /etc/default/avahi-daemon : 644
+[AFTER]  /etc/default/avahi-daemon : 644
+----------------------------------------
+[BEFORE] /etc/default/useradd : 644
+[AFTER]  /etc/default/useradd : 644
+----------------------------------------
+[BEFORE] /etc/default/saned : 644
+[AFTER]  /etc/default/saned : 644
+----------------------------------------
+[BEFORE] /etc/default/console-setup : 644
+[AFTER]  /etc/default/console-setup : 644
+----------------------------------------
+[BEFORE] /etc/default/intel-microcode : 644
+[AFTER]  /etc/default/intel-microcode : 644
+----------------------------------------
+[BEFORE] /etc/default/openvpn : 644
+[AFTER]  /etc/default/openvpn : 644
+----------------------------------------
+[BEFORE] /etc/default/irqbalance : 644
+[AFTER]  /etc/default/irqbalance : 644
+----------------------------------------
+[BEFORE] /etc/default/cron : 644
+[AFTER]  /etc/default/cron : 644
+----------------------------------------
+[BEFORE] /etc/default/nss : 644
+[AFTER]  /etc/default/nss : 644
+----------------------------------------
+[BEFORE] /etc/default/quota : 644
+[AFTER]  /etc/default/quota : 644
+----------------------------------------
+[BEFORE] /etc/default/kerneloops : 644
+[AFTER]  /etc/default/kerneloops : 644
+----------------------------------------
+[BEFORE] /etc/default/apport : 644
+[AFTER]  /etc/default/apport : 644
+----------------------------------------
+[BEFORE] /etc/default/networkd-dispatcher : 644
+[AFTER]  /etc/default/networkd-dispatcher : 644
+----------------------------------------
+[BEFORE] /etc/default/dbus : 644
+[AFTER]  /etc/default/dbus : 644
+----------------------------------------
+[BEFORE] /etc/default/im-config : 644
+[AFTER]  /etc/default/im-config : 644
+----------------------------------------
+[BEFORE] /etc/default/ufw : 644
+[AFTER]  /etc/default/ufw : 644
+----------------------------------------
+[BEFORE] /etc/default/grub.d : 755
+[AFTER]  /etc/default/grub.d : 755
+----------------------------------------
+[BEFORE] /etc/default/grub.d/init-select.cfg : 644
+[AFTER]  /etc/default/grub.d/init-select.cfg : 644
+----------------------------------------
+[BEFORE] /etc/default/amd64-microcode : 644
+[AFTER]  /etc/default/amd64-microcode : 644
+----------------------------------------
+[BEFORE] /etc/default/grub : 644
+[AFTER]  /etc/default/grub : 644
+----------------------------------------
+[BEFORE] /etc/default/acpid : 644
+[AFTER]  /etc/default/acpid : 644
+----------------------------------------
+[BEFORE] /etc/default/crda : 644
+[AFTER]  /etc/default/crda : 644
+----------------------------------------
+[BEFORE] /etc/default/alsa : 644
+[AFTER]  /etc/default/alsa : 644
+----------------------------------------
+[BEFORE] /etc/default/keyboard : 664
+[MISMATCH FILE] /etc/default/keyboard (664 != 644)
+[AFTER]  /etc/default/keyboard : 644
+----------------------------------------
+[BEFORE] /etc/default/rsync : 644
+[AFTER]  /etc/default/rsync : 644
+----------------------------------------
+[BEFORE] /etc/default/locale : 644
+[AFTER]  /etc/default/locale : 644
+----------------------------------------
+[BEFORE] /etc/default/anacron : 644
+[AFTER]  /etc/default/anacron : 644
+----------------------------------------
+[BEFORE] /etc/vtrgb : 777
+[ALERT] World-writable detected : /etc/vtrgb
+[MISMATCH FILE] /etc/vtrgb (777 != 644)
+[AFTER]  /etc/vtrgb : 777
+----------------------------------------
+[BEFORE] /etc/bash.bashrc : 644
+[AFTER]  /etc/bash.bashrc : 644
+----------------------------------------
+[BEFORE] /etc/rc4.d : 755
+[AFTER]  /etc/rc4.d : 755
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01apport : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01apport
+[MISMATCH FILE] /etc/rc4.d/S01apport (777 != 644)
+[AFTER]  /etc/rc4.d/S01apport : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01console-setup.sh : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01console-setup.sh
+[MISMATCH FILE] /etc/rc4.d/S01console-setup.sh (777 != 644)
+[AFTER]  /etc/rc4.d/S01console-setup.sh : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01saned : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01saned
+[MISMATCH FILE] /etc/rc4.d/S01saned (777 != 644)
+[AFTER]  /etc/rc4.d/S01saned : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01kerneloops : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01kerneloops
+[MISMATCH FILE] /etc/rc4.d/S01kerneloops (777 != 644)
+[AFTER]  /etc/rc4.d/S01kerneloops : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01cups-browsed : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01cups-browsed
+[MISMATCH FILE] /etc/rc4.d/S01cups-browsed (777 != 644)
+[AFTER]  /etc/rc4.d/S01cups-browsed : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01grub-common : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01grub-common
+[MISMATCH FILE] /etc/rc4.d/S01grub-common (777 != 644)
+[AFTER]  /etc/rc4.d/S01grub-common : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01whoopsie : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01whoopsie
+[MISMATCH FILE] /etc/rc4.d/S01whoopsie (777 != 644)
+[AFTER]  /etc/rc4.d/S01whoopsie : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01rsyslog : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01rsyslog
+[MISMATCH FILE] /etc/rc4.d/S01rsyslog (777 != 644)
+[AFTER]  /etc/rc4.d/S01rsyslog : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01unattended-upgrades : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01unattended-upgrades
+[MISMATCH FILE] /etc/rc4.d/S01unattended-upgrades (777 != 644)
+[AFTER]  /etc/rc4.d/S01unattended-upgrades : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01avahi-daemon : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01avahi-daemon
+[MISMATCH FILE] /etc/rc4.d/S01avahi-daemon (777 != 644)
+[AFTER]  /etc/rc4.d/S01avahi-daemon : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01plymouth : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01plymouth
+[MISMATCH FILE] /etc/rc4.d/S01plymouth (777 != 644)
+[AFTER]  /etc/rc4.d/S01plymouth : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01anacron : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01anacron
+[MISMATCH FILE] /etc/rc4.d/S01anacron (777 != 644)
+[AFTER]  /etc/rc4.d/S01anacron : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01cups : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01cups
+[MISMATCH FILE] /etc/rc4.d/S01cups (777 != 644)
+[AFTER]  /etc/rc4.d/S01cups : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01acpid : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01acpid
+[MISMATCH FILE] /etc/rc4.d/S01acpid (777 != 644)
+[AFTER]  /etc/rc4.d/S01acpid : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01spice-vdagent : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01spice-vdagent
+[MISMATCH FILE] /etc/rc4.d/S01spice-vdagent (777 != 644)
+[AFTER]  /etc/rc4.d/S01spice-vdagent : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01uuidd : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01uuidd
+[MISMATCH FILE] /etc/rc4.d/S01uuidd (777 != 644)
+[AFTER]  /etc/rc4.d/S01uuidd : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01openvpn : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01openvpn
+[MISMATCH FILE] /etc/rc4.d/S01openvpn (777 != 644)
+[AFTER]  /etc/rc4.d/S01openvpn : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/K01speech-dispatcher : 777
+[ALERT] World-writable detected : /etc/rc4.d/K01speech-dispatcher
+[MISMATCH FILE] /etc/rc4.d/K01speech-dispatcher (777 != 644)
+[AFTER]  /etc/rc4.d/K01speech-dispatcher : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01gdm3 : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01gdm3
+[MISMATCH FILE] /etc/rc4.d/S01gdm3 (777 != 644)
+[AFTER]  /etc/rc4.d/S01gdm3 : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01dbus : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01dbus
+[MISMATCH FILE] /etc/rc4.d/S01dbus (777 != 644)
+[AFTER]  /etc/rc4.d/S01dbus : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01cron : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01cron
+[MISMATCH FILE] /etc/rc4.d/S01cron (777 != 644)
+[AFTER]  /etc/rc4.d/S01cron : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01irqbalance : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01irqbalance
+[MISMATCH FILE] /etc/rc4.d/S01irqbalance (777 != 644)
+[AFTER]  /etc/rc4.d/S01irqbalance : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01rsync : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01rsync
+[MISMATCH FILE] /etc/rc4.d/S01rsync (777 != 644)
+[AFTER]  /etc/rc4.d/S01rsync : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01bluetooth : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01bluetooth
+[MISMATCH FILE] /etc/rc4.d/S01bluetooth (777 != 644)
+[AFTER]  /etc/rc4.d/S01bluetooth : 777
+----------------------------------------
+[BEFORE] /etc/rc4.d/S01pulseaudio-enable-autospawn : 777
+[ALERT] World-writable detected : /etc/rc4.d/S01pulseaudio-enable-autospawn
+[MISMATCH FILE] /etc/rc4.d/S01pulseaudio-enable-autospawn (777 != 644)
+[AFTER]  /etc/rc4.d/S01pulseaudio-enable-autospawn : 777
+----------------------------------------
+[BEFORE] /etc/thermald : 755
+[AFTER]  /etc/thermald : 755
+----------------------------------------
+[BEFORE] /etc/thermald/thermal-cpu-cdev-order.xml : 644
+[AFTER]  /etc/thermald/thermal-cpu-cdev-order.xml : 644
+----------------------------------------
+[BEFORE] /etc/pnm2ppa.conf : 644
+[AFTER]  /etc/pnm2ppa.conf : 644
+----------------------------------------
+[BEFORE] /etc/bluetooth : 755
+[AFTER]  /etc/bluetooth : 755
+----------------------------------------
+[BEFORE] /etc/bluetooth/network.conf : 644
+[AFTER]  /etc/bluetooth/network.conf : 644
+----------------------------------------
+[BEFORE] /etc/bluetooth/main.conf : 644
+[AFTER]  /etc/bluetooth/main.conf : 644
+----------------------------------------
+[BEFORE] /etc/bluetooth/input.conf : 644
+[AFTER]  /etc/bluetooth/input.conf : 644
+----------------------------------------
+[BEFORE] /etc/ld.so.conf : 644
+[AFTER]  /etc/ld.so.conf : 644
+----------------------------------------
+[BEFORE] /etc/mtab : 777
+[ALERT] World-writable detected : /etc/mtab
+[MISMATCH FILE] /etc/mtab (777 != 644)
+[AFTER]  /etc/mtab : 777
+----------------------------------------
+[BEFORE] /etc/environment : 644
+[AFTER]  /etc/environment : 644
+----------------------------------------
+[BEFORE] /etc/terminfo : 755
+[AFTER]  /etc/terminfo : 755
+----------------------------------------
+[BEFORE] /etc/terminfo/README : 644
+[AFTER]  /etc/terminfo/README : 644
+----------------------------------------
+[BEFORE] /etc/libblockdev : 755
+[AFTER]  /etc/libblockdev : 755
+----------------------------------------
+[BEFORE] /etc/libblockdev/conf.d : 755
+[AFTER]  /etc/libblockdev/conf.d : 755
+----------------------------------------
+[BEFORE] /etc/libblockdev/conf.d/00-default.cfg : 644
+[AFTER]  /etc/libblockdev/conf.d/00-default.cfg : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher : 755
+[AFTER]  /etc/speech-dispatcher : 755
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/clients : 755
+[AFTER]  /etc/speech-dispatcher/clients : 755
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/clients/emacs.conf : 644
+[AFTER]  /etc/speech-dispatcher/clients/emacs.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/speechd.conf : 644
+[AFTER]  /etc/speech-dispatcher/speechd.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules : 755
+[AFTER]  /etc/speech-dispatcher/modules : 755
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/espeak-ng.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/espeak-ng.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/espeak-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/espeak-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/mary-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/mary-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/baratinoo.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/baratinoo.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/kali.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/kali.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/espeak-ng-mbrola-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/espeak-ng-mbrola-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/festival.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/festival.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/llia_phon-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/llia_phon-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/cicero.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/cicero.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/flite.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/flite.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/ibmtts.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/ibmtts.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/dtk-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/dtk-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/pico-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/pico-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/ivona.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/ivona.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/espeak.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/espeak.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/espeak-mbrola-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/espeak-mbrola-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/epos-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/epos-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/speech-dispatcher/modules/swift-generic.conf : 644
+[AFTER]  /etc/speech-dispatcher/modules/swift-generic.conf : 644
+----------------------------------------
+[BEFORE] /etc/libreoffice : 755
+[AFTER]  /etc/libreoffice : 755
+----------------------------------------
+[BEFORE] /etc/libreoffice/sofficerc : 644
+[AFTER]  /etc/libreoffice/sofficerc : 644
+----------------------------------------
+[BEFORE] /etc/libreoffice/psprint.conf : 644
+[AFTER]  /etc/libreoffice/psprint.conf : 644
+----------------------------------------
+[BEFORE] /etc/libreoffice/soffice.sh : 644
+[AFTER]  /etc/libreoffice/soffice.sh : 644
+----------------------------------------
+[BEFORE] /etc/iproute2 : 755
+[AFTER]  /etc/iproute2 : 755
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_tables : 644
+[AFTER]  /etc/iproute2/rt_tables : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_protos : 644
+[AFTER]  /etc/iproute2/rt_protos : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_scopes : 644
+[AFTER]  /etc/iproute2/rt_scopes : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_dsfield : 644
+[AFTER]  /etc/iproute2/rt_dsfield : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/nl_protos : 644
+[AFTER]  /etc/iproute2/nl_protos : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_tables.d : 755
+[AFTER]  /etc/iproute2/rt_tables.d : 755
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_tables.d/README : 644
+[AFTER]  /etc/iproute2/rt_tables.d/README : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_realms : 644
+[AFTER]  /etc/iproute2/rt_realms : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_protos.d : 755
+[AFTER]  /etc/iproute2/rt_protos.d : 755
+----------------------------------------
+[BEFORE] /etc/iproute2/rt_protos.d/README : 644
+[AFTER]  /etc/iproute2/rt_protos.d/README : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/ematch_map : 644
+[AFTER]  /etc/iproute2/ematch_map : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/group : 644
+[AFTER]  /etc/iproute2/group : 644
+----------------------------------------
+[BEFORE] /etc/iproute2/bpf_pinning : 644
+[AFTER]  /etc/iproute2/bpf_pinning : 644
+----------------------------------------
+[BEFORE] /etc/cracklib : 755
+[AFTER]  /etc/cracklib : 755
+----------------------------------------
+[BEFORE] /etc/cracklib/cracklib.conf : 644
+[AFTER]  /etc/cracklib/cracklib.conf : 644
+----------------------------------------
+[BEFORE] /etc/newt : 755
+[AFTER]  /etc/newt : 755
+----------------------------------------
+[BEFORE] /etc/newt/palette.original : 644
+[AFTER]  /etc/newt/palette.original : 644
+----------------------------------------
+[BEFORE] /etc/newt/palette.ubuntu : 644
+[AFTER]  /etc/newt/palette.ubuntu : 644
+----------------------------------------
+[BEFORE] /etc/newt/palette : 777
+[ALERT] World-writable detected : /etc/newt/palette
+[MISMATCH FILE] /etc/newt/palette (777 != 644)
+[AFTER]  /etc/newt/palette : 777
+----------------------------------------
+[BEFORE] /etc/mtools.conf : 644
+[AFTER]  /etc/mtools.conf : 644
+----------------------------------------
+[BEFORE] /etc/apg.conf : 644
+[AFTER]  /etc/apg.conf : 644
+----------------------------------------
+[BEFORE] /etc/kernel : 755
+[AFTER]  /etc/kernel : 755
+----------------------------------------
+[BEFORE] /etc/kernel/prerm.d : 755
+[AFTER]  /etc/kernel/prerm.d : 755
+----------------------------------------
+[BEFORE] /etc/kernel/prerm.d/dkms : 755
+[MISMATCH FILE] /etc/kernel/prerm.d/dkms (755 != 644)
+[AFTER]  /etc/kernel/prerm.d/dkms : 755
+----------------------------------------
+[BEFORE] /etc/kernel/prerm.d/vboxadd : 755
+[MISMATCH FILE] /etc/kernel/prerm.d/vboxadd (755 != 644)
+[AFTER]  /etc/kernel/prerm.d/vboxadd : 755
+----------------------------------------
+[BEFORE] /etc/kernel/preinst.d : 755
+[AFTER]  /etc/kernel/preinst.d : 755
+----------------------------------------
+[BEFORE] /etc/kernel/preinst.d/intel-microcode : 755
+[MISMATCH FILE] /etc/kernel/preinst.d/intel-microcode (755 != 644)
+[AFTER]  /etc/kernel/preinst.d/intel-microcode : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d : 755
+[AFTER]  /etc/kernel/postinst.d : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d/zz-update-grub : 755
+[MISMATCH FILE] /etc/kernel/postinst.d/zz-update-grub (755 != 644)
+[AFTER]  /etc/kernel/postinst.d/zz-update-grub : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d/xx-update-initrd-links : 755
+[MISMATCH FILE] /etc/kernel/postinst.d/xx-update-initrd-links (755 != 644)
+[AFTER]  /etc/kernel/postinst.d/xx-update-initrd-links : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d/update-notifier : 777
+[ALERT] World-writable detected : /etc/kernel/postinst.d/update-notifier
+[MISMATCH FILE] /etc/kernel/postinst.d/update-notifier (777 != 644)
+[AFTER]  /etc/kernel/postinst.d/update-notifier : 777
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d/unattended-upgrades : 755
+[MISMATCH FILE] /etc/kernel/postinst.d/unattended-upgrades (755 != 644)
+[AFTER]  /etc/kernel/postinst.d/unattended-upgrades : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d/initramfs-tools : 755
+[MISMATCH FILE] /etc/kernel/postinst.d/initramfs-tools (755 != 644)
+[AFTER]  /etc/kernel/postinst.d/initramfs-tools : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d/dkms : 755
+[MISMATCH FILE] /etc/kernel/postinst.d/dkms (755 != 644)
+[AFTER]  /etc/kernel/postinst.d/dkms : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postinst.d/vboxadd : 755
+[MISMATCH FILE] /etc/kernel/postinst.d/vboxadd (755 != 644)
+[AFTER]  /etc/kernel/postinst.d/vboxadd : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postrm.d : 755
+[AFTER]  /etc/kernel/postrm.d : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postrm.d/zz-update-grub : 755
+[MISMATCH FILE] /etc/kernel/postrm.d/zz-update-grub (755 != 644)
+[AFTER]  /etc/kernel/postrm.d/zz-update-grub : 755
+----------------------------------------
+[BEFORE] /etc/kernel/postrm.d/initramfs-tools : 755
+[MISMATCH FILE] /etc/kernel/postrm.d/initramfs-tools (755 != 644)
+[AFTER]  /etc/kernel/postrm.d/initramfs-tools : 755
+----------------------------------------
+[BEFORE] /etc/kernel/install.d : 755
+[AFTER]  /etc/kernel/install.d : 755
+----------------------------------------
+[BEFORE] /etc/kernel/header_postinst.d : 755
+[AFTER]  /etc/kernel/header_postinst.d : 755
+----------------------------------------
+[BEFORE] /etc/kernel/header_postinst.d/dkms : 755
+[MISMATCH FILE] /etc/kernel/header_postinst.d/dkms (755 != 644)
+[AFTER]  /etc/kernel/header_postinst.d/dkms : 755
+----------------------------------------
+[BEFORE] /etc/fwupd : 755
+[AFTER]  /etc/fwupd : 755
+----------------------------------------
+[BEFORE] /etc/fwupd/uefi_capsule.conf : 644
+[AFTER]  /etc/fwupd/uefi_capsule.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/remotes.d : 755
+[AFTER]  /etc/fwupd/remotes.d : 755
+----------------------------------------
+[BEFORE] /etc/fwupd/remotes.d/lvfs.conf : 644
+[AFTER]  /etc/fwupd/remotes.d/lvfs.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/remotes.d/vendor.conf : 644
+[AFTER]  /etc/fwupd/remotes.d/vendor.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/remotes.d/vendor-directory.conf : 644
+[AFTER]  /etc/fwupd/remotes.d/vendor-directory.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/remotes.d/lvfs-testing.conf : 644
+[AFTER]  /etc/fwupd/remotes.d/lvfs-testing.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/remotes.d/dell-esrt.conf : 644
+[AFTER]  /etc/fwupd/remotes.d/dell-esrt.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/redfish.conf : 644
+[AFTER]  /etc/fwupd/redfish.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/daemon.conf : 644
+[AFTER]  /etc/fwupd/daemon.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/thunderbolt.conf : 644
+[AFTER]  /etc/fwupd/thunderbolt.conf : 644
+----------------------------------------
+[BEFORE] /etc/fwupd/msr.conf : 644
+[AFTER]  /etc/fwupd/msr.conf : 644
+----------------------------------------
+[BEFORE] /etc/groff : 755
+[AFTER]  /etc/groff : 755
+----------------------------------------
+[BEFORE] /etc/groff/man.local : 644
+[AFTER]  /etc/groff/man.local : 644
+----------------------------------------
+[BEFORE] /etc/groff/mdoc.local : 644
+[AFTER]  /etc/groff/mdoc.local : 644
+----------------------------------------
+[BEFORE] /etc/fstab : 664
+[MISMATCH FILE] /etc/fstab (664 != 644)
+[AFTER]  /etc/fstab : 644
+----------------------------------------
+[BEFORE] /etc/chatscripts : 2750
+[ALERT] SetGID detected : /etc/chatscripts
+[MISMATCH DIR] /etc/chatscripts (2750 != 755)
+[AFTER]  /etc/chatscripts : 755
+----------------------------------------
+[BEFORE] /etc/chatscripts/provider : 640
+[MISMATCH FILE] /etc/chatscripts/provider (640 != 644)
+[AFTER]  /etc/chatscripts/provider : 644
+----------------------------------------
+[BEFORE] /etc/chatscripts/gprs : 644
+[AFTER]  /etc/chatscripts/gprs : 644
+----------------------------------------
+[BEFORE] /etc/chatscripts/pap : 644
+[AFTER]  /etc/chatscripts/pap : 644
+----------------------------------------
+[BEFORE] /etc/wgetrc : 644
+[AFTER]  /etc/wgetrc : 644
+----------------------------------------
+[BEFORE] /etc/security : 755
+[AFTER]  /etc/security : 755
+----------------------------------------
+[BEFORE] /etc/security/access.conf : 644
+[AFTER]  /etc/security/access.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/group.conf : 644
+[AFTER]  /etc/security/group.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/opasswd : 600
+[MISMATCH FILE] /etc/security/opasswd (600 != 644)
+[AFTER]  /etc/security/opasswd : 644
+----------------------------------------
+[BEFORE] /etc/security/sepermit.conf : 644
+[AFTER]  /etc/security/sepermit.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/pam_env.conf : 644
+[AFTER]  /etc/security/pam_env.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/limits.conf : 644
+[AFTER]  /etc/security/limits.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/pwquality.conf : 644
+[AFTER]  /etc/security/pwquality.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/namespace.conf : 644
+[AFTER]  /etc/security/namespace.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/faillock.conf : 644
+[AFTER]  /etc/security/faillock.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/namespace.init : 755
+[MISMATCH FILE] /etc/security/namespace.init (755 != 644)
+[AFTER]  /etc/security/namespace.init : 755
+----------------------------------------
+[BEFORE] /etc/security/limits.d : 755
+[AFTER]  /etc/security/limits.d : 755
+----------------------------------------
+[BEFORE] /etc/security/time.conf : 644
+[AFTER]  /etc/security/time.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/capability.conf : 644
+[AFTER]  /etc/security/capability.conf : 644
+----------------------------------------
+[BEFORE] /etc/security/namespace.d : 755
+[AFTER]  /etc/security/namespace.d : 755
+----------------------------------------
+[BEFORE] /etc/perl : 755
+[AFTER]  /etc/perl : 755
+----------------------------------------
+[BEFORE] /etc/perl/Net : 755
+[AFTER]  /etc/perl/Net : 755
+----------------------------------------
+[BEFORE] /etc/perl/Net/libnet.cfg : 644
+[AFTER]  /etc/perl/Net/libnet.cfg : 644
+----------------------------------------
+[BEFORE] /etc/quotatab : 644
+[AFTER]  /etc/quotatab : 644
+----------------------------------------
+[BEFORE] /etc/sysctl.conf : 644
+[AFTER]  /etc/sysctl.conf : 644
+----------------------------------------
+[BEFORE] /etc/shadow- : 640
+[MISMATCH FILE] /etc/shadow- (640 != 644)
+[AFTER]  /etc/shadow- : 644
+----------------------------------------
+[BEFORE] /etc/skel : 755
+[AFTER]  /etc/skel : 755
+----------------------------------------
+[BEFORE] /etc/skel/.bash_logout : 644
+[AFTER]  /etc/skel/.bash_logout : 644
+----------------------------------------
+[BEFORE] /etc/skel/.bashrc : 644
+[AFTER]  /etc/skel/.bashrc : 644
+----------------------------------------
+[BEFORE] /etc/skel/.profile : 644
+[AFTER]  /etc/skel/.profile : 644
+----------------------------------------
+[BEFORE] /etc/python3 : 755
+[AFTER]  /etc/python3 : 755
+----------------------------------------
+[BEFORE] /etc/python3/debian_config : 644
+[AFTER]  /etc/python3/debian_config : 644
+----------------------------------------
+[BEFORE] /etc/console-setup : 755
+[AFTER]  /etc/console-setup : 755
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-1.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-1.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/cached_UTF-8_del.kmap.gz : 644
+[AFTER]  /etc/console-setup/cached_UTF-8_del.kmap.gz : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/vtrgb : 644
+[AFTER]  /etc/console-setup/vtrgb : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISIRI-3342.inc : 644
+[AFTER]  /etc/console-setup/compose.ISIRI-3342.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.GEORGIAN-ACADEMY.inc : 644
+[AFTER]  /etc/console-setup/compose.GEORGIAN-ACADEMY.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-7.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-7.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.IBM1133.inc : 644
+[AFTER]  /etc/console-setup/compose.IBM1133.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/cached_Uni2-Fixed16.psf.gz : 644
+[AFTER]  /etc/console-setup/cached_Uni2-Fixed16.psf.gz : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.GEORGIAN-PS.inc : 644
+[AFTER]  /etc/console-setup/compose.GEORGIAN-PS.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/Uni2-Fixed16.psf.gz : 644
+[AFTER]  /etc/console-setup/Uni2-Fixed16.psf.gz : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/cached_setup_font.sh : 755
+[MISMATCH FILE] /etc/console-setup/cached_setup_font.sh (755 != 644)
+[AFTER]  /etc/console-setup/cached_setup_font.sh : 755
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-10.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-10.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/remap.inc : 644
+[AFTER]  /etc/console-setup/remap.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.CP1255.inc : 644
+[AFTER]  /etc/console-setup/compose.CP1255.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-15.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-15.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-5.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-5.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.CP1251.inc : 644
+[AFTER]  /etc/console-setup/compose.CP1251.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.KOI8-U.inc : 644
+[AFTER]  /etc/console-setup/compose.KOI8-U.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/ISO-8859-1.acm : 644
+[AFTER]  /etc/console-setup/ISO-8859-1.acm : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/vtrgb.vga : 644
+[AFTER]  /etc/console-setup/vtrgb.vga : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-3.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-3.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/cached_ISO-8859-1_del.kmap.gz : 644
+[AFTER]  /etc/console-setup/cached_ISO-8859-1_del.kmap.gz : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-4.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-4.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-9.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-9.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-13.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-13.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.KOI8-R.inc : 644
+[AFTER]  /etc/console-setup/compose.KOI8-R.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.TIS-620.inc : 644
+[AFTER]  /etc/console-setup/compose.TIS-620.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-2.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-2.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ARMSCII-8.inc : 644
+[AFTER]  /etc/console-setup/compose.ARMSCII-8.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-14.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-14.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-6.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-6.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-8.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-8.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/cached_setup_keyboard.sh : 755
+[MISMATCH FILE] /etc/console-setup/cached_setup_keyboard.sh (755 != 644)
+[AFTER]  /etc/console-setup/cached_setup_keyboard.sh : 755
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-11.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-11.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.ISO-8859-16.inc : 644
+[AFTER]  /etc/console-setup/compose.ISO-8859-16.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/cached_ISO-8859-1.acm.gz : 644
+[AFTER]  /etc/console-setup/cached_ISO-8859-1.acm.gz : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.CP1256.inc : 644
+[AFTER]  /etc/console-setup/compose.CP1256.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/compose.VISCII.inc : 644
+[AFTER]  /etc/console-setup/compose.VISCII.inc : 644
+----------------------------------------
+[BEFORE] /etc/console-setup/cached_setup_terminal.sh : 755
+[MISMATCH FILE] /etc/console-setup/cached_setup_terminal.sh (755 != 644)
+[AFTER]  /etc/console-setup/cached_setup_terminal.sh : 755
+----------------------------------------
+[BEFORE] /etc/hostid : 644
+[AFTER]  /etc/hostid : 644
+----------------------------------------
+[BEFORE] /etc/dconf : 755
+[AFTER]  /etc/dconf : 755
+----------------------------------------
+[BEFORE] /etc/dconf/profile : 755
+[AFTER]  /etc/dconf/profile : 755
+----------------------------------------
+[BEFORE] /etc/dconf/profile/ibus : 644
+[AFTER]  /etc/dconf/profile/ibus : 644
+----------------------------------------
+[BEFORE] /etc/dconf/db : 755
+[AFTER]  /etc/dconf/db : 755
+----------------------------------------
+[BEFORE] /etc/dconf/db/ibus : 644
+[AFTER]  /etc/dconf/db/ibus : 644
+----------------------------------------
+[BEFORE] /etc/dconf/db/ibus.d : 755
+[AFTER]  /etc/dconf/db/ibus.d : 755
+----------------------------------------
+[BEFORE] /etc/dconf/db/ibus.d/00-upstream-settings : 644
+[AFTER]  /etc/dconf/db/ibus.d/00-upstream-settings : 644
+----------------------------------------
+[BEFORE] /etc/mailcap : 644
+[AFTER]  /etc/mailcap : 644
+----------------------------------------
+[BEFORE] /etc/openvpn : 755
+[AFTER]  /etc/openvpn : 755
+----------------------------------------
+[BEFORE] /etc/openvpn/client : 755
+[AFTER]  /etc/openvpn/client : 755
+----------------------------------------
+[BEFORE] /etc/openvpn/server : 755
+[AFTER]  /etc/openvpn/server : 755
+----------------------------------------
+[BEFORE] /etc/openvpn/update-resolv-conf : 755
+[MISMATCH FILE] /etc/openvpn/update-resolv-conf (755 != 644)
+[AFTER]  /etc/openvpn/update-resolv-conf : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily : 755
+[AFTER]  /etc/cron.daily : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/dpkg : 755
+[MISMATCH FILE] /etc/cron.daily/dpkg (755 != 644)
+[AFTER]  /etc/cron.daily/dpkg : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/bsdmainutils : 755
+[MISMATCH FILE] /etc/cron.daily/bsdmainutils (755 != 644)
+[AFTER]  /etc/cron.daily/bsdmainutils : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/man-db : 755
+[MISMATCH FILE] /etc/cron.daily/man-db (755 != 644)
+[AFTER]  /etc/cron.daily/man-db : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/cracklib-runtime : 755
+[MISMATCH FILE] /etc/cron.daily/cracklib-runtime (755 != 644)
+[AFTER]  /etc/cron.daily/cracklib-runtime : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/popularity-contest : 755
+[MISMATCH FILE] /etc/cron.daily/popularity-contest (755 != 644)
+[AFTER]  /etc/cron.daily/popularity-contest : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/quota : 755
+[MISMATCH FILE] /etc/cron.daily/quota (755 != 644)
+[AFTER]  /etc/cron.daily/quota : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/0anacron : 755
+[MISMATCH FILE] /etc/cron.daily/0anacron (755 != 644)
+[AFTER]  /etc/cron.daily/0anacron : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/apport : 755
+[MISMATCH FILE] /etc/cron.daily/apport (755 != 644)
+[AFTER]  /etc/cron.daily/apport : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/apt-compat : 755
+[MISMATCH FILE] /etc/cron.daily/apt-compat (755 != 644)
+[AFTER]  /etc/cron.daily/apt-compat : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/logrotate : 755
+[MISMATCH FILE] /etc/cron.daily/logrotate (755 != 644)
+[AFTER]  /etc/cron.daily/logrotate : 755
+----------------------------------------
+[BEFORE] /etc/cron.daily/.placeholder : 644
+[AFTER]  /etc/cron.daily/.placeholder : 644
+----------------------------------------
+[BEFORE] /etc/cron.daily/update-notifier-common : 755
+[MISMATCH FILE] /etc/cron.daily/update-notifier-common (755 != 644)
+[AFTER]  /etc/cron.daily/update-notifier-common : 755
+----------------------------------------
+[BEFORE] /etc/adduser.conf : 644
+[AFTER]  /etc/adduser.conf : 644
+----------------------------------------
+[BEFORE] /etc/cron.weekly : 755
+[AFTER]  /etc/cron.weekly : 755
+----------------------------------------
+[BEFORE] /etc/cron.weekly/man-db : 755
+[MISMATCH FILE] /etc/cron.weekly/man-db (755 != 644)
+[AFTER]  /etc/cron.weekly/man-db : 755
+----------------------------------------
+[BEFORE] /etc/cron.weekly/0anacron : 755
+[MISMATCH FILE] /etc/cron.weekly/0anacron (755 != 644)
+[AFTER]  /etc/cron.weekly/0anacron : 755
+----------------------------------------
+[BEFORE] /etc/cron.weekly/.placeholder : 644
+[AFTER]  /etc/cron.weekly/.placeholder : 644
+----------------------------------------
+[BEFORE] /etc/cron.weekly/update-notifier-common : 755
+[MISMATCH FILE] /etc/cron.weekly/update-notifier-common (755 != 644)
+[AFTER]  /etc/cron.weekly/update-notifier-common : 755
+----------------------------------------
+[BEFORE] /etc/insserv.conf.d : 755
+[AFTER]  /etc/insserv.conf.d : 755
+----------------------------------------
+[BEFORE] /etc/insserv.conf.d/gdm3 : 644
+[AFTER]  /etc/insserv.conf.d/gdm3 : 644
+----------------------------------------
+[BEFORE] /etc/profile.d : 755
+[AFTER]  /etc/profile.d : 755
+----------------------------------------
+[BEFORE] /etc/profile.d/apps-bin-path.sh : 644
+[AFTER]  /etc/profile.d/apps-bin-path.sh : 644
+----------------------------------------
+[BEFORE] /etc/profile.d/im-config_wayland.sh : 644
+[AFTER]  /etc/profile.d/im-config_wayland.sh : 644
+----------------------------------------
+[BEFORE] /etc/profile.d/vte.csh : 644
+[AFTER]  /etc/profile.d/vte.csh : 644
+----------------------------------------
+[BEFORE] /etc/profile.d/xdg_dirs_desktop_session.sh : 644
+[AFTER]  /etc/profile.d/xdg_dirs_desktop_session.sh : 644
+----------------------------------------
+[BEFORE] /etc/profile.d/01-locale-fix.sh : 644
+[AFTER]  /etc/profile.d/01-locale-fix.sh : 644
+----------------------------------------
+[BEFORE] /etc/profile.d/vte-2.91.sh : 644
+[AFTER]  /etc/profile.d/vte-2.91.sh : 644
+----------------------------------------
+[BEFORE] /etc/profile.d/bash_completion.sh : 644
+[AFTER]  /etc/profile.d/bash_completion.sh : 644
+----------------------------------------
+[BEFORE] /etc/profile.d/cedilla-portuguese.sh : 644
+[AFTER]  /etc/profile.d/cedilla-portuguese.sh : 644
+----------------------------------------
+[BEFORE] /etc/udisks2 : 755
+[AFTER]  /etc/udisks2 : 755
+----------------------------------------
+[BEFORE] /etc/udisks2/udisks2.conf : 644
+[AFTER]  /etc/udisks2/udisks2.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1 : 755
+[AFTER]  /etc/dbus-1 : 755
+----------------------------------------
+[BEFORE] /etc/dbus-1/session.d : 755
+[AFTER]  /etc/dbus-1/session.d : 755
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d : 755
+[AFTER]  /etc/dbus-1/system.d : 755
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/bluetooth.conf : 644
+[AFTER]  /etc/dbus-1/system.d/bluetooth.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/com.redhat.NewPrinterNotification.conf : 644
+[AFTER]  /etc/dbus-1/system.d/com.redhat.NewPrinterNotification.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.freedesktop.PackageKit.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.freedesktop.PackageKit.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/com.ubuntu.USBCreator.conf : 644
+[AFTER]  /etc/dbus-1/system.d/com.ubuntu.USBCreator.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.freedesktop.ModemManager1.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.freedesktop.ModemManager1.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/kerneloops.conf : 644
+[AFTER]  /etc/dbus-1/system.d/kerneloops.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/net.hadess.SensorProxy.conf : 644
+[AFTER]  /etc/dbus-1/system.d/net.hadess.SensorProxy.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/avahi-dbus.conf : 644
+[AFTER]  /etc/dbus-1/system.d/avahi-dbus.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/net.hadess.SwitcherooControl.conf : 644
+[AFTER]  /etc/dbus-1/system.d/net.hadess.SwitcherooControl.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.freedesktop.GeoClue2.Agent.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.freedesktop.GeoClue2.Agent.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/wpa_supplicant.conf : 644
+[AFTER]  /etc/dbus-1/system.d/wpa_supplicant.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.debian.apt.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.debian.apt.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/gdm.conf : 644
+[AFTER]  /etc/dbus-1/system.d/gdm.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.opensuse.CupsPkHelper.Mechanism.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.opensuse.CupsPkHelper.Mechanism.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/com.ubuntu.LanguageSelector.conf : 644
+[AFTER]  /etc/dbus-1/system.d/com.ubuntu.LanguageSelector.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.freedesktop.thermald.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.freedesktop.thermald.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.freedesktop.GeoClue2.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.freedesktop.GeoClue2.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/org.freedesktop.Accounts.conf : 644
+[AFTER]  /etc/dbus-1/system.d/org.freedesktop.Accounts.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/com.ubuntu.SoftwareProperties.conf : 644
+[AFTER]  /etc/dbus-1/system.d/com.ubuntu.SoftwareProperties.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/com.ubuntu.WhoopsiePreferences.conf : 644
+[AFTER]  /etc/dbus-1/system.d/com.ubuntu.WhoopsiePreferences.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/dnsmasq.conf : 644
+[AFTER]  /etc/dbus-1/system.d/dnsmasq.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/com.hp.hplip.conf : 644
+[AFTER]  /etc/dbus-1/system.d/com.hp.hplip.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/com.redhat.PrinterDriversInstaller.conf : 644
+[AFTER]  /etc/dbus-1/system.d/com.redhat.PrinterDriversInstaller.conf : 644
+----------------------------------------
+[BEFORE] /etc/dbus-1/system.d/pulseaudio-system.conf : 644
+[AFTER]  /etc/dbus-1/system.d/pulseaudio-system.conf : 644
+----------------------------------------
+[BEFORE] /etc/selinux : 755
+[AFTER]  /etc/selinux : 755
+----------------------------------------
+[BEFORE] /etc/selinux/semanage.conf : 644
+[AFTER]  /etc/selinux/semanage.conf : 644
+----------------------------------------
+[BEFORE] /etc/passwd- : 644
+[AFTER]  /etc/passwd- : 644
+----------------------------------------
+[BEFORE] /etc/udev : 755
+[AFTER]  /etc/udev : 755
+----------------------------------------
+[BEFORE] /etc/udev/rules.d : 755
+[AFTER]  /etc/udev/rules.d : 755
+----------------------------------------
+[BEFORE] /etc/udev/rules.d/70-snap.snap-store.rules : 644
+[AFTER]  /etc/udev/rules.d/70-snap.snap-store.rules : 644
+----------------------------------------
+[BEFORE] /etc/udev/rules.d/70-snap.snapd.rules : 644
+[AFTER]  /etc/udev/rules.d/70-snap.snapd.rules : 644
+----------------------------------------
+[BEFORE] /etc/udev/rules.d/60-vboxadd.rules : 644
+[AFTER]  /etc/udev/rules.d/60-vboxadd.rules : 644
+----------------------------------------
+[BEFORE] /etc/udev/udev.conf : 644
+[AFTER]  /etc/udev/udev.conf : 644
+----------------------------------------
+[BEFORE] /etc/udev/hwdb.d : 755
+[AFTER]  /etc/udev/hwdb.d : 755
+----------------------------------------
+[BEFORE] /etc/cupshelpers : 755
+[AFTER]  /etc/cupshelpers : 755
+----------------------------------------
+[BEFORE] /etc/cupshelpers/preferreddrivers.xml : 644
+[AFTER]  /etc/cupshelpers/preferreddrivers.xml : 644
+----------------------------------------
+[BEFORE] /etc/pm : 755
+[AFTER]  /etc/pm : 755
+----------------------------------------
+[BEFORE] /etc/pm/sleep.d : 755
+[AFTER]  /etc/pm/sleep.d : 755
+----------------------------------------
+[BEFORE] /etc/pm/sleep.d/10_unattended-upgrades-hibernate : 755
+[MISMATCH FILE] /etc/pm/sleep.d/10_unattended-upgrades-hibernate (755 != 644)
+[AFTER]  /etc/pm/sleep.d/10_unattended-upgrades-hibernate : 755
+----------------------------------------
+[BEFORE] /etc/pm/sleep.d/10_grub-common : 755
+[MISMATCH FILE] /etc/pm/sleep.d/10_grub-common (755 != 644)
+[AFTER]  /etc/pm/sleep.d/10_grub-common : 755
+----------------------------------------
+[BEFORE] /etc/subgid- : 644
+[AFTER]  /etc/subgid- : 644
+----------------------------------------
+[BEFORE] /etc/hostname : 644
+[AFTER]  /etc/hostname : 644
+----------------------------------------
+[BEFORE] /etc/alternatives : 755
+[AFTER]  /etc/alternatives : 755
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.pl.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.pl.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.pl.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.pl.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/faked.es.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/faked.es.1.gz
+[MISMATCH FILE] /etc/alternatives/faked.es.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/faked.es.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.de.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.de.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.de.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.de.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pico : 777
+[ALERT] World-writable detected : /etc/alternatives/pico
+[MISMATCH FILE] /etc/alternatives/pico (777 != 644)
+[AFTER]  /etc/alternatives/pico : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzless.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzless.1.gz
+[MISMATCH FILE] /etc/alternatives/lzless.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzless.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pftp : 777
+[ALERT] World-writable detected : /etc/alternatives/pftp
+[MISMATCH FILE] /etc/alternatives/pftp (777 != 644)
+[AFTER]  /etc/alternatives/pftp : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ip6tables : 777
+[ALERT] World-writable detected : /etc/alternatives/ip6tables
+[MISMATCH FILE] /etc/alternatives/ip6tables (777 != 644)
+[AFTER]  /etc/alternatives/ip6tables : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vtrgb : 777
+[ALERT] World-writable detected : /etc/alternatives/vtrgb
+[MISMATCH FILE] /etc/alternatives/vtrgb (777 != 644)
+[AFTER]  /etc/alternatives/vtrgb : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ebtables-save : 777
+[ALERT] World-writable detected : /etc/alternatives/ebtables-save
+[MISMATCH FILE] /etc/alternatives/ebtables-save (777 != 644)
+[AFTER]  /etc/alternatives/ebtables-save : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pinentry : 777
+[ALERT] World-writable detected : /etc/alternatives/pinentry
+[MISMATCH FILE] /etc/alternatives/pinentry (777 != 644)
+[AFTER]  /etc/alternatives/pinentry : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pinentry-x11.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/pinentry-x11.1.gz
+[MISMATCH FILE] /etc/alternatives/pinentry-x11.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/pinentry-x11.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/newt-palette : 777
+[ALERT] World-writable detected : /etc/alternatives/newt-palette
+[MISMATCH FILE] /etc/alternatives/newt-palette (777 != 644)
+[AFTER]  /etc/alternatives/newt-palette : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzgrep.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzgrep.1.gz
+[MISMATCH FILE] /etc/alternatives/lzgrep.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzgrep.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.de.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.de.1.gz
+[MISMATCH FILE] /etc/alternatives/view.de.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.de.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzegrep.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzegrep.1.gz
+[MISMATCH FILE] /etc/alternatives/lzegrep.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzegrep.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.fr.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.fr.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.fr.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.fr.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/fakeroot.es.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/fakeroot.es.1.gz
+[MISMATCH FILE] /etc/alternatives/fakeroot.es.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/fakeroot.es.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/mt.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/mt.1.gz
+[MISMATCH FILE] /etc/alternatives/mt.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/mt.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ip6tables-restore : 777
+[ALERT] World-writable detected : /etc/alternatives/ip6tables-restore
+[MISMATCH FILE] /etc/alternatives/ip6tables-restore (777 != 644)
+[AFTER]  /etc/alternatives/ip6tables-restore : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rsh.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/rsh.1.gz
+[MISMATCH FILE] /etc/alternatives/rsh.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/rsh.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/c99.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/c99.1.gz
+[MISMATCH FILE] /etc/alternatives/c99.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/c99.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzdiff.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzdiff.1.gz
+[MISMATCH FILE] /etc/alternatives/lzdiff.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzdiff.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pinentry-x11 : 777
+[ALERT] World-writable detected : /etc/alternatives/pinentry-x11
+[MISMATCH FILE] /etc/alternatives/pinentry-x11 (777 != 644)
+[AFTER]  /etc/alternatives/pinentry-x11 : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/gstreamer-codec-install : 777
+[ALERT] World-writable detected : /etc/alternatives/gstreamer-codec-install
+[MISMATCH FILE] /etc/alternatives/gstreamer-codec-install (777 != 644)
+[AFTER]  /etc/alternatives/gstreamer-codec-install : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ip6tables-save : 777
+[ALERT] World-writable detected : /etc/alternatives/ip6tables-save
+[MISMATCH FILE] /etc/alternatives/ip6tables-save (777 != 644)
+[AFTER]  /etc/alternatives/ip6tables-save : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.fr.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.fr.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.fr.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.fr.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi : 777
+[ALERT] World-writable detected : /etc/alternatives/vi
+[MISMATCH FILE] /etc/alternatives/vi (777 != 644)
+[AFTER]  /etc/alternatives/vi : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzfgrep.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzfgrep.1.gz
+[MISMATCH FILE] /etc/alternatives/lzfgrep.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzfgrep.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzcmp : 777
+[ALERT] World-writable detected : /etc/alternatives/lzcmp
+[MISMATCH FILE] /etc/alternatives/lzcmp (777 != 644)
+[AFTER]  /etc/alternatives/lzcmp : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/arptables : 777
+[ALERT] World-writable detected : /etc/alternatives/arptables
+[MISMATCH FILE] /etc/alternatives/arptables (777 != 644)
+[AFTER]  /etc/alternatives/arptables : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/fakeroot.sv.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/fakeroot.sv.1.gz
+[MISMATCH FILE] /etc/alternatives/fakeroot.sv.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/fakeroot.sv.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzmore : 777
+[ALERT] World-writable detected : /etc/alternatives/lzmore
+[MISMATCH FILE] /etc/alternatives/lzmore (777 != 644)
+[AFTER]  /etc/alternatives/lzmore : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/c89.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/c89.1.gz
+[MISMATCH FILE] /etc/alternatives/c89.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/c89.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pico.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/pico.1.gz
+[MISMATCH FILE] /etc/alternatives/pico.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/pico.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/iptables-save : 777
+[ALERT] World-writable detected : /etc/alternatives/iptables-save
+[MISMATCH FILE] /etc/alternatives/iptables-save (777 != 644)
+[AFTER]  /etc/alternatives/iptables-save : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/telnet.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/telnet.1.gz
+[MISMATCH FILE] /etc/alternatives/telnet.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/telnet.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/x-window-manager : 777
+[ALERT] World-writable detected : /etc/alternatives/x-window-manager
+[MISMATCH FILE] /etc/alternatives/x-window-manager (777 != 644)
+[AFTER]  /etc/alternatives/x-window-manager : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/unlzma.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/unlzma.1.gz
+[MISMATCH FILE] /etc/alternatives/unlzma.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/unlzma.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/x-session-manager : 777
+[ALERT] World-writable detected : /etc/alternatives/x-session-manager
+[MISMATCH FILE] /etc/alternatives/x-session-manager (777 != 644)
+[AFTER]  /etc/alternatives/x-session-manager : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/infobrowser : 777
+[ALERT] World-writable detected : /etc/alternatives/infobrowser
+[MISMATCH FILE] /etc/alternatives/infobrowser (777 != 644)
+[AFTER]  /etc/alternatives/infobrowser : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/arptables-restore : 777
+[ALERT] World-writable detected : /etc/alternatives/arptables-restore
+[MISMATCH FILE] /etc/alternatives/arptables-restore (777 != 644)
+[AFTER]  /etc/alternatives/arptables-restore : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/README : 644
+[AFTER]  /etc/alternatives/README : 644
+----------------------------------------
+[BEFORE] /etc/alternatives/x-cursor-theme : 777
+[ALERT] World-writable detected : /etc/alternatives/x-cursor-theme
+[MISMATCH FILE] /etc/alternatives/x-cursor-theme (777 != 644)
+[AFTER]  /etc/alternatives/x-cursor-theme : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rview : 777
+[ALERT] World-writable detected : /etc/alternatives/rview
+[MISMATCH FILE] /etc/alternatives/rview (777 != 644)
+[AFTER]  /etc/alternatives/rview : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/x-terminal-emulator : 777
+[ALERT] World-writable detected : /etc/alternatives/x-terminal-emulator
+[MISMATCH FILE] /etc/alternatives/x-terminal-emulator (777 != 644)
+[AFTER]  /etc/alternatives/x-terminal-emulator : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/mt : 777
+[ALERT] World-writable detected : /etc/alternatives/mt
+[MISMATCH FILE] /etc/alternatives/mt (777 != 644)
+[AFTER]  /etc/alternatives/mt : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rlogin.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/rlogin.1.gz
+[MISMATCH FILE] /etc/alternatives/rlogin.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/rlogin.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pftp.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/pftp.1.gz
+[MISMATCH FILE] /etc/alternatives/pftp.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/pftp.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzfgrep : 777
+[ALERT] World-writable detected : /etc/alternatives/lzfgrep
+[MISMATCH FILE] /etc/alternatives/lzfgrep (777 != 644)
+[AFTER]  /etc/alternatives/lzfgrep : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/text.plymouth : 777
+[ALERT] World-writable detected : /etc/alternatives/text.plymouth
+[MISMATCH FILE] /etc/alternatives/text.plymouth (777 != 644)
+[AFTER]  /etc/alternatives/text.plymouth : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/cpp : 777
+[ALERT] World-writable detected : /etc/alternatives/cpp
+[MISMATCH FILE] /etc/alternatives/cpp (777 != 644)
+[AFTER]  /etc/alternatives/cpp : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/telnet : 777
+[ALERT] World-writable detected : /etc/alternatives/telnet
+[MISMATCH FILE] /etc/alternatives/telnet (777 != 644)
+[AFTER]  /etc/alternatives/telnet : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/traceroute6 : 777
+[ALERT] World-writable detected : /etc/alternatives/traceroute6
+[MISMATCH FILE] /etc/alternatives/traceroute6 (777 != 644)
+[AFTER]  /etc/alternatives/traceroute6 : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzcmp.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzcmp.1.gz
+[MISMATCH FILE] /etc/alternatives/lzcmp.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzcmp.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.pl.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.pl.1.gz
+[MISMATCH FILE] /etc/alternatives/view.pl.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.pl.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/c89 : 777
+[ALERT] World-writable detected : /etc/alternatives/c89
+[MISMATCH FILE] /etc/alternatives/c89 (777 != 644)
+[AFTER]  /etc/alternatives/c89 : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.fr.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.fr.1.gz
+[MISMATCH FILE] /etc/alternatives/view.fr.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.fr.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/default.plymouth : 777
+[ALERT] World-writable detected : /etc/alternatives/default.plymouth
+[MISMATCH FILE] /etc/alternatives/default.plymouth (777 != 644)
+[AFTER]  /etc/alternatives/default.plymouth : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/fakeroot.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/fakeroot.1.gz
+[MISMATCH FILE] /etc/alternatives/fakeroot.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/fakeroot.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/from : 777
+[ALERT] World-writable detected : /etc/alternatives/from
+[MISMATCH FILE] /etc/alternatives/from (777 != 644)
+[AFTER]  /etc/alternatives/from : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/from.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/from.1.gz
+[MISMATCH FILE] /etc/alternatives/from.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/from.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/iptables : 777
+[ALERT] World-writable detected : /etc/alternatives/iptables
+[MISMATCH FILE] /etc/alternatives/iptables (777 != 644)
+[AFTER]  /etc/alternatives/iptables : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/iptables-restore : 777
+[ALERT] World-writable detected : /etc/alternatives/iptables-restore
+[MISMATCH FILE] /etc/alternatives/iptables-restore (777 != 644)
+[AFTER]  /etc/alternatives/iptables-restore : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/x-window-manager.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/x-window-manager.1.gz
+[MISMATCH FILE] /etc/alternatives/x-window-manager.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/x-window-manager.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ftp : 777
+[ALERT] World-writable detected : /etc/alternatives/ftp
+[MISMATCH FILE] /etc/alternatives/ftp (777 != 644)
+[AFTER]  /etc/alternatives/ftp : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzcat : 777
+[ALERT] World-writable detected : /etc/alternatives/lzcat
+[MISMATCH FILE] /etc/alternatives/lzcat (777 != 644)
+[AFTER]  /etc/alternatives/lzcat : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/nc : 777
+[ALERT] World-writable detected : /etc/alternatives/nc
+[MISMATCH FILE] /etc/alternatives/nc (777 != 644)
+[AFTER]  /etc/alternatives/nc : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rcp.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/rcp.1.gz
+[MISMATCH FILE] /etc/alternatives/rcp.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/rcp.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.ru.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.ru.1.gz
+[MISMATCH FILE] /etc/alternatives/view.ru.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.ru.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/infobrowser.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/infobrowser.1.gz
+[MISMATCH FILE] /etc/alternatives/infobrowser.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/infobrowser.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/faked.fr.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/faked.fr.1.gz
+[MISMATCH FILE] /etc/alternatives/faked.fr.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/faked.fr.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pinentry.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/pinentry.1.gz
+[MISMATCH FILE] /etc/alternatives/pinentry.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/pinentry.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/c99 : 777
+[ALERT] World-writable detected : /etc/alternatives/c99
+[MISMATCH FILE] /etc/alternatives/c99 (777 != 644)
+[AFTER]  /etc/alternatives/c99 : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pager.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/pager.1.gz
+[MISMATCH FILE] /etc/alternatives/pager.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/pager.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/nawk.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/nawk.1.gz
+[MISMATCH FILE] /etc/alternatives/nawk.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/nawk.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/nc.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/nc.1.gz
+[MISMATCH FILE] /etc/alternatives/nc.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/nc.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/faked.sv.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/faked.sv.1.gz
+[MISMATCH FILE] /etc/alternatives/faked.sv.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/faked.sv.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/awk.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/awk.1.gz
+[MISMATCH FILE] /etc/alternatives/awk.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/awk.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ebtables : 777
+[ALERT] World-writable detected : /etc/alternatives/ebtables
+[MISMATCH FILE] /etc/alternatives/ebtables (777 != 644)
+[AFTER]  /etc/alternatives/ebtables : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.ru.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.ru.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.ru.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.ru.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.ja.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.ja.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.ja.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.ja.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/netrc.5.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/netrc.5.gz
+[MISMATCH FILE] /etc/alternatives/netrc.5.gz (777 != 644)
+[AFTER]  /etc/alternatives/netrc.5.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/fakeroot.fr.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/fakeroot.fr.1.gz
+[MISMATCH FILE] /etc/alternatives/fakeroot.fr.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/fakeroot.fr.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzcat.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzcat.1.gz
+[MISMATCH FILE] /etc/alternatives/lzcat.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzcat.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/x-terminal-emulator.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/x-terminal-emulator.1.gz
+[MISMATCH FILE] /etc/alternatives/x-terminal-emulator.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/x-terminal-emulator.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/c++ : 777
+[ALERT] World-writable detected : /etc/alternatives/c++
+[MISMATCH FILE] /etc/alternatives/c++ (777 != 644)
+[AFTER]  /etc/alternatives/c++ : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/netcat : 777
+[ALERT] World-writable detected : /etc/alternatives/netcat
+[MISMATCH FILE] /etc/alternatives/netcat (777 != 644)
+[AFTER]  /etc/alternatives/netcat : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/my.cnf : 777
+[ALERT] World-writable detected : /etc/alternatives/my.cnf
+[MISMATCH FILE] /etc/alternatives/my.cnf (777 != 644)
+[AFTER]  /etc/alternatives/my.cnf : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzma.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzma.1.gz
+[MISMATCH FILE] /etc/alternatives/lzma.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzma.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzdiff : 777
+[ALERT] World-writable detected : /etc/alternatives/lzdiff
+[MISMATCH FILE] /etc/alternatives/lzdiff (777 != 644)
+[AFTER]  /etc/alternatives/lzdiff : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ebtables-restore : 777
+[ALERT] World-writable detected : /etc/alternatives/ebtables-restore
+[MISMATCH FILE] /etc/alternatives/ebtables-restore (777 != 644)
+[AFTER]  /etc/alternatives/ebtables-restore : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.ja.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.ja.1.gz
+[MISMATCH FILE] /etc/alternatives/view.ja.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.ja.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/write : 777
+[ALERT] World-writable detected : /etc/alternatives/write
+[MISMATCH FILE] /etc/alternatives/write (777 != 644)
+[AFTER]  /etc/alternatives/write : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pager : 777
+[ALERT] World-writable detected : /etc/alternatives/pager
+[MISMATCH FILE] /etc/alternatives/pager (777 != 644)
+[AFTER]  /etc/alternatives/pager : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.it.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.it.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.it.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.it.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.ru.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.ru.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.ru.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.ru.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rmt.8.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/rmt.8.gz
+[MISMATCH FILE] /etc/alternatives/rmt.8.gz (777 != 644)
+[AFTER]  /etc/alternatives/rmt.8.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.ja.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.ja.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.ja.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.ja.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view : 777
+[ALERT] World-writable detected : /etc/alternatives/view
+[MISMATCH FILE] /etc/alternatives/view (777 != 644)
+[AFTER]  /etc/alternatives/view : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/netcat.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/netcat.1.gz
+[MISMATCH FILE] /etc/alternatives/netcat.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/netcat.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/arptables-save : 777
+[ALERT] World-writable detected : /etc/alternatives/arptables-save
+[MISMATCH FILE] /etc/alternatives/arptables-save (777 != 644)
+[AFTER]  /etc/alternatives/arptables-save : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.da.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.da.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.da.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.da.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/x-session-manager.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/x-session-manager.1.gz
+[MISMATCH FILE] /etc/alternatives/x-session-manager.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/x-session-manager.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/faked.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/faked.1.gz
+[MISMATCH FILE] /etc/alternatives/faked.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/faked.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/x-www-browser : 777
+[ALERT] World-writable detected : /etc/alternatives/x-www-browser
+[MISMATCH FILE] /etc/alternatives/x-www-browser (777 != 644)
+[AFTER]  /etc/alternatives/x-www-browser : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.it.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.it.1.gz
+[MISMATCH FILE] /etc/alternatives/view.it.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.it.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/cc.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/cc.1.gz
+[MISMATCH FILE] /etc/alternatives/cc.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/cc.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/cc : 777
+[ALERT] World-writable detected : /etc/alternatives/cc
+[MISMATCH FILE] /etc/alternatives/cc (777 != 644)
+[AFTER]  /etc/alternatives/cc : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.1.gz
+[MISMATCH FILE] /etc/alternatives/view.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/vi.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/vi.1.gz
+[MISMATCH FILE] /etc/alternatives/vi.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/vi.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/awk : 777
+[ALERT] World-writable detected : /etc/alternatives/awk
+[MISMATCH FILE] /etc/alternatives/awk (777 != 644)
+[AFTER]  /etc/alternatives/awk : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/gdm3-theme.gresource : 777
+[ALERT] World-writable detected : /etc/alternatives/gdm3-theme.gresource
+[MISMATCH FILE] /etc/alternatives/gdm3-theme.gresource (777 != 644)
+[AFTER]  /etc/alternatives/gdm3-theme.gresource : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex : 777
+[ALERT] World-writable detected : /etc/alternatives/ex
+[MISMATCH FILE] /etc/alternatives/ex (777 != 644)
+[AFTER]  /etc/alternatives/ex : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/pasteurize : 777
+[ALERT] World-writable detected : /etc/alternatives/pasteurize
+[MISMATCH FILE] /etc/alternatives/pasteurize (777 != 644)
+[AFTER]  /etc/alternatives/pasteurize : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzma : 777
+[ALERT] World-writable detected : /etc/alternatives/lzma
+[MISMATCH FILE] /etc/alternatives/lzma (777 != 644)
+[AFTER]  /etc/alternatives/lzma : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/unlzma : 777
+[ALERT] World-writable detected : /etc/alternatives/unlzma
+[MISMATCH FILE] /etc/alternatives/unlzma (777 != 644)
+[AFTER]  /etc/alternatives/unlzma : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzless : 777
+[ALERT] World-writable detected : /etc/alternatives/lzless
+[MISMATCH FILE] /etc/alternatives/lzless (777 != 644)
+[AFTER]  /etc/alternatives/lzless : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rlogin : 777
+[ALERT] World-writable detected : /etc/alternatives/rlogin
+[MISMATCH FILE] /etc/alternatives/rlogin (777 != 644)
+[AFTER]  /etc/alternatives/rlogin : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.da.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.da.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.da.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.da.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/c++.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/c++.1.gz
+[MISMATCH FILE] /etc/alternatives/c++.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/c++.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/w.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/w.1.gz
+[MISMATCH FILE] /etc/alternatives/w.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/w.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/w : 777
+[ALERT] World-writable detected : /etc/alternatives/w
+[MISMATCH FILE] /etc/alternatives/w (777 != 644)
+[AFTER]  /etc/alternatives/w : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/editor : 777
+[ALERT] World-writable detected : /etc/alternatives/editor
+[MISMATCH FILE] /etc/alternatives/editor (777 != 644)
+[AFTER]  /etc/alternatives/editor : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.pl.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.pl.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.pl.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.pl.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/fakeroot : 777
+[ALERT] World-writable detected : /etc/alternatives/fakeroot
+[MISMATCH FILE] /etc/alternatives/fakeroot (777 != 644)
+[AFTER]  /etc/alternatives/fakeroot : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rcp : 777
+[ALERT] World-writable detected : /etc/alternatives/rcp
+[MISMATCH FILE] /etc/alternatives/rcp (777 != 644)
+[AFTER]  /etc/alternatives/rcp : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/futurize : 777
+[ALERT] World-writable detected : /etc/alternatives/futurize
+[MISMATCH FILE] /etc/alternatives/futurize (777 != 644)
+[AFTER]  /etc/alternatives/futurize : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/builtins.7.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/builtins.7.gz
+[MISMATCH FILE] /etc/alternatives/builtins.7.gz (777 != 644)
+[AFTER]  /etc/alternatives/builtins.7.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rsh : 777
+[ALERT] World-writable detected : /etc/alternatives/rsh
+[MISMATCH FILE] /etc/alternatives/rsh (777 != 644)
+[AFTER]  /etc/alternatives/rsh : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.de.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.de.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.de.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.de.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/traceroute6.8.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/traceroute6.8.gz
+[MISMATCH FILE] /etc/alternatives/traceroute6.8.gz (777 != 644)
+[AFTER]  /etc/alternatives/traceroute6.8.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzegrep : 777
+[ALERT] World-writable detected : /etc/alternatives/lzegrep
+[MISMATCH FILE] /etc/alternatives/lzegrep (777 != 644)
+[AFTER]  /etc/alternatives/lzegrep : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzmore.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/lzmore.1.gz
+[MISMATCH FILE] /etc/alternatives/lzmore.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/lzmore.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/editor.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/editor.1.gz
+[MISMATCH FILE] /etc/alternatives/editor.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/editor.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/nawk : 777
+[ALERT] World-writable detected : /etc/alternatives/nawk
+[MISMATCH FILE] /etc/alternatives/nawk (777 != 644)
+[AFTER]  /etc/alternatives/nawk : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ftp.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ftp.1.gz
+[MISMATCH FILE] /etc/alternatives/ftp.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ftp.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/rmt : 777
+[ALERT] World-writable detected : /etc/alternatives/rmt
+[MISMATCH FILE] /etc/alternatives/rmt (777 != 644)
+[AFTER]  /etc/alternatives/rmt : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/gnome-www-browser : 777
+[ALERT] World-writable detected : /etc/alternatives/gnome-www-browser
+[MISMATCH FILE] /etc/alternatives/gnome-www-browser (777 != 644)
+[AFTER]  /etc/alternatives/gnome-www-browser : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/view.da.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/view.da.1.gz
+[MISMATCH FILE] /etc/alternatives/view.da.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/view.da.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/gnome-text-editor.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/gnome-text-editor.1.gz
+[MISMATCH FILE] /etc/alternatives/gnome-text-editor.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/gnome-text-editor.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/write.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/write.1.gz
+[MISMATCH FILE] /etc/alternatives/write.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/write.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/ex.it.1.gz : 777
+[ALERT] World-writable detected : /etc/alternatives/ex.it.1.gz
+[MISMATCH FILE] /etc/alternatives/ex.it.1.gz (777 != 644)
+[AFTER]  /etc/alternatives/ex.it.1.gz : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/lzgrep : 777
+[ALERT] World-writable detected : /etc/alternatives/lzgrep
+[MISMATCH FILE] /etc/alternatives/lzgrep (777 != 644)
+[AFTER]  /etc/alternatives/lzgrep : 777
+----------------------------------------
+[BEFORE] /etc/alternatives/gnome-text-editor : 777
+[ALERT] World-writable detected : /etc/alternatives/gnome-text-editor
+[MISMATCH FILE] /etc/alternatives/gnome-text-editor (777 != 644)
+[AFTER]  /etc/alternatives/gnome-text-editor : 777
+----------------------------------------
+[BEFORE] /etc/debian_version : 644
+[AFTER]  /etc/debian_version : 644
+----------------------------------------
+[BEFORE] /etc/ppp : 755
+[AFTER]  /etc/ppp : 755
+----------------------------------------
+[BEFORE] /etc/ppp/chap-secrets : 600
+[MISMATCH FILE] /etc/ppp/chap-secrets (600 != 644)
+[AFTER]  /etc/ppp/chap-secrets : 644
+----------------------------------------
+[BEFORE] /etc/ppp/ipv6-up : 755
+[MISMATCH FILE] /etc/ppp/ipv6-up (755 != 644)
+[AFTER]  /etc/ppp/ipv6-up : 755
+----------------------------------------
+[BEFORE] /etc/ppp/ip-down : 755
+[MISMATCH FILE] /etc/ppp/ip-down (755 != 644)
+[AFTER]  /etc/ppp/ip-down : 755
+----------------------------------------
+[BEFORE] /etc/ppp/ipv6-down : 755
+[MISMATCH FILE] /etc/ppp/ipv6-down (755 != 644)
+[AFTER]  /etc/ppp/ipv6-down : 755
+----------------------------------------
+[BEFORE] /etc/ppp/ip-down.d : 755
+[AFTER]  /etc/ppp/ip-down.d : 755
+----------------------------------------
+[BEFORE] /etc/ppp/ip-down.d/0000usepeerdns : 755
+[MISMATCH FILE] /etc/ppp/ip-down.d/0000usepeerdns (755 != 644)
+[AFTER]  /etc/ppp/ip-down.d/0000usepeerdns : 755
+----------------------------------------
+[BEFORE] /etc/ppp/options.pptp : 644
+[AFTER]  /etc/ppp/options.pptp : 644
+----------------------------------------
+[BEFORE] /etc/ppp/ipv6-up.d : 755
+[AFTER]  /etc/ppp/ipv6-up.d : 755
+----------------------------------------
+[BEFORE] /etc/ppp/peers : 2750
+[ALERT] SetGID detected : /etc/ppp/peers
+[MISMATCH DIR] /etc/ppp/peers (2750 != 755)
+[AFTER]  /etc/ppp/peers : 755
+----------------------------------------
+[BEFORE] /etc/ppp/peers/provider : 640
+[MISMATCH FILE] /etc/ppp/peers/provider (640 != 644)
+[AFTER]  /etc/ppp/peers/provider : 644
+----------------------------------------
+[BEFORE] /etc/ppp/ip-up : 755
+[MISMATCH FILE] /etc/ppp/ip-up (755 != 644)
+[AFTER]  /etc/ppp/ip-up : 755
+----------------------------------------
+[BEFORE] /etc/ppp/options : 644
+[AFTER]  /etc/ppp/options : 644
+----------------------------------------
+[BEFORE] /etc/ppp/pap-secrets : 600
+[MISMATCH FILE] /etc/ppp/pap-secrets (600 != 644)
+[AFTER]  /etc/ppp/pap-secrets : 644
+----------------------------------------
+[BEFORE] /etc/ppp/ipv6-down.d : 755
+[AFTER]  /etc/ppp/ipv6-down.d : 755
+----------------------------------------
+[BEFORE] /etc/ppp/ip-up.d : 755
+[AFTER]  /etc/ppp/ip-up.d : 755
+----------------------------------------
+[BEFORE] /etc/ppp/ip-up.d/0000usepeerdns : 755
+[MISMATCH FILE] /etc/ppp/ip-up.d/0000usepeerdns (755 != 644)
+[AFTER]  /etc/ppp/ip-up.d/0000usepeerdns : 755
+----------------------------------------
+[BEFORE] /etc/timezone : 644
+[AFTER]  /etc/timezone : 644
+----------------------------------------
+[BEFORE] /etc/netplan : 755
+[AFTER]  /etc/netplan : 755
+----------------------------------------
+[BEFORE] /etc/netplan/01-network-manager-all.yaml : 644
+[AFTER]  /etc/netplan/01-network-manager-all.yaml : 644
+----------------------------------------
+[BEFORE] /etc/binfmt.d : 755
+[AFTER]  /etc/binfmt.d : 755
+----------------------------------------
+[BEFORE] /etc/magic.mime : 644
+[AFTER]  /etc/magic.mime : 644
+----------------------------------------
+[BEFORE] /etc/calendar : 755
+[AFTER]  /etc/calendar : 755
+----------------------------------------
+[BEFORE] /etc/calendar/default : 644
+[AFTER]  /etc/calendar/default : 644
+----------------------------------------
+[BEFORE] /etc/ucf.conf : 644
+[AFTER]  /etc/ucf.conf : 644
+----------------------------------------
+[BEFORE] /etc/ltrace.conf : 644
+[AFTER]  /etc/ltrace.conf : 644
+----------------------------------------
+[BEFORE] /etc/ModemManager : 755
+[AFTER]  /etc/ModemManager : 755
+----------------------------------------
+[BEFORE] /etc/ModemManager/fcc-unlock.d : 755
+[AFTER]  /etc/ModemManager/fcc-unlock.d : 755
+----------------------------------------
+[BEFORE] /etc/pki : 755
+[AFTER]  /etc/pki : 755
+----------------------------------------
+[BEFORE] /etc/pki/fwupd : 755
+[AFTER]  /etc/pki/fwupd : 755
+----------------------------------------
+[BEFORE] /etc/pki/fwupd/GPG-KEY-Linux-Foundation-Firmware : 644
+[AFTER]  /etc/pki/fwupd/GPG-KEY-Linux-Foundation-Firmware : 644
+----------------------------------------
+[BEFORE] /etc/pki/fwupd/LVFS-CA.pem : 644
+[AFTER]  /etc/pki/fwupd/LVFS-CA.pem : 644
+----------------------------------------
+[BEFORE] /etc/pki/fwupd/GPG-KEY-Linux-Vendor-Firmware-Service : 644
+[AFTER]  /etc/pki/fwupd/GPG-KEY-Linux-Vendor-Firmware-Service : 644
+----------------------------------------
+[BEFORE] /etc/pki/fwupd-metadata : 755
+[AFTER]  /etc/pki/fwupd-metadata : 755
+----------------------------------------
+[BEFORE] /etc/pki/fwupd-metadata/LVFS-CA.pem : 644
+[AFTER]  /etc/pki/fwupd-metadata/LVFS-CA.pem : 644
+----------------------------------------
+[BEFORE] /etc/pki/fwupd-metadata/GPG-KEY-Linux-Foundation-Metadata : 644
+[AFTER]  /etc/pki/fwupd-metadata/GPG-KEY-Linux-Foundation-Metadata : 644
+----------------------------------------
+[BEFORE] /etc/pki/fwupd-metadata/GPG-KEY-Linux-Vendor-Firmware-Service : 644
+[AFTER]  /etc/pki/fwupd-metadata/GPG-KEY-Linux-Vendor-Firmware-Service : 644
+----------------------------------------
+[BEFORE] /etc/ldap : 755
+[AFTER]  /etc/ldap : 755
+----------------------------------------
+[BEFORE] /etc/ldap/ldap.conf : 644
+[AFTER]  /etc/ldap/ldap.conf : 644
+----------------------------------------
+[BEFORE] /etc/ca-certificates.conf.dpkg-old : 644
+[AFTER]  /etc/ca-certificates.conf.dpkg-old : 644
+----------------------------------------
+[BEFORE] /etc/libao.conf : 644
+[AFTER]  /etc/libao.conf : 644
+----------------------------------------
+[BEFORE] /etc/kerneloops.conf : 644
+[AFTER]  /etc/kerneloops.conf : 644
+----------------------------------------
+[BEFORE] /etc/nanorc : 644
+[AFTER]  /etc/nanorc : 644
+----------------------------------------
+[BEFORE] /etc/crontab : 644
+[AFTER]  /etc/crontab : 644
+----------------------------------------
+[BEFORE] /etc/pulse : 755
+[AFTER]  /etc/pulse : 755
+----------------------------------------
+[BEFORE] /etc/pulse/client.conf.d : 755
+[AFTER]  /etc/pulse/client.conf.d : 755
+----------------------------------------
+[BEFORE] /etc/pulse/client.conf : 644
+[AFTER]  /etc/pulse/client.conf : 644
+----------------------------------------
+[BEFORE] /etc/pulse/system.pa : 644
+[AFTER]  /etc/pulse/system.pa : 644
+----------------------------------------
+[BEFORE] /etc/pulse/daemon.conf : 644
+[AFTER]  /etc/pulse/daemon.conf : 644
+----------------------------------------
+[BEFORE] /etc/pulse/default.pa : 644
+[AFTER]  /etc/pulse/default.pa : 644
+----------------------------------------
+[BEFORE] /etc/passwd : 644
+[AFTER]  /etc/passwd : 644
+----------------------------------------
+[BEFORE] /etc/debconf.conf : 644
+[AFTER]  /etc/debconf.conf : 644
+----------------------------------------
+[BEFORE] /etc/init : 755
+[AFTER]  /etc/init : 755
+----------------------------------------
+[BEFORE] /etc/init/whoopsie.conf : 644
+[AFTER]  /etc/init/whoopsie.conf : 644
+----------------------------------------
+[BEFORE] /etc/ca-certificates : 755
+[AFTER]  /etc/ca-certificates : 755
+----------------------------------------
+[BEFORE] /etc/ca-certificates/update.d : 755
+[AFTER]  /etc/ca-certificates/update.d : 755
+----------------------------------------
+[BEFORE] /etc/update-manager : 755
+[AFTER]  /etc/update-manager : 755
+----------------------------------------
+[BEFORE] /etc/update-manager/release-upgrades : 644
+[AFTER]  /etc/update-manager/release-upgrades : 644
+----------------------------------------
+[BEFORE] /etc/update-manager/release-upgrades.d : 755
+[AFTER]  /etc/update-manager/release-upgrades.d : 755
+----------------------------------------
+[BEFORE] /etc/update-manager/release-upgrades.d/ubuntu-advantage-upgrades.cfg : 644
+[AFTER]  /etc/update-manager/release-upgrades.d/ubuntu-advantage-upgrades.cfg : 644
+----------------------------------------
+[BEFORE] /etc/update-manager/meta-release : 644
+[AFTER]  /etc/update-manager/meta-release : 644
+----------------------------------------
+[BEFORE] /etc/shadow : 640
+[MISMATCH FILE] /etc/shadow (640 != 644)
+[AFTER]  /etc/shadow : 644
+----------------------------------------
+[BEFORE] /etc/ubuntu-advantage : 755
+[AFTER]  /etc/ubuntu-advantage : 755
+----------------------------------------
+[BEFORE] /etc/ubuntu-advantage/uaclient.conf : 644
+[AFTER]  /etc/ubuntu-advantage/uaclient.conf : 644
+----------------------------------------
+[BEFORE] /etc/ubuntu-advantage/help_data.yaml : 644
+[AFTER]  /etc/ubuntu-advantage/help_data.yaml : 644
+----------------------------------------
+[BEFORE] /etc/manpath.config : 644
+[AFTER]  /etc/manpath.config : 644
+----------------------------------------
+[BEFORE] /etc/machine-id : 444
+[MISMATCH FILE] /etc/machine-id (444 != 644)
+[AFTER]  /etc/machine-id : 644
+----------------------------------------
+[BEFORE] /etc/deluser.conf : 644
+[AFTER]  /etc/deluser.conf : 644
+----------------------------------------
+[BEFORE] /etc/environment.d : 755
+[AFTER]  /etc/environment.d : 755
+----------------------------------------
+[BEFORE] /etc/environment.d/90atk-adaptor.conf : 644
+[AFTER]  /etc/environment.d/90atk-adaptor.conf : 644
+----------------------------------------
+[BEFORE] /etc/environment.d/90qt-a11y.conf : 644
+[AFTER]  /etc/environment.d/90qt-a11y.conf : 644
+----------------------------------------
+[BEFORE] /etc/gnome : 755
+[AFTER]  /etc/gnome : 755
+----------------------------------------
+[BEFORE] /etc/gnome/defaults.list : 644
+[AFTER]  /etc/gnome/defaults.list : 644
+----------------------------------------
+[BEFORE] /etc/gnome/menus.blacklist : 644
+[AFTER]  /etc/gnome/menus.blacklist : 644
+----------------------------------------
+[BEFORE] /etc/localtime : 777
+[ALERT] World-writable detected : /etc/localtime
+[MISMATCH FILE] /etc/localtime (777 != 644)
+[AFTER]  /etc/localtime : 777
+----------------------------------------
+[BEFORE] /etc/mailcap.order : 644
+[AFTER]  /etc/mailcap.order : 644
+----------------------------------------
+[BEFORE] /etc/apt : 755
+[AFTER]  /etc/apt : 755
+----------------------------------------
+[BEFORE] /etc/apt/sources.list : 664
+[MISMATCH FILE] /etc/apt/sources.list (664 != 644)
+[AFTER]  /etc/apt/sources.list : 644
+----------------------------------------
+[BEFORE] /etc/apt/sources.list.d : 755
+[AFTER]  /etc/apt/sources.list.d : 755
+----------------------------------------
+[BEFORE] /etc/apt/sources.list.d/vscode.sources : 644
+[AFTER]  /etc/apt/sources.list.d/vscode.sources : 644
+----------------------------------------
+[BEFORE] /etc/apt/auth.conf.d : 755
+[AFTER]  /etc/apt/auth.conf.d : 755
+----------------------------------------
+[BEFORE] /etc/apt/preferences.d : 755
+[AFTER]  /etc/apt/preferences.d : 755
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d : 755
+[AFTER]  /etc/apt/apt.conf.d : 755
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/00trustcdrom : 664
+[MISMATCH FILE] /etc/apt/apt.conf.d/00trustcdrom (664 != 644)
+[AFTER]  /etc/apt/apt.conf.d/00trustcdrom : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/10periodic : 644
+[AFTER]  /etc/apt/apt.conf.d/10periodic : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/20apt-esm-hook.conf : 644
+[AFTER]  /etc/apt/apt.conf.d/20apt-esm-hook.conf : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/60icons : 644
+[AFTER]  /etc/apt/apt.conf.d/60icons : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/20archive : 644
+[AFTER]  /etc/apt/apt.conf.d/20archive : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/00aptitude : 664
+[MISMATCH FILE] /etc/apt/apt.conf.d/00aptitude (664 != 644)
+[AFTER]  /etc/apt/apt.conf.d/00aptitude : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/01-vendor-ubuntu : 644
+[AFTER]  /etc/apt/apt.conf.d/01-vendor-ubuntu : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/15update-stamp : 644
+[AFTER]  /etc/apt/apt.conf.d/15update-stamp : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/20dbus : 644
+[AFTER]  /etc/apt/apt.conf.d/20dbus : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/20packagekit : 644
+[AFTER]  /etc/apt/apt.conf.d/20packagekit : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/70debconf : 644
+[AFTER]  /etc/apt/apt.conf.d/70debconf : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/01autoremove : 644
+[AFTER]  /etc/apt/apt.conf.d/01autoremove : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/20auto-upgrades : 644
+[AFTER]  /etc/apt/apt.conf.d/20auto-upgrades : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/99update-notifier : 644
+[AFTER]  /etc/apt/apt.conf.d/99update-notifier : 644
+----------------------------------------
+[BEFORE] /etc/apt/apt.conf.d/50command-not-found : 644
+[AFTER]  /etc/apt/apt.conf.d/50command-not-found : 644
+----------------------------------------

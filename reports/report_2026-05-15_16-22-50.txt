@@ -1,0 +1,147 @@
+===== SCAN START Fri 15 May 2026 04:23:03 PM EDT =====
+===== SECURITY ANALYSIS =====
+Risk Score : 0
+Risk Level : LOW
+Critical Issues : 0
+===== SUMMARY =====
+Total scanned : 0
+Files with issues : 0
+Issues found : 0
+Fixes applied : 0
+===== SCAN END Fri 15 May 2026 04:23:03 PM EDT =====
+===== SENSITIVE FILES ANALYSIS =====
+[CHECK] /etc/passwd
+Expected Permission : 644
+Actual Permission   : 644
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/shadow
+Expected Permission : 640
+Actual Permission   : 640
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/group
+Expected Permission : 644
+Actual Permission   : 644
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/gshadow
+Expected Permission : 640
+Actual Permission   : 640
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/sudoers
+Expected Permission : 440
+Actual Permission   : 440
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+===== SCAN START Fri 15 May 2026 04:25:21 PM EDT =====
+[BEFORE] /home/ali/permission_scanner/test : 755
+[AFTER]  /home/ali/permission_scanner/test : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/badfile2 : 644
+[AFTER]  /home/ali/permission_scanner/test/badfile2 : 644
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/baddir : 755
+[AFTER]  /home/ali/permission_scanner/test/baddir : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/badfile : 755
+[MISMATCH FILE] /home/ali/permission_scanner/test/badfile (755 != 644)
+[AFTER]  /home/ali/permission_scanner/test/badfile : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/suidfile : 755
+[MISMATCH FILE] /home/ali/permission_scanner/test/suidfile (755 != 644)
+[AFTER]  /home/ali/permission_scanner/test/suidfile : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/sgidfile : 755
+[MISMATCH FILE] /home/ali/permission_scanner/test/sgidfile (755 != 644)
+[AFTER]  /home/ali/permission_scanner/test/sgidfile : 755
+----------------------------------------
+===== SECURITY ANALYSIS =====
+Risk Score : 15
+Risk Level : LOW
+Critical Issues : 0
+===== SUMMARY =====
+Total scanned : 6
+Files with issues : 3
+Issues found : 3
+Fixes applied : 3
+===== SCAN END Fri 15 May 2026 04:25:21 PM EDT =====
+===== SENSITIVE FILES ANALYSIS =====
+[CHECK] /etc/passwd
+Expected Permission : 644
+Actual Permission   : 644
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/shadow
+Expected Permission : 640
+Actual Permission   : 640
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/group
+Expected Permission : 644
+Actual Permission   : 644
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/gshadow
+Expected Permission : 640
+Actual Permission   : 640
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/sudoers
+Expected Permission : 440
+Actual Permission   : 440
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+===== SCAN START Fri 15 May 2026 04:25:36 PM EDT =====
+===== SECURITY ANALYSIS =====
+Risk Score : 0
+Risk Level : LOW
+Critical Issues : 0
+===== SUMMARY =====
+Total scanned : 0
+Files with issues : 0
+Issues found : 0
+Fixes applied : 0
+===== SCAN END Fri 15 May 2026 04:25:36 PM EDT =====
+===== SENSITIVE FILES ANALYSIS =====
+[CHECK] /etc/passwd
+Expected Permission : 644
+Actual Permission   : 644
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/shadow
+Expected Permission : 640
+Actual Permission   : 640
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/group
+Expected Permission : 644
+Actual Permission   : 644
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/gshadow
+Expected Permission : 640
+Actual Permission   : 640
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------
+[CHECK] /etc/sudoers
+Expected Permission : 440
+Actual Permission   : 440
+Expected Owner      : root
+Actual Owner        : root
+----------------------------------------

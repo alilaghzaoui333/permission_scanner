@@ -1,0 +1,11 @@
+[15:47:07] [FIX] Directory permission fixed: ./test
+[15:47:07] [FIX] Removed world-write: ./test/badfile2
+[15:47:07] [FIX] File permission fixed: ./test/badfile2
+[15:47:07] [FIX] Removed world-write: ./test/baddir
+[15:47:07] [FIX] Directory permission fixed: ./test/baddir
+[15:47:07] [FIX] Removed world-write: ./test/badfile
+[15:47:07] [FIX] Executable permission fixed: ./test/badfile
+[15:47:07] [FIX] Removed SetUID: ./test/suidfile
+[15:47:07] [FIX] Executable permission fixed: ./test/suidfile
+[15:47:07] [FIX] Removed SetGID: ./test/sgidfile
+[15:47:07] [FIX] Executable permission fixed: ./test/sgidfile

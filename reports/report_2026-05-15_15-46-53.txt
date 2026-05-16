@@ -1,0 +1,40 @@
+===== SCAN START Fri 15 May 2026 03:47:07 PM EDT =====
+[BEFORE] ./test : 775
+[MISMATCH DIR] ./test (775 != 755)
+[AFTER]  ./test : 755
+----------------------------------------
+[BEFORE] ./test/badfile2 : 666
+[ALERT] World-writable detected: ./test/badfile2
+[MISMATCH FILE] ./test/badfile2 (666 != 644)
+[AFTER]  ./test/badfile2 : 644
+----------------------------------------
+[BEFORE] ./test/baddir : 777
+[ALERT] World-writable detected: ./test/baddir
+[MISMATCH DIR] ./test/baddir (777 != 755)
+[AFTER]  ./test/baddir : 755
+----------------------------------------
+[BEFORE] ./test/badfile : 777
+[ALERT] World-writable detected: ./test/badfile
+[MISMATCH FILE] ./test/badfile (777 != 644)
+[AFTER]  ./test/badfile : 755
+----------------------------------------
+[BEFORE] ./test/suidfile : 4755
+[ALERT] SetUID detected: ./test/suidfile
+[MISMATCH FILE] ./test/suidfile (4755 != 644)
+[AFTER]  ./test/suidfile : 755
+----------------------------------------
+[BEFORE] ./test/sgidfile : 2755
+[ALERT] SetGID detected: ./test/sgidfile
+[MISMATCH FILE] ./test/sgidfile (2755 != 644)
+[AFTER]  ./test/sgidfile : 755
+----------------------------------------
+===== SECURITY ANALYSIS =====
+Risk Score : 100
+Risk Level : CRITICAL
+Critical Issues : 2
+===== SUMMARY =====
+Total scanned : 6
+Files with issues : 6
+Issues found : 11
+Fixes applied : 11
+===== SCAN END Fri 15 May 2026 03:47:07 PM EDT =====
