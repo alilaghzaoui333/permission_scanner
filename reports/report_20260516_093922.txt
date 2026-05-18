@@ -1,0 +1,44 @@
+===== SCAN START Sat 16 May 2026 09:39:23 AM EDT =====
+[BEFORE] /home/ali/permission_scanner/test : 755
+[AFTER]  /home/ali/permission_scanner/test : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/badfile2 : 644
+[AFTER]  /home/ali/permission_scanner/test/badfile2 : 644
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/baddir : 755
+[AFTER]  /home/ali/permission_scanner/test/baddir : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/badfile : 644
+[AFTER]  /home/ali/permission_scanner/test/badfile : 644
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/suidfile : 644
+[AFTER]  /home/ali/permission_scanner/test/suidfile : 644
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/demo : 775
+[MISMATCH DIR] /home/ali/permission_scanner/test/demo (775 != 755)
+[AFTER]  /home/ali/permission_scanner/test/demo : 755
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/demo/file1 : 777
+[ALERT] World-writable detected : /home/ali/permission_scanner/test/demo/file1
+[MISMATCH FILE] /home/ali/permission_scanner/test/demo/file1 (777 != 644)
+[AFTER]  /home/ali/permission_scanner/test/demo/file1 : 644
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/demo/file2 : 664
+[MISMATCH FILE] /home/ali/permission_scanner/test/demo/file2 (664 != 644)
+[AFTER]  /home/ali/permission_scanner/test/demo/file2 : 644
+----------------------------------------
+[BEFORE] /home/ali/permission_scanner/test/sgidfile : 644
+[AFTER]  /home/ali/permission_scanner/test/sgidfile : 644
+----------------------------------------
+===== SECURITY ANALYSIS =====
+Risk Score : 16
+Risk Level : LOW
+Critical Issues : 1
+SetUID Files : 0
+SetGID Files : 0
+===== SUMMARY =====
+Total scanned : 9
+Files with issues : 3
+Issues found : 4
+Fixes applied : 4
+===== SCAN END Sat 16 May 2026 09:39:23 AM EDT =====

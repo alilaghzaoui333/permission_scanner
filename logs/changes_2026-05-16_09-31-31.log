@@ -1,0 +1,3 @@
+[09:31:36] [FIX] File permission fixed : /home/ali/permission_scanner/test/badfile
+[09:31:36] [FIX] File permission fixed : /home/ali/permission_scanner/test/suidfile
+[09:31:36] [FIX] File permission fixed : /home/ali/permission_scanner/test/sgidfile

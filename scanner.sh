@@ -13,6 +13,7 @@ source modules/logging_module.sh
 source modules/scoring_module.sh
 source modules/dashboard_module.sh
 source modules/scanner_module.sh
+source modules/baseline_module.sh
 
 validate_dependencies
 validate_policy
@@ -20,6 +21,7 @@ validate_policy
 mkdir -p "$LOG_DIR"
 mkdir -p "$REPORT_DIR"
 mkdir -p "$SIGNATURE_DIR"
+mkdir -p baseline/snapshots
 
 init_logging
 
@@ -179,9 +181,26 @@ RISK_SCORE=0
 CRITICAL_ISSUES=0
 RISK_LEVEL="LOW"
 
+BASELINE_ENABLED=$(jq -r '.baseline_enabled' "$POLICY")
+
+if [ "$BASELINE_ENABLED" = "true" ]; then
+
+    if [ ! -s "$BASELINE_FILE" ]; then
+
+        generate_baseline
+
+    fi
+fi
+
 clear
 
 scan_filesystem
+
+if [ "$BASELINE_ENABLED" = "true" ]; then
+
+    compare_with_baseline
+
+fi
 
 whiptail \
 --title "Scan Finished" \

@@ -1,0 +1,9 @@
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/sudoers
+/etc/fstab
+/etc/sysctl.conf
+/etc/crontab
+/etc/ssh
+/etc/pam.d

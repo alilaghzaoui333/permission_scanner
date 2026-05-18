@@ -1,0 +1,4 @@
+[09:39:23] [FIX] Directory permission fixed : /home/ali/permission_scanner/test/demo
+[09:39:23] [FIX] Removed world-write : /home/ali/permission_scanner/test/demo/file1
+[09:39:23] [FIX] File permission fixed : /home/ali/permission_scanner/test/demo/file1
+[09:39:23] [FIX] File permission fixed : /home/ali/permission_scanner/test/demo/file2

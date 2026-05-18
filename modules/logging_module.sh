@@ -1,5 +1,6 @@
 #!/bin/bash
 
+LOG_ENABLED=true
 init_logging() {
 
     mkdir -p "$LOG_DIR" "$REPORT_DIR" "$SIGNATURE_DIR"
